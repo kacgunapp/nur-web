@@ -26,7 +26,7 @@
   <h1>Gizlilik Politikası</h1>
   <p class="tarih">Yürürlük tarihi: 25 Eylül 2026</p>
 
-  <p>Bu politika, iOS için Nur: Namaz Vakti ve Kur'an uygulamasının (“Nur”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Nur senden kişisel veri toplamaz ve kimseyle paylaşmaz.</p>
+  <p>Bu politika, iOS için Nur: Namaz Vakti ve Kur'an uygulamasının (“Nur”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Nur'un bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.</p>
 
   <h2>Hesap yok</h2>
   <p>Nur'u kullanmak için hesap açman, giriş yapman ya da e-posta, telefon gibi bilgiler vermen gerekmez. Uygulamanın bir sunucusu yoktur.</p>
@@ -40,10 +40,17 @@
 
   <h2>Konum</h2>
   <p>Konum iznini verirsen konumun namaz vakitlerini ve kıble yönünü hesaplamak için cihazında kullanılır. Konum iznini vermezsen şehrini listeden seçebilirsin.</p>
-  <p>“Yakın camiler” ekranını açtığında, yakındaki camileri bulmak için konumun yaklaşık 1 km'ye yuvarlanarak (iki ondalık basamak) OpenStreetMap Overpass hizmetine gönderilir. Bu istekle birlikte kimliğini belirten hiçbir bilgi gönderilmez. Konumla bulunan şehir de cihazda aynı hassasiyetle, yaklaşık 1 km'ye yuvarlanmış olarak saklanır.</p>
+  <p>“Yakın camiler” ekranını açtığında, yakındaki camileri bulmak için konumun yaklaşık 1 km'ye yuvarlanarak (iki ondalık basamak) OpenStreetMap Overpass hizmetine gönderilir. Her internet isteğinde olduğu gibi IP adresin de bu hizmete ulaşır; bunun dışında seni tanımlayan bir bilgi gönderilmez. Konumla bulunan şehir cihazda da aynı hassasiyetle, yaklaşık 1 km'ye yuvarlanmış olarak saklanır.</p>
+
+  <h2>Harita ve yol tarifi (Apple Haritalar)</h2>
+  <p>“Yakın camiler” ve “Kâbe” ekranlarındaki haritalar Apple Haritalar ile gösterilir. Harita görüntüleri, ekranda gösterilen bölge için Apple'dan yüklenir; konum iznin varsa harita üzerinde konumun da gösterilir. Bu hizmet Apple'ın gizlilik politikasına tabidir.</p>
+  <p>Bir caminin “Yol tarifi” düğmesine dokunduğunda caminin adı ve koordinatıyla Apple Haritalar açılır; rota Apple Haritalar'da hesaplanır. Bu yalnız sen dokunduğunda olur.</p>
 
   <h2>Kur'an sesleri</h2>
-  <p>Ayet sesleri EveryAyah hizmetinden indirilir. Bu sırada internet bağlantısının doğası gereği IP adresin dışında bir veri gönderilmez.</p>
+  <p>Ayet sesleri EveryAyah hizmetinden (everyayah.com) çalınır ya da cihaza indirilir. Her istekte bu hizmete şunlar ulaşır: IP adresin, istenen dosyanın adresi (hangi kârinin hangi sûre ve ayetinin dinlendiği) ve uygulamanın ve iOS sürümünün yer aldığı standart tarayıcı kimliği (User-Agent). Başka bir bilgi gönderilmez. Cihaza indirilen sesler ağ olmadan çalar.</p>
+
+  <h2>Paylaşım</h2>
+  <p>“İlerlememi paylaş” düğmesine dokunduğunda ilerleme özetin (seri, hedef, namaz ve zikir sayıları) iOS paylaşım menüsüyle açılır. Metin yalnız senin seçtiğin uygulamaya ya da kişiye gider; Nur kendiliğinden hiçbir şey paylaşmaz.</p>
 
   <h2>Bildirimler</h2>
   <p>Vakit bildirimleri ve hatırlatmalar cihazında yerel olarak planlanır. Uzaktan (push) bildirim kullanılmaz; bildirim için hiçbir sunucuya kayıt yapılmaz.</p>
