@@ -1,0 +1,101 @@
+/* Nur — tanıtım sitesi. Dış kaynak yok; sistem yazı tipleri. */
+:root {
+  --mor: #2A1750;
+  --altin: #E7B23C;
+  --bg: #FBF8F2;
+  --bg2: #F2ECE0;
+  --yuzey: #FFFFFF;
+  --metin: #1E1433;
+  --soluk: #564B6B;
+  --cizgi: rgba(42, 23, 80, .14);
+  --vurgu: #8A5E0B;          /* açık zeminde altın metin: 4.5:1 üstü */
+  --baslik-bg: var(--mor);
+  --baslik-metin: #FFF8E7;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #150B2B;
+    --bg2: #1D1138;
+    --yuzey: #241645;
+    --metin: #F4EFFF;
+    --soluk: #C3B8DA;
+    --cizgi: rgba(231, 178, 60, .22);
+    --vurgu: #E7B23C;
+    --baslik-bg: #1D1138;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--metin);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+a { color: var(--vurgu); text-underline-offset: 3px; }
+a:focus-visible, summary:focus-visible { outline: 3px solid var(--altin); outline-offset: 3px; border-radius: 6px; }
+
+.ust {
+  background: var(--baslik-bg);
+  color: var(--baslik-metin);
+  border-bottom: 3px solid var(--altin);
+}
+.ust .ic { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding-top: 14px; padding-bottom: 14px; }
+.marka { display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none; font-weight: 800; font-size: 19px; }
+.marka img { width: 36px; height: 36px; border-radius: 9px; }
+nav { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; }
+nav a {
+  color: var(--baslik-metin); text-decoration: none; font-weight: 600; font-size: 15px;
+  padding: 10px 12px; min-height: 44px; display: inline-flex; align-items: center; border-radius: 10px;
+}
+nav a[aria-current="page"] { background: rgba(231, 178, 60, .18); color: #FFE3A3; }
+
+.ic { max-width: 880px; margin: 0 auto; padding-left: 20px; padding-right: 20px; }
+main.ic { padding-top: 28px; padding-bottom: 48px; }
+
+.kahraman { text-align: center; padding: 34px 0 10px; }
+.kahraman img { width: 116px; height: 116px; border-radius: 26px; box-shadow: 0 10px 30px rgba(42, 23, 80, .25); }
+h1 { font-size: clamp(28px, 6vw, 40px); line-height: 1.2; margin: 18px 0 10px; }
+h2 { font-size: 23px; margin: 36px 0 12px; }
+h3 { font-size: 18px; margin: 0 0 4px; }
+.giris { font-size: 19px; color: var(--soluk); max-width: 640px; margin: 0 auto; }
+.rozet {
+  display: inline-block; margin-top: 18px; padding: 8px 14px; border-radius: 999px;
+  border: 1px solid var(--cizgi); color: var(--soluk); font-size: 14px; background: var(--bg2);
+}
+
+.izgara { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.kart {
+  background: var(--yuzey); border: 1px solid var(--cizgi); border-radius: 18px; padding: 18px;
+}
+.kart .ikon { font-size: 26px; line-height: 1; margin-bottom: 10px; }
+.kart p { margin: 0; color: var(--soluk); font-size: 15.5px; }
+
+.gizlilik {
+  margin-top: 36px; padding: 22px; border-radius: 20px;
+  background: var(--mor); color: #FFF8E7; border: 1px solid rgba(231, 178, 60, .45);
+}
+.gizlilik h2 { margin-top: 0; color: #FFE3A3; }
+.gizlilik ul { margin: 0; padding-left: 20px; }
+.gizlilik li { margin: 6px 0; }
+.gizlilik a { color: #FFE3A3; }
+
+details {
+  background: var(--yuzey); border: 1px solid var(--cizgi); border-radius: 16px;
+  padding: 0 18px; margin: 10px 0;
+}
+summary { cursor: pointer; font-weight: 700; padding: 14px 0; min-height: 44px; list-style-position: outside; }
+details[open] summary { border-bottom: 1px solid var(--cizgi); margin-bottom: 10px; }
+details > :last-child { margin-bottom: 16px; }
+ol, ul { padding-left: 22px; }
+
+.iletisim { background: var(--bg2); border-radius: 18px; padding: 20px; margin-top: 30px; }
+
+.belge h2 { font-size: 20px; margin-top: 30px; }
+.tarih { color: var(--soluk); font-size: 15px; }
+
+footer { border-top: 1px solid var(--cizgi); color: var(--soluk); font-size: 14px; }
+footer .ic { padding-top: 20px; padding-bottom: 28px; display: flex; gap: 14px; flex-wrap: wrap; }
+footer a { color: var(--soluk); }
