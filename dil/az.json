@@ -1,0 +1,202 @@
+{
+  "kod": "az",
+  "ad": "Azərbaycanca",
+  "yon": "ltr",
+  "baslik": "Nur: Namaz Vaxtı və Quran",
+  "metaAciklama": "Namaz vaxtları, 3D namaz təlimi, Quran oxuma və dinləmə, qiblə, təsbeh sayğacı. Hesab yoxdur, reklam yoxdur, məlumat toplamır.",
+  "nav": {
+    "tanitim": "Tanıtım",
+    "destek": "Dəstək",
+    "gizlilik": "Məxfilik",
+    "dil": "Dil"
+  },
+  "kahraman": {
+    "simgeAlt": "Nur tətbiq simgesi: qızılı açıq kitab və üstündə nur",
+    "giris": "İbadəti müntəzəm etməyi asanlaşdıran sadə bir köməkçi. Uşaq və böyük rejimi var; hesab istəmir, reklam göstərmir, məlumat toplamır.",
+    "rozet": "iOS üçün · tezliklə App Store-da"
+  },
+  "nelerVar": "Nələr var?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Namaz vaxtları",
+      "p": "Diyanet daxil 12 hesablama üsulu, yüksək enlik qaydaları, vaxt bildirişləri və aylıq namaz cədvəli."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D namaz və dəstəmaz",
+      "p": "Kişi, qadın və uşaq fiquru ilə addım-addım hərəkətlər; hər tərəfdən fırladıla bilər, duaları ilə birlikdə."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Quran",
+      "p": "114 surə, səhifə-səhifə oxuma, oxunuş, beş qaridən ayə-ayə dinləmə, əlfəcin və xətm planı."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qiblə",
+      "p": "Kompas və xəritə birlikdə: Kəbə istiqaməti, düz xətt üzrə məsafə və yaxın məscidlər."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Təsbeh sayğacı",
+      "p": "Təsbeh dənələri ilə sayğac; fərqli təsbeh materialları və toxunuşda yüngül titrəyiş."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Alətlər",
+      "p": "Zəkat və fitrə hesabı, hicri təqvim və mübarək günlər, səhur, təhəccüd və cümə xatırlatmaları."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Vidcet",
+      "p": "Əsas ekranda növbəti vaxt və günün tapşırıqları; toxunanda uyğun bölmə açılır."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Məxfiliyin səndə qalır",
+    "maddeler": [
+      "Hesab, giriş və ya server yoxdur.",
+      "Reklam, analitika və izləmə yoxdur.",
+      "İrəliləyişin və ayarların yalnız cihazında qalır.",
+      "Məkanın vaxt və qiblə üçün cihazda istifadə olunur; yaxın məscid axtarışında yalnız təxminən 1 km-ə yuvarlaqlaşdırılmış halı göndərilir."
+    ],
+    "tamMetin": "Məxfilik siyasətinin tam mətni"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Bu tərcümə məlumat məqsədlidir; fikir ayrılığı olduqda türkcə mətn əsas götürülür.",
+  "destek": {
+    "h1": "Dəstək",
+    "giris": "Tez-tez qarşılaşılan hallar və həlləri aşağıdadır. Cavabını tapmasan, bizə yaz.",
+    "sssBaslik": "Tez-tez verilən suallar",
+    "sss": [
+      {
+        "soru": "Namaz vaxtları səhv görünür",
+        "giris": "Vaxtlar seçilmiş məkana və hesablama üsuluna görə hesablanır. Sırayla bunlara bax:",
+        "adimlar": [
+          "<strong>Məkan:</strong> Mən bölməsi › Məkan. “Məkanımı avtomatik tap”a toxun və ya siyahıdan şəhərini seç. Başqa şəhər seçilibsə, vaxtlar o şəhərə görə gəlir.",
+          "<strong>Hesablama üsulu:</strong> Mən bölməsi › Hesablama üsulu. Türkiyə üçün Diyanət İşləri Başqanlığını seç; “Şəhərə görə avtomatik” də olduğun ölkənin üsulunu seçir.",
+          "<strong>Əsr vaxtı:</strong> Eyni ekranda Əsri-əvvəl (Diyanet) və ya Əsri-sani seçimini yoxla; ikisi arasında bir saata yaxın fərq ola bilər.",
+          "<strong>Hicri tarix:</strong> Hicri təqvim bir gün sürüşürsə, Alətlər › Hicri təqvim bölməsindən ±2 günlük düzəliş verə bilərsən."
+        ],
+        "son": "Rəsmi təqvimlə bir neçə dəqiqəlik fərq ehtiyat payından qaynaqlana bilər və normaldır."
+      },
+      {
+        "soru": "Bildiriş gəlmir",
+        "adimlar": [
+          "iPhone-da <strong>Ayarlar › Bildirişlər › Nur</strong> yolunu aç; “Bildirişlərə icazə ver” açıq olmalıdır.",
+          "Fokus (Narahat etməyin, Yuxu) rejimi açıqdırsa, Nur-u icazə verilən tətbiqlərə əlavə et.",
+          "Tətbiqdə <strong>Mən bölməsi › Azan bildirişi</strong> açıq olmalıdır. Səhur, təhəccüd və cümə xatırlatmaları üçün <strong>Alətlər › Xatırlatmalar</strong>.",
+          "Məkanı dəyişəndə bildirişlər yeni vaxtlara görə özü yenidən qurulur.",
+          "iOS bir tətbiqin əvvəlcədən qura biləcəyi bildiriş sayını məhdudlaşdırır; Nur təxminən bir həftəlik vaxtı planlaşdırır. Tətbiqi ən azı həftədə bir dəfə açsan, bildirişlər fasiləsiz davam edir."
+        ]
+      },
+      {
+        "soru": "Qiblə istiqaməti sapır",
+        "adimlar": [
+          "Telefonu havada bir neçə dəfə “8” çəkəcək şəkildə fırladaraq kompası kalibrlə.",
+          "Maqnitli qabıqdan, dinamikdən, metal masadan və ya elektron cihazlardan uzaqlaş; bunlar kompası sapdırır.",
+          "<strong>Ayarlar › Məxfilik və Təhlükəsizlik › Məkan Xidmətləri › Sistem Xidmətləri › Kompas Kalibrləməsi</strong> açıq olsun.",
+          "Məkanın doğru olduğuna əmin ol: qiblə bucağı seçilmiş məkana görə hesablanır."
+        ]
+      },
+      {
+        "soru": "Quran səsi oxunmur və ya yüklənmir",
+        "adimlar": [
+          "Ayə səsləri internetdən gəlir. Wi-Fi və ya mobil bağlantını yoxla; Ayarlar › Mobil şəbəkə bölməsində Nur-un mobil məlumat icazəsi açıq olmalıdır.",
+          "Yükləmə yarımçıq qalıbsa, yenidən cəhd et: yarımçıq yüklənən fayllar silinir, yükləmə başdan tamamlanır.",
+          "Yüklənmiş surələr şəbəkəsiz oxunur. Quran oxu › oxuma ayarları bölməsindən yüklənənləri görə və silə bilərsən.",
+          "Dinləmə düyməsi yalnız Quran ayələrindən gələn dualarda var; digər dualarda düymə görünmür."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Əlaqə",
+    "iletisim": "Sual, təklif və ya xəta bildirişi üçün:",
+    "iletisimKonu": "Nur dəstək",
+    "iletisimNot": "Yazarkən iPhone modelini, iOS versiyasını və seçilmiş şəhərini əlavə etsən, daha tez kömək edə bilərik.",
+    "metaBaslik": "Nur Dəstək",
+    "metaAciklama": "Nur tətbiqi üçün tez-tez verilən suallar və əlaqə."
+  },
+  "gizlilik": {
+    "h1": "Məxfilik Siyasəti",
+    "tarih": "Qüvvəyə minmə tarixi: 27 sentyabr 2026",
+    "giris": "Bu siyasət iOS üçün Nur: Namaz Vaxtı və Quran tətbiqinin (“Nur”) hansı məlumatları necə istifadə etdiyini izah edir. Qısaca: Nur-un serveri yoxdur və səndən şəxsi məlumat toplamır. Bəzi funksiyalar işləmək üçün aşağıda tək-tək yazılmış üçüncü tərəf xidmətlərə sorğu göndərir.",
+    "bolumler": [
+      {
+        "h2": "Hesab yoxdur",
+        "p": [
+          "Nur-u istifadə etmək üçün hesab açmağa, giriş etməyə və ya e-poçt, telefon kimi məlumat verməyə ehtiyac yoxdur. Tətbiqin serveri yoxdur."
+        ]
+      },
+      {
+        "h2": "Reklam, analitika və izləmə yoxdur",
+        "p": [
+          "Nur reklam göstərmir; analitika, çökmə hesabatı və ya izləmə alətləri yoxdur. Səni tətbiqlər və veb-saytlar arasında izləmir, reklam identifikatoruna müraciət etmir."
+        ]
+      },
+      {
+        "h2": "Məlumatların cihazında qalır",
+        "p": [
+          "İstəyə bağlı yazdığın ad, seçdiyin şəhər, ayarların, namaz və tapşırıq irəliləyişin, Quran oxuma irəliləyişin və əlfəcinlərin yalnız cihazında saxlanılır. Açıqdırsa, bu məlumatlar iPhone-unun iCloud ehtiyat nüsxəsinə də daxil olur; bu ehtiyat nüsxə Apple hesabına aiddir və Nur tərəfindən oxuna bilməz. Yüklədiyin ayə səsləri də cihazında qalır, lakin yenidən yüklənə bildiyi üçün ehtiyat nüsxəyə daxil edilmir; iOS yer açmaq üçün onları silə bilər, lazım olanda yenidən yüklənir. Əsas ekran vidcetini açsan, vidcetin göstərə bilməsi üçün qısa xülasə (növbəti vaxt, günün tapşırıqları) yenə cihazındakı ortaq sahəyə yazılır.",
+          "İlk açılışda seçdiyin profil (uşaq, yetkin kişi və ya yetkin qadın; uşaqdırsa qız və ya oğlan) və məzhəb də yalnız cihazında saxlanılır; namaz izahı, fiqur və əsr vaxtının hesabı üçün istifadə olunur, heç yerə göndərilmir.",
+          "Tətbiqi siləndə cihazdakı bütün Nur məlumatları da silinir."
+        ]
+      },
+      {
+        "h2": "Xüsusi gün rejimi",
+        "p": [
+          "Qadın və qız uşağı profilində açıla bilən xüsusi gün rejimi və hansı günlərdə açıq olduğu məlumatı yalnız tətbiqin öz yaddaşında, cihazında saxlanılır. Bu məlumat heç bir serverə göndərilmir; əsas ekran vidcetinin oxuduğu ortaq sahəyə yazılmır, bildiriş mətnlərində yer almır və qeyd edilmir (loq saxlanılmır). Vidcet və bildirişlər xüsusi gün açıq olanda da, bağlı olanda da eynidir. Bağladığında keçmiş günlər yalnız ardıcıllıq hesabı üçün ən çoxu 90 gün cihazda qalır; tətbiqi siləndə bu məlumat da silinir. Açıqdırsa, digər tətbiq məlumatlarınla birlikdə iPhone-unun iCloud ehtiyat nüsxəsinə daxil olur."
+        ]
+      },
+      {
+        "h2": "Məkan",
+        "p": [
+          "Məkan icazəsi versən, məkanın namaz vaxtlarını və qiblə istiqamətini hesablamaq üçün cihazında istifadə olunur. Məkan icazəsi verməsən, şəhərini siyahıdan seçə bilərsən.",
+          "“Yaxın məscidlər” ekranını açanda yaxındakı məscidləri tapmaq üçün məkanın təxminən 1 km-ə yuvarlaqlaşdırılaraq (iki onluq rəqəm) OpenStreetMap Overpass xidmətinə göndərilir. Hər internet sorğusunda olduğu kimi IP ünvanın da bu xidmətə çatır; bundan başqa səni tanıdan məlumat göndərilmir. Məkanla tapılan şəhər cihazda da eyni dəqiqliklə, təxminən 1 km-ə yuvarlaqlaşdırılmış şəkildə saxlanılır. Məscid məlumatı © OpenStreetMap iştirakçıları (ODbL)."
+        ]
+      },
+      {
+        "h2": "Xəritə və istiqamət (Apple Xəritələr)",
+        "p": [
+          "“Yaxın məscidlər” və “Kəbə” ekranlarındakı xəritələr Apple Xəritələr ilə göstərilir. Xəritə təsvirləri ekranda göstərilən bölgə üçün Apple-dan yüklənir; məkan icazən varsa, xəritədə məkanın da göstərilir. Bu xidmət Apple-ın məxfilik siyasətinə tabedir.",
+          "Bir məscidin “İstiqamət” düyməsinə toxunanda məscidin adı və koordinatı ilə Apple Xəritələr açılır; marşrut Apple Xəritələrdə hesablanır. Bu yalnız sən toxunanda olur."
+        ]
+      },
+      {
+        "h2": "Quran səsləri",
+        "p": [
+          "Ayə səsləri Islamic Network xidmətindən (cdn.islamic.network) oxudulur və ya cihaza yüklənir. Hər sorğuda bu xidmətə bunlar çatır: IP ünvanın, istənilən faylın ünvanı (hansı qarinin hansı surə və ayəsinin dinlənildiyi) və tətbiqin və iOS versiyasının yer aldığı standart brauzer kimliyi (User-Agent). Başqa məlumat göndərilmir. Cihaza yüklənmiş səslər şəbəkəsiz oxunur. Qeydlərin müəllif hüquqları qarilərə məxsusdur; mənbə və istifadə şərtləri tətbiqdə Haqqında › Mənbələr və lisenziyalar bölməsindədir."
+        ]
+      },
+      {
+        "h2": "Paylaşım",
+        "p": [
+          "“İrəliləyişimi paylaş” düyməsinə toxunanda irəliləyiş xülasən (ardıcıllıq, hədəf, namaz və zikr sayları) iOS paylaşım menyusu ilə açılır. Mətn yalnız sənin seçdiyin tətbiqə və ya şəxsə gedir; Nur özbaşına heç nə paylaşmır."
+        ]
+      },
+      {
+        "h2": "Bildirişlər",
+        "p": [
+          "Vaxt bildirişləri və xatırlatmalar cihazında lokal olaraq planlaşdırılır. Uzaqdan (push) bildiriş istifadə olunmur; bildiriş üçün heç bir serverə qeydiyyat aparılmır."
+        ]
+      },
+      {
+        "h2": "Uşaqlar",
+        "p": [
+          "Nur-un uşaq rejimi var. Tətbiq heç bir istifadəçidən, uşaqlar daxil, şəxsi məlumat toplamadığı üçün uşaqlara xüsusi məlumat emalı da yoxdur."
+        ]
+      },
+      {
+        "h2": "Dəyişikliklər",
+        "p": [
+          "Bu siyasət dəyişərsə, güncəl versiya bu səhifədə yeni qüvvəyə minmə tarixi ilə dərc olunur."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Əlaqə",
+    "iletisim": "Suallar üçün:",
+    "iletisimKonu": "Nur məxfilik",
+    "metaBaslik": "Nur Məxfilik Siyasəti",
+    "metaAciklama": "Nur tətbiqinin məxfilik siyasəti: hesab yoxdur, reklam və izləmə yoxdur, məlumatlar cihazda qalır."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "kod": "en",
+  "ad": "English",
+  "yon": "ltr",
+  "baslik": "Nur: Prayer Times & Qur'an",
+  "metaAciklama": "Prayer times, 3D prayer lessons, Qur'an reading and listening, Qibla, dhikr counter. No account, no ads, no data collection.",
+  "nav": {
+    "tanitim": "Overview",
+    "destek": "Support",
+    "gizlilik": "Privacy",
+    "dil": "Language"
+  },
+  "kahraman": {
+    "simgeAlt": "Nur app icon: a golden open book with light above it",
+    "giris": "A simple companion that makes it easier to keep your worship regular. It has kids and adult modes; it asks for no account, shows no ads and collects no data.",
+    "rozet": "For iOS · coming soon to the App Store"
+  },
+  "nelerVar": "What's inside?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Prayer times",
+      "p": "12 calculation methods including Diyanet, high latitude rules, prayer time notifications and a monthly timetable."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D prayer and wudu",
+      "p": "Step-by-step movements with a man, woman or child figure; rotate to any angle, with the supplications alongside."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Qur'an",
+      "p": "114 surahs, page-by-page reading, transliteration, verse-by-verse listening from five reciters, bookmarks and a khatm plan."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Compass and map together: the direction of the Kaaba, the straight-line distance and nearby mosques."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Dhikr counter",
+      "p": "A counter with prayer beads; different bead materials and a light vibration on each tap."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Tools",
+      "p": "Zakat and fitra calculation, Hijri calendar and blessed days, suhoor, tahajjud and Jumu'ah reminders."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "The next prayer and today's tasks on your home screen; tap it to open the right section."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Your privacy stays with you",
+    "maddeler": [
+      "No account, sign-in or server.",
+      "No ads, analytics or tracking.",
+      "Your progress and settings stay only on your device.",
+      "Your location is used on the device for prayer times and the Qibla; for the nearby mosque search only a version rounded to about 1 km is sent."
+    ],
+    "tamMetin": "Read the full privacy policy"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "This translation is provided for information only; in case of any discrepancy, the Turkish text prevails.",
+  "destek": {
+    "h1": "Support",
+    "giris": "Common situations and their fixes are below. If you can't find your answer, write to us.",
+    "sssBaslik": "Frequently asked questions",
+    "sss": [
+      {
+        "soru": "Prayer times look wrong",
+        "giris": "Times are calculated from the selected location and calculation method. Check these in order:",
+        "adimlar": [
+          "<strong>Location:</strong> Me tab › Location. Tap “Find my location automatically” or pick your city from the list. If another city is selected, the times will be for that city.",
+          "<strong>Calculation method:</strong> Me tab › Calculation method. For Turkey choose Presidency of Religious Affairs (Diyanet); “Automatic by city” picks the method of the country you're in.",
+          "<strong>Asr time:</strong> On the same screen, check the Earlier Asr (Diyanet) or Later Asr choice; the two can differ by close to an hour.",
+          "<strong>Hijri date:</strong> If the Hijri calendar is off by a day, you can set a ±2 day correction in Tools › Hijri calendar."
+        ],
+        "son": "A difference of a few minutes from the official calendar can come from a safety margin and is normal."
+      },
+      {
+        "soru": "Notifications aren't arriving",
+        "adimlar": [
+          "On your iPhone open <strong>Settings › Notifications › Nur</strong>; “Allow Notifications” must be on.",
+          "If a Focus mode (Do Not Disturb, Sleep) is on, add Nur to the allowed apps.",
+          "In the app, <strong>Me tab › Adhan notification</strong> must be on. For suhoor, tahajjud and Jumu'ah reminders, see <strong>Tools › Reminders</strong>.",
+          "When you change your location, notifications are rescheduled automatically for the new times.",
+          "iOS limits how many notifications an app can schedule in advance; Nur plans about a week of prayer times. If you open the app at least once a week, notifications continue without interruption."
+        ]
+      },
+      {
+        "soru": "The Qibla direction drifts",
+        "adimlar": [
+          "Calibrate the compass by moving the phone through the air in a figure 8 a few times.",
+          "Move away from magnetic cases, speakers, metal tables or electronic devices; they throw the compass off.",
+          "Make sure <strong>Settings › Privacy & Security › Location Services › System Services › Compass Calibration</strong> is on.",
+          "Make sure your location is correct: the Qibla angle is calculated from the selected location."
+        ]
+      },
+      {
+        "soru": "Qur'an audio won't play or download",
+        "adimlar": [
+          "Verse audio comes from the internet. Check your Wi-Fi or cellular connection; in Settings › Cellular, Nur's mobile data permission must be on.",
+          "If a download stopped halfway, try again: partially downloaded files are deleted and the download completes from the start.",
+          "Downloaded surahs play without a network. You can see and delete downloads under Read the Qur'an › Reading settings.",
+          "The listen button is only available for supplications taken from Qur'an verses; other supplications have no button."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contact",
+    "iletisim": "For questions, suggestions or bug reports:",
+    "iletisimKonu": "Nur support",
+    "iletisimNot": "If you include your iPhone model, iOS version and selected city when you write, we can help faster.",
+    "metaBaslik": "Nur Support",
+    "metaAciklama": "Frequently asked questions and contact for the Nur app."
+  },
+  "gizlilik": {
+    "h1": "Privacy Policy",
+    "tarih": "Effective date: 27 September 2026",
+    "giris": "This policy explains what information the Nur: Prayer Times & Qur'an app for iOS (“Nur”) uses and how. In short: Nur has no server and collects no personal data from you. Some features send requests to the third-party services listed one by one below in order to work.",
+    "bolumler": [
+      {
+        "h2": "No account",
+        "p": [
+          "To use Nur you don't need to create an account, sign in or provide details such as an email address or phone number. The app has no server."
+        ]
+      },
+      {
+        "h2": "No ads, analytics or tracking",
+        "p": [
+          "Nur shows no ads; it contains no analytics, crash reporting or tracking tools. It doesn't track you across apps and websites and doesn't access the advertising identifier."
+        ]
+      },
+      {
+        "h2": "Your data stays on your device",
+        "p": [
+          "The name you optionally enter, the city you choose, your settings, your prayer and task progress, your Qur'an reading progress and your bookmarks are stored only on your device. If it's on, this data is also included in your iPhone's iCloud backup; that backup belongs to your Apple account and cannot be read by Nur. Verse audio you download also stays on your device, but because it can be downloaded again it isn't backed up; iOS may delete it to free up space, and it's downloaded again when needed. If you turn on the home screen widget, a short summary (the next prayer, today's tasks) is written to the shared area on your device so the widget can show it.",
+          "The profile you choose on first launch (child, adult man or adult woman; for a child, girl or boy) and your school are also stored only on your device; they're used for the prayer narration, the figure and the Asr time calculation, and are never sent anywhere.",
+          "When you delete the app, all Nur data on the device is deleted with it."
+        ]
+      },
+      {
+        "h2": "Special days mode",
+        "p": [
+          "Special days mode, which can be turned on in the woman and girl profiles, and the record of which days it was on are kept only in the app's own storage, on your device. This information is never sent to any server; it isn't written to the shared area the home screen widget reads, doesn't appear in notification text and isn't recorded (no logs are kept). The widget and notifications are the same whether special days mode is on or off. When you turn it off, past days stay on the device for at most 90 days, only for the streak calculation; when you delete the app this information is deleted too. If it's on, it's included in your iPhone's iCloud backup together with your other app data."
+        ]
+      },
+      {
+        "h2": "Location",
+        "p": [
+          "If you grant location permission, your location is used on your device to calculate prayer times and the Qibla direction. If you don't grant location permission, you can pick your city from the list.",
+          "When you open the “Nearby mosques” screen, your location is rounded to about 1 km (two decimal places) and sent to the OpenStreetMap Overpass service to find mosques nearby. As with every internet request, your IP address also reaches this service; no other information that identifies you is sent. The city found from your location is stored on the device at the same precision, rounded to about 1 km. Mosque data © OpenStreetMap contributors (ODbL)."
+        ]
+      },
+      {
+        "h2": "Map and directions (Apple Maps)",
+        "p": [
+          "The maps on the “Nearby mosques” and “Kaaba” screens are shown with Apple Maps. Map imagery is loaded from Apple for the region shown on screen; if you have granted location permission, your location is also shown on the map. This service is subject to Apple's privacy policy.",
+          "When you tap a mosque's “Directions” button, Apple Maps opens with the mosque's name and coordinates; the route is calculated in Apple Maps. This happens only when you tap."
+        ]
+      },
+      {
+        "h2": "Qur'an audio",
+        "p": [
+          "Verse audio is played from, or downloaded to your device from, the Islamic Network service (cdn.islamic.network). With each request, this service receives: your IP address, the address of the requested file (which reciter's surah and verse is being listened to) and the standard browser identifier (User-Agent) containing the app and iOS versions. No other information is sent. Audio downloaded to the device plays without a network. The recordings are the copyright of the reciters; the source and terms of use are in the app under About › Sources and licences."
+        ]
+      },
+      {
+        "h2": "Sharing",
+        "p": [
+          "When you tap the “Share my progress” button, your progress summary (streak, goal, prayer and dhikr counts) opens in the iOS share sheet. The text goes only to the app or person you choose; Nur never shares anything on its own."
+        ]
+      },
+      {
+        "h2": "Notifications",
+        "p": [
+          "Prayer time notifications and reminders are scheduled locally on your device. Remote (push) notifications are not used; no registration with any server is made for notifications."
+        ]
+      },
+      {
+        "h2": "Children",
+        "p": [
+          "Nur has a kids mode. Because the app collects no personal data from any user, including children, there is no data processing specific to children either."
+        ]
+      },
+      {
+        "h2": "Changes",
+        "p": [
+          "If this policy changes, the current version will be published on this page with a new effective date."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contact",
+    "iletisim": "For questions:",
+    "iletisimKonu": "Nur privacy",
+    "metaBaslik": "Nur Privacy Policy",
+    "metaAciklama": "Privacy policy of the Nur app: no account, no ads or tracking, data stays on your device."
+  }
+}

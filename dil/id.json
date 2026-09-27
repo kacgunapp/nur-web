@@ -1,0 +1,202 @@
+{
+  "kod": "id",
+  "ad": "Bahasa Indonesia",
+  "yon": "ltr",
+  "baslik": "Nur: Jadwal Salat & Al-Qur'an",
+  "metaAciklama": "Waktu salat, panduan salat 3D, baca dan dengar Al-Qur'an, kiblat, penghitung zikir. Tanpa akun, tanpa iklan, tanpa pengumpulan data.",
+  "nav": {
+    "tanitim": "Beranda",
+    "destek": "Dukungan",
+    "gizlilik": "Privasi",
+    "dil": "Bahasa"
+  },
+  "kahraman": {
+    "simgeAlt": "Ikon aplikasi Nur: kitab terbuka berwarna emas dengan cahaya di atasnya",
+    "giris": "Pendamping sederhana yang memudahkanmu beribadah secara teratur. Ada mode anak dan dewasa; tidak meminta akun, tidak menampilkan iklan, tidak mengumpulkan data.",
+    "rozet": "Untuk iOS · segera hadir di App Store"
+  },
+  "nelerVar": "Apa saja yang ada?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Waktu salat",
+      "p": "12 metode perhitungan termasuk Diyanet, aturan lintang tinggi, notifikasi waktu salat, dan jadwal salat bulanan."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Salat dan wudu 3D",
+      "p": "Gerakan langkah demi langkah dengan figur laki-laki, perempuan, dan anak; bisa diputar dari segala sudut, lengkap dengan doanya."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Al-Qur'an",
+      "p": "114 surah, baca halaman demi halaman, transliterasi, dengar ayat demi ayat dari lima qari, penanda, dan rencana khatam."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Kiblat",
+      "p": "Kompas dan peta bersama: arah Ka'bah, jarak garis lurus, dan masjid terdekat."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Penghitung zikir",
+      "p": "Penghitung dengan butir tasbih; berbagai bahan tasbih dan getaran halus saat disentuh."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Alat",
+      "p": "Hitungan zakat dan zakat fitrah, kalender Hijriah dan hari-hari mulia, pengingat sahur, tahajud, dan Jumat."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Salat berikutnya dan tugas hari ini di layar utama; sekali ketuk, bagian yang tepat langsung terbuka."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Privasimu tetap milikmu",
+    "maddeler": [
+      "Tanpa akun, login, atau server.",
+      "Tanpa iklan, analitik, dan pelacakan.",
+      "Kemajuan dan pengaturanmu hanya tersimpan di perangkatmu.",
+      "Lokasimu dipakai di perangkat untuk waktu salat dan kiblat; saat mencari masjid terdekat, hanya versi yang dibulatkan ke sekitar 1 km yang dikirim."
+    ],
+    "tamMetin": "Kebijakan privasi selengkapnya"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Terjemahan ini hanya untuk informasi; jika ada perbedaan, teks bahasa Turki yang berlaku.",
+  "destek": {
+    "h1": "Dukungan",
+    "giris": "Berikut masalah yang sering ditemui beserta solusinya. Jika jawabannya tidak ada, tulis kepada kami.",
+    "sssBaslik": "Pertanyaan yang sering diajukan",
+    "sss": [
+      {
+        "soru": "Waktu salat tampak salah",
+        "giris": "Waktu salat dihitung berdasarkan lokasi dan metode perhitungan yang dipilih. Periksa hal berikut secara berurutan:",
+        "adimlar": [
+          "<strong>Lokasi:</strong> Tab Saya › Lokasi. Ketuk “Temukan lokasiku otomatis” atau pilih kotamu dari daftar. Jika kota lain yang dipilih, waktu salat mengikuti kota itu.",
+          "<strong>Metode perhitungan:</strong> Tab Saya › Metode perhitungan. Untuk Turki pilih Diyanet (Kemenag Turki); “Otomatis sesuai kota” memilih metode negara tempatmu berada.",
+          "<strong>Waktu Asar:</strong> Di layar yang sama, periksa pilihan Asar awal (Diyanet) atau Asar tsani; selisih keduanya bisa hampir satu jam.",
+          "<strong>Tanggal Hijriah:</strong> Jika kalender Hijriah bergeser sehari, kamu bisa memberi koreksi ±2 hari dari Alat › Kalender Hijriah."
+        ],
+        "son": "Selisih beberapa menit dari kalender resmi bisa berasal dari margin kehati-hatian dan itu normal."
+      },
+      {
+        "soru": "Notifikasi tidak muncul",
+        "adimlar": [
+          "Di iPhone buka <strong>Pengaturan › Notifikasi › Nur</strong>; “Izinkan Notifikasi” harus aktif.",
+          "Jika mode Fokus (Jangan Ganggu, Tidur) aktif, tambahkan Nur ke aplikasi yang diizinkan.",
+          "Di aplikasi, <strong>Tab Saya › Notifikasi azan</strong> harus aktif. Untuk pengingat sahur, tahajud, dan Jumat: <strong>Alat › Pengingat</strong>.",
+          "Saat kamu mengubah lokasi, notifikasi otomatis diatur ulang sesuai waktu salat yang baru.",
+          "iOS membatasi jumlah notifikasi yang bisa dijadwalkan sebuah aplikasi di muka; Nur menjadwalkan waktu salat sekitar satu minggu. Jika kamu membuka aplikasi minimal seminggu sekali, notifikasi berjalan tanpa terputus."
+        ]
+      },
+      {
+        "soru": "Arah kiblat melenceng",
+        "adimlar": [
+          "Kalibrasi kompas dengan menggerakkan ponsel di udara membentuk angka “8” beberapa kali.",
+          "Jauhi casing bermagnet, speaker, meja logam, atau perangkat elektronik; semuanya bisa mengganggu kompas.",
+          "<strong>Pengaturan › Privasi & Keamanan › Layanan Lokasi › Layanan Sistem › Kalibrasi Kompas</strong> harus aktif.",
+          "Pastikan lokasimu benar: sudut kiblat dihitung berdasarkan lokasi yang dipilih."
+        ]
+      },
+      {
+        "soru": "Audio Al-Qur'an tidak berbunyi atau tidak bisa diunduh",
+        "adimlar": [
+          "Audio ayat diambil dari internet. Periksa koneksi Wi-Fi atau selulermu; di Pengaturan › Seluler, izin data seluler untuk Nur harus aktif.",
+          "Jika unduhan terhenti di tengah jalan, coba lagi: berkas yang setengah terunduh dihapus dan unduhan diselesaikan dari awal.",
+          "Surah yang sudah diunduh bisa diputar tanpa jaringan. Kamu bisa melihat dan menghapus unduhan dari Baca Al-Qur'an › Pengaturan baca.",
+          "Tombol dengar hanya ada pada doa yang berasal dari ayat Al-Qur'an; pada doa lain tombol itu tidak muncul."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontak",
+    "iletisim": "Untuk pertanyaan, saran, atau laporan kesalahan:",
+    "iletisimKonu": "Dukungan Nur",
+    "iletisimNot": "Jika kamu menyertakan model iPhone, versi iOS, dan kota yang dipilih, kami bisa membantu lebih cepat.",
+    "metaBaslik": "Dukungan Nur",
+    "metaAciklama": "Pertanyaan yang sering diajukan dan kontak untuk aplikasi Nur."
+  },
+  "gizlilik": {
+    "h1": "Kebijakan Privasi",
+    "tarih": "Berlaku sejak: 27 September 2026",
+    "giris": "Kebijakan ini menjelaskan informasi apa yang digunakan oleh aplikasi Nur: Jadwal Salat & Al-Qur'an untuk iOS (“Nur”) dan bagaimana penggunaannya. Singkatnya: Nur tidak memiliki server dan tidak mengumpulkan data pribadimu. Agar dapat bekerja, beberapa fitur mengirim permintaan ke layanan pihak ketiga yang disebutkan satu per satu di bawah.",
+    "bolumler": [
+      {
+        "h2": "Tanpa akun",
+        "p": [
+          "Untuk memakai Nur kamu tidak perlu membuat akun, login, atau memberikan informasi seperti email atau nomor telepon. Aplikasi ini tidak memiliki server."
+        ]
+      },
+      {
+        "h2": "Tanpa iklan, analitik, dan pelacakan",
+        "p": [
+          "Nur tidak menampilkan iklan; tidak memuat alat analitik, pelaporan crash, atau pelacakan. Nur tidak melacakmu di seluruh aplikasi dan situs web, dan tidak mengakses ID iklan."
+        ]
+      },
+      {
+        "h2": "Datamu tetap di perangkatmu",
+        "p": [
+          "Nama yang kamu tulis secara opsional, kota yang kamu pilih, pengaturanmu, kemajuan salat dan tugas, kemajuan membaca Al-Qur'an, serta penandamu hanya tersimpan di perangkatmu. Jika aktif, data ini juga masuk ke cadangan iCloud iPhone-mu; cadangan itu milik akun Apple-mu dan tidak dapat dibaca oleh Nur. Audio ayat yang kamu unduh juga tersimpan di perangkatmu, tetapi tidak dicadangkan karena bisa diunduh ulang; iOS dapat menghapusnya untuk mengosongkan ruang, dan akan diunduh ulang bila diperlukan. Jika kamu mengaktifkan widget layar utama, ringkasan singkat (salat berikutnya, tugas hari ini) ditulis ke area bersama yang tetap berada di perangkatmu agar widget dapat menampilkannya.",
+          "Profil yang kamu pilih saat pertama membuka (anak, laki-laki dewasa, atau perempuan dewasa; jika anak, perempuan atau laki-laki) dan mazhab juga hanya tersimpan di perangkatmu; keduanya dipakai untuk penjelasan salat, figur, dan perhitungan waktu Asar, dan tidak dikirim ke mana pun.",
+          "Saat kamu menghapus aplikasi, semua data Nur di perangkat ikut terhapus."
+        ]
+      },
+      {
+        "h2": "Mode hari khusus",
+        "p": [
+          "Mode hari khusus yang dapat diaktifkan pada profil perempuan dan anak perempuan, beserta informasi hari-hari kapan mode itu aktif, hanya disimpan di penyimpanan aplikasi sendiri, di perangkatmu. Informasi ini tidak dikirim ke server mana pun; tidak ditulis ke area bersama yang dibaca widget layar utama, tidak muncul dalam teks notifikasi, dan tidak dicatat (tanpa log). Widget dan notifikasi tetap sama baik saat mode hari khusus aktif maupun nonaktif. Setelah kamu menonaktifkannya, hari-hari yang lalu disimpan di perangkat paling lama 90 hari hanya untuk perhitungan runtutan; saat aplikasi dihapus, informasi ini ikut terhapus. Jika aktif, informasi ini masuk ke cadangan iCloud iPhone-mu bersama data aplikasi lainnya."
+        ]
+      },
+      {
+        "h2": "Lokasi",
+        "p": [
+          "Jika kamu memberikan izin lokasi, lokasimu dipakai di perangkat untuk menghitung waktu salat dan arah kiblat. Jika tidak memberikan izin lokasi, kamu bisa memilih kotamu dari daftar.",
+          "Saat kamu membuka layar “Masjid terdekat”, lokasimu dibulatkan ke sekitar 1 km (dua angka desimal) lalu dikirim ke layanan Overpass OpenStreetMap untuk menemukan masjid di sekitarmu. Seperti pada setiap permintaan internet, alamat IP-mu juga sampai ke layanan ini; selain itu tidak ada informasi yang mengidentifikasimu yang dikirim. Kota yang ditemukan dari lokasi juga disimpan di perangkat dengan ketelitian yang sama, dibulatkan ke sekitar 1 km. Data masjid © kontributor OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Peta dan petunjuk arah (Apple Maps)",
+        "p": [
+          "Peta pada layar “Masjid terdekat” dan “Ka'bah” ditampilkan dengan Apple Maps. Gambar peta dimuat dari Apple untuk wilayah yang tampil di layar; jika kamu memberi izin lokasi, lokasimu juga ditampilkan di peta. Layanan ini tunduk pada kebijakan privasi Apple.",
+          "Saat kamu mengetuk tombol “Petunjuk arah” pada sebuah masjid, Apple Maps terbuka dengan nama dan koordinat masjid itu; rute dihitung di Apple Maps. Ini hanya terjadi saat kamu mengetuknya."
+        ]
+      },
+      {
+        "h2": "Audio Al-Qur'an",
+        "p": [
+          "Audio ayat diputar dari layanan Islamic Network (cdn.islamic.network) atau diunduh ke perangkat. Pada setiap permintaan, yang sampai ke layanan ini adalah: alamat IP-mu, alamat berkas yang diminta (surah dan ayat mana dari qari mana yang didengarkan), dan identitas peramban standar (User-Agent) yang memuat versi aplikasi dan iOS. Tidak ada informasi lain yang dikirim. Audio yang diunduh ke perangkat diputar tanpa jaringan. Hak cipta rekaman milik para qari; sumber dan syarat pemakaiannya ada di aplikasi pada bagian Tentang › Sumber dan lisensi."
+        ]
+      },
+      {
+        "h2": "Berbagi",
+        "p": [
+          "Saat kamu mengetuk tombol “Bagikan kemajuanku”, ringkasan kemajuanmu (runtutan, target, jumlah salat dan zikir) terbuka lewat menu berbagi iOS. Teks hanya dikirim ke aplikasi atau orang yang kamu pilih; Nur tidak membagikan apa pun dengan sendirinya."
+        ]
+      },
+      {
+        "h2": "Notifikasi",
+        "p": [
+          "Notifikasi waktu salat dan pengingat dijadwalkan secara lokal di perangkatmu. Notifikasi jarak jauh (push) tidak digunakan; tidak ada pendaftaran ke server mana pun untuk notifikasi."
+        ]
+      },
+      {
+        "h2": "Anak-anak",
+        "p": [
+          "Nur memiliki mode anak. Karena aplikasi tidak mengumpulkan data pribadi dari pengguna mana pun, termasuk anak-anak, tidak ada pemrosesan data khusus untuk anak-anak."
+        ]
+      },
+      {
+        "h2": "Perubahan",
+        "p": [
+          "Jika kebijakan ini berubah, versi terbaru akan diterbitkan di halaman ini dengan tanggal berlaku yang baru."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontak",
+    "iletisim": "Untuk pertanyaan:",
+    "iletisimKonu": "Privasi Nur",
+    "metaBaslik": "Kebijakan Privasi Nur",
+    "metaAciklama": "Kebijakan privasi aplikasi Nur: tanpa akun, tanpa iklan dan pelacakan, data tetap di perangkat."
+  }
+}

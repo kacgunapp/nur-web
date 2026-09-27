@@ -1,0 +1,202 @@
+{
+  "kod": "de",
+  "ad": "Deutsch",
+  "yon": "ltr",
+  "baslik": "Nur: Gebetszeiten & Koran",
+  "metaAciklama": "Gebetszeiten, 3D-Gebetsanleitung, Koran lesen und hören, Qibla, Dhikr-Zähler. Kein Konto, keine Werbung, keine Datensammlung.",
+  "nav": {
+    "tanitim": "Überblick",
+    "destek": "Support",
+    "gizlilik": "Datenschutz",
+    "dil": "Sprache"
+  },
+  "kahraman": {
+    "simgeAlt": "Nur-App-Symbol: goldenes aufgeschlagenes Buch mit Licht darüber",
+    "giris": "Ein schlichter Begleiter, der dir hilft, deine Gebete regelmäßig zu verrichten. Mit Kinder- und Erwachsenenmodus; kein Konto, keine Werbung, keine Datensammlung.",
+    "rozet": "Für iOS · bald im App Store"
+  },
+  "nelerVar": "Was steckt drin?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Gebetszeiten",
+      "p": "12 Berechnungsmethoden, darunter Diyanet; Regeln für hohe Breitengrade, Gebetszeit-Benachrichtigungen und monatlicher Gebetskalender."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D-Gebet und Wudu",
+      "p": "Bewegungen Schritt für Schritt mit Figuren für Mann, Frau und Kind; aus jedem Winkel drehbar, mit den zugehörigen Bittgebeten."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Koran",
+      "p": "114 Suren, Seite für Seite lesen, Umschrift, Vers für Vers anhören mit fünf Rezitatoren, Lesezeichen und Khatm-Plan."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Kompass und Karte zusammen: Richtung zur Kaaba, Luftlinienentfernung und Moscheen in der Nähe."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Dhikr-Zähler",
+      "p": "Zähler mit Gebetskettenperlen; verschiedene Kettenmaterialien und leichte Vibration bei jeder Berührung."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Werkzeuge",
+      "p": "Zakat- und Fitra-Berechnung, Hidschri-Kalender und gesegnete Tage, Erinnerungen für Sahur, Tahadschud und Freitagsgebet."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Nächste Gebetszeit und Aufgaben des Tages auf dem Startbildschirm; ein Tipp öffnet den passenden Bereich."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Deine Daten bleiben bei dir",
+    "maddeler": [
+      "Kein Konto, keine Anmeldung, kein Server.",
+      "Keine Werbung, keine Analyse, kein Tracking.",
+      "Dein Fortschritt und deine Einstellungen bleiben nur auf deinem Gerät.",
+      "Dein Standort wird für Gebetszeiten und Qibla auf dem Gerät verwendet; bei der Moscheesuche wird er nur auf etwa 1 km gerundet übermittelt."
+    ],
+    "tamMetin": "Vollständige Datenschutzerklärung"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Diese Übersetzung dient nur der Information; bei Abweichungen gilt der türkische Text.",
+  "destek": {
+    "h1": "Support",
+    "giris": "Häufige Situationen und ihre Lösungen findest du unten. Findest du keine Antwort, schreib uns.",
+    "sssBaslik": "Häufig gestellte Fragen",
+    "sss": [
+      {
+        "soru": "Die Gebetszeiten wirken falsch",
+        "giris": "Die Zeiten werden nach dem gewählten Standort und der Berechnungsmethode berechnet. Prüfe der Reihe nach:",
+        "adimlar": [
+          "<strong>Standort:</strong> Ich-Tab › Standort. Tippe auf „Standort automatisch ermitteln“ oder wähle deine Stadt aus der Liste. Ist eine andere Stadt gewählt, gelten die Zeiten dieser Stadt.",
+          "<strong>Berechnungsmethode:</strong> Ich-Tab › Berechnungsmethode. Für die Türkei wähle Diyanet (Präsidium für Religionsangelegenheiten); „Automatisch nach Stadt“ wählt die Methode des Landes, in dem du dich befindest.",
+          "<strong>Asr-Zeit:</strong> Prüfe auf demselben Bildschirm die Wahl zwischen Asr al-awwal (Diyanet) und Asr ath-thani; zwischen beiden kann fast eine Stunde Unterschied liegen.",
+          "<strong>Hidschri-Datum:</strong> Weicht der Hidschri-Kalender um einen Tag ab, kannst du ihn unter Werkzeuge › Hidschri-Kalender um bis zu ±2 Tage korrigieren."
+        ],
+        "son": "Ein Unterschied von wenigen Minuten zum offiziellen Kalender kann an der Sicherheitsspanne liegen und ist normal."
+      },
+      {
+        "soru": "Keine Benachrichtigungen",
+        "adimlar": [
+          "Öffne auf dem iPhone <strong>Einstellungen › Mitteilungen › Nur</strong>; „Mitteilungen erlauben“ muss aktiv sein.",
+          "Ist ein Fokus (Nicht stören, Schlafen) aktiv, füge Nur zu den erlaubten Apps hinzu.",
+          "In der App muss <strong>Ich-Tab › Adhan-Benachrichtigung</strong> aktiv sein. Erinnerungen für Sahur, Tahadschud und Freitagsgebet findest du unter <strong>Werkzeuge › Erinnerungen</strong>.",
+          "Wenn du den Standort änderst, werden die Benachrichtigungen automatisch nach den neuen Zeiten neu eingerichtet.",
+          "iOS begrenzt die Zahl der Benachrichtigungen, die eine App im Voraus einplanen kann; Nur plant etwa eine Woche. Öffnest du die App mindestens einmal pro Woche, laufen die Benachrichtigungen ohne Unterbrechung weiter."
+        ]
+      },
+      {
+        "soru": "Die Qibla-Richtung weicht ab",
+        "adimlar": [
+          "Kalibriere den Kompass, indem du das Telefon mehrmals in einer „8“ durch die Luft bewegst.",
+          "Halte Abstand zu Magnethüllen, Lautsprechern, Metalltischen und elektronischen Geräten; sie lenken den Kompass ab.",
+          "<strong>Einstellungen › Datenschutz & Sicherheit › Ortungsdienste › Systemdienste › Kompasskalibrierung</strong> muss aktiv sein.",
+          "Stelle sicher, dass dein Standort stimmt: Der Qibla-Winkel wird nach dem gewählten Standort berechnet."
+        ]
+      },
+      {
+        "soru": "Koran-Audio spielt nicht oder lässt sich nicht herunterladen",
+        "adimlar": [
+          "Die Versaudios kommen aus dem Internet. Prüfe deine WLAN- oder Mobilfunkverbindung; unter Einstellungen › Mobilfunk muss Nur mobile Daten nutzen dürfen.",
+          "Wurde ein Download unterbrochen, versuche es erneut: Unvollständige Dateien werden gelöscht, der Download wird von vorn abgeschlossen.",
+          "Heruntergeladene Suren spielen auch ohne Netz. Unter Koran lesen › Leseeinstellungen kannst du die heruntergeladenen Suren sehen und löschen.",
+          "Die Anhören-Taste gibt es nur bei Bittgebeten aus Koranversen; bei anderen Bittgebeten wird sie nicht angezeigt."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Für Fragen, Vorschläge oder Fehlermeldungen:",
+    "iletisimKonu": "Nur Support",
+    "iletisimNot": "Wenn du dein iPhone-Modell, deine iOS-Version und die gewählte Stadt angibst, können wir dir schneller helfen.",
+    "metaBaslik": "Nur Support",
+    "metaAciklama": "Häufig gestellte Fragen und Kontakt zur Nur-App."
+  },
+  "gizlilik": {
+    "h1": "Datenschutzerklärung",
+    "tarih": "Gültig ab: 27. September 2026",
+    "giris": "Diese Erklärung beschreibt, welche Informationen die iOS-App Nur: Gebetszeiten & Koran („Nur“) wie verwendet. Kurz gesagt: Nur hat keinen Server und sammelt keine personenbezogenen Daten von dir. Einige Funktionen senden Anfragen an die unten einzeln genannten Drittanbieterdienste, um zu funktionieren.",
+    "bolumler": [
+      {
+        "h2": "Kein Konto",
+        "p": [
+          "Um Nur zu nutzen, musst du kein Konto anlegen, dich nicht anmelden und keine Angaben wie E-Mail-Adresse oder Telefonnummer machen. Die App hat keinen Server."
+        ]
+      },
+      {
+        "h2": "Keine Werbung, keine Analyse, kein Tracking",
+        "p": [
+          "Nur zeigt keine Werbung und enthält keine Analyse-, Absturzbericht- oder Tracking-Werkzeuge. Sie verfolgt dich nicht über Apps und Websites hinweg und greift nicht auf die Werbe-ID zu."
+        ]
+      },
+      {
+        "h2": "Deine Daten bleiben auf deinem Gerät",
+        "p": [
+          "Der optional eingegebene Name, die gewählte Stadt, deine Einstellungen, dein Gebets- und Aufgabenfortschritt, dein Lesefortschritt im Koran und deine Lesezeichen werden nur auf deinem Gerät gespeichert. Ist das iCloud-Backup deines iPhones aktiv, sind diese Daten auch darin enthalten; dieses Backup gehört zu deinem Apple-Konto und kann von Nur nicht gelesen werden. Heruntergeladene Versaudios bleiben ebenfalls auf deinem Gerät, werden aber nicht gesichert, da sie erneut heruntergeladen werden können; iOS darf sie löschen, um Speicherplatz freizugeben, und sie werden bei Bedarf neu geladen. Wenn du das Startbildschirm-Widget aktivierst, wird eine kurze Zusammenfassung (nächste Gebetszeit, Aufgaben des Tages) in den gemeinsamen Bereich auf deinem Gerät geschrieben, damit das Widget sie anzeigen kann.",
+          "Das beim ersten Start gewählte Profil (Kind, erwachsener Mann oder erwachsene Frau; bei Kindern Mädchen oder Junge) und die Rechtsschule werden ebenfalls nur auf deinem Gerät gespeichert; sie dienen der Gebetsanleitung, der Figur und der Berechnung der Asr-Zeit und werden nirgendwohin gesendet.",
+          "Wenn du die App löschst, werden auch alle Nur-Daten auf dem Gerät gelöscht."
+        ]
+      },
+      {
+        "h2": "Modus „Besondere Tage“",
+        "p": [
+          "Der Modus „Besondere Tage“, der im Profil Frau und Mädchen aktiviert werden kann, und die Angabe, an welchen Tagen er aktiv war, werden nur im eigenen Speicher der App auf deinem Gerät gehalten. Diese Angabe wird an keinen Server gesendet; sie wird nicht in den gemeinsamen Bereich geschrieben, den das Startbildschirm-Widget liest, erscheint nicht in Benachrichtigungstexten und wird nicht protokolliert (kein Log). Widget und Benachrichtigungen sind gleich, egal ob der Modus aktiv ist oder nicht. Nach dem Ausschalten bleiben die vergangenen Tage nur für die Berechnung der Serie höchstens 90 Tage auf dem Gerät; mit dem Löschen der App wird auch diese Angabe gelöscht. Ist das iCloud-Backup deines iPhones aktiv, ist sie zusammen mit deinen anderen App-Daten darin enthalten."
+        ]
+      },
+      {
+        "h2": "Standort",
+        "p": [
+          "Wenn du die Standortberechtigung erteilst, wird dein Standort auf deinem Gerät verwendet, um Gebetszeiten und Qibla-Richtung zu berechnen. Erteilst du sie nicht, kannst du deine Stadt aus der Liste wählen.",
+          "Wenn du den Bildschirm „Moscheen in der Nähe“ öffnest, wird dein Standort, auf etwa 1 km gerundet (zwei Dezimalstellen), an den Overpass-Dienst von OpenStreetMap gesendet, um Moscheen in der Nähe zu finden. Wie bei jeder Internetanfrage erreicht auch deine IP-Adresse diesen Dienst; darüber hinaus werden keine Informationen gesendet, die dich identifizieren. Die per Standort ermittelte Stadt wird auf dem Gerät mit derselben Genauigkeit, auf etwa 1 km gerundet, gespeichert. Moscheedaten © OpenStreetMap-Mitwirkende (ODbL)."
+        ]
+      },
+      {
+        "h2": "Karte und Route (Apple Karten)",
+        "p": [
+          "Die Karten auf den Bildschirmen „Moscheen in der Nähe“ und „Kaaba“ werden mit Apple Karten angezeigt. Die Kartenbilder werden für den angezeigten Bereich von Apple geladen; hast du die Standortberechtigung erteilt, wird auch dein Standort auf der Karte angezeigt. Dieser Dienst unterliegt der Datenschutzrichtlinie von Apple.",
+          "Wenn du bei einer Moschee auf „Route“ tippst, öffnet sich Apple Karten mit dem Namen und den Koordinaten der Moschee; die Route wird in Apple Karten berechnet. Das geschieht nur, wenn du darauf tippst."
+        ]
+      },
+      {
+        "h2": "Koran-Audio",
+        "p": [
+          "Die Versaudios werden vom Dienst Islamic Network (cdn.islamic.network) abgespielt oder auf das Gerät heruntergeladen. Bei jeder Anfrage erreicht diesen Dienst Folgendes: deine IP-Adresse, die Adresse der angeforderten Datei (welcher Rezitator, welche Sure und welcher Vers gehört wird) und die Standard-Browserkennung (User-Agent) mit der Version der App und von iOS. Weitere Informationen werden nicht gesendet. Auf das Gerät heruntergeladene Audios spielen auch ohne Netz. Die Rechte an den Aufnahmen liegen bei den Rezitatoren; Quelle und Nutzungsbedingungen findest du in der App unter Über die App › Quellen und Lizenzen."
+        ]
+      },
+      {
+        "h2": "Teilen",
+        "p": [
+          "Wenn du auf „Fortschritt teilen“ tippst, öffnet sich deine Fortschrittszusammenfassung (Serie, Ziel, Anzahl der Gebete und Dhikr) im iOS-Teilen-Menü. Der Text geht nur an die App oder Person, die du wählst; Nur teilt von sich aus nichts."
+        ]
+      },
+      {
+        "h2": "Benachrichtigungen",
+        "p": [
+          "Gebetszeit-Benachrichtigungen und Erinnerungen werden lokal auf deinem Gerät geplant. Es werden keine Push-Benachrichtigungen aus der Ferne verwendet; für Benachrichtigungen wird bei keinem Server eine Registrierung vorgenommen."
+        ]
+      },
+      {
+        "h2": "Kinder",
+        "p": [
+          "Nur hat einen Kindermodus. Da die App von keinem Nutzer, auch nicht von Kindern, personenbezogene Daten sammelt, gibt es auch keine besondere Datenverarbeitung für Kinder."
+        ]
+      },
+      {
+        "h2": "Änderungen",
+        "p": [
+          "Ändert sich diese Erklärung, wird die aktuelle Fassung mit neuem Gültigkeitsdatum auf dieser Seite veröffentlicht."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Bei Fragen:",
+    "iletisimKonu": "Nur Datenschutz",
+    "metaBaslik": "Nur Datenschutzerklärung",
+    "metaAciklama": "Datenschutzerklärung der Nur-App: kein Konto, keine Werbung, kein Tracking, Daten bleiben auf dem Gerät."
+  }
+}
