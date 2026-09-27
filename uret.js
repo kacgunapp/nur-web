@@ -17,7 +17,12 @@ const EPOSTA = "dogac@teknikaotomasyon.com";
 const kacis = (s) => String(s).replace(/&(?!(amp|lt|gt|quot|#\d+);)/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const ham = (s) => String(s);           // <strong> gibi izinli işaretleme taşıyan alanlar
 const oku = (k) => { const p = path.join(KOK, "dil", `${k}.json`); return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf8")) : null; };
-const diller = KOD.map(oku).filter(Boolean);
+/* Yayındaki diller: dil/acik.json (uygulamanın dil kapısıyla aynı — anadil kontrolü yapılmamış çeviri yayımlanmaz).
+   Kapalı dillerin dil/<kod>.json kaynağı durur; sayfası üretilmez, eski sayfası silinir. */
+const ACIK = JSON.parse(fs.readFileSync(path.join(KOK, "dil", "acik.json"), "utf8"));
+if (!ACIK.includes("tr")) throw new Error("dil/acik.json: Türkçe her zaman açık");
+const diller = KOD.filter((k) => ACIK.includes(k)).map(oku).filter(Boolean);
+for (const k of KOD) if (k !== "tr" && !ACIK.includes(k) && fs.existsSync(path.join(KOK, k))) fs.rmSync(path.join(KOK, k), { recursive: true });
 const trD = diller.find((d) => d.kod === "tr");
 if (!trD) throw new Error("dil/tr.json yok");
 
@@ -31,7 +36,7 @@ function yapiKontrol(a, b, yol, kod) {
     for (const k of Object.keys(b)) if (!(k in a)) throw new Error(`${kod}: ${yol}.${k} Türkçede yok`);
   } else if (typeof a === "string" && typeof b !== "string") throw new Error(`${kod}: ${yol} metin değil`);
 }
-for (const d of diller) if (d.kod !== "tr") yapiKontrol(trD, d, "", d.kod);
+for (const d of KOD.map(oku).filter(Boolean)) if (d.kod !== "tr") yapiKontrol(trD, d, "", d.kod);   // kapalı dillerin kaynağı da tutarlı kalsın
 
 const on = (kod) => (kod === "tr" ? "" : "../");                     // kökten göreli varlık yolu
 const sayfaUrl = (kod, sayfa) => `${SITE}${kod === "tr" ? "" : kod + "/"}${sayfa === "index" ? "" : sayfa + ".html"}`;
@@ -68,6 +73,7 @@ ${alternatif}
 }
 
 function dilSecici(d, sayfa) {
+  if (diller.length < 2) return "";                    // tek açık dil: seçici gösterilmez
   const dosya = sayfa === "index" ? "" : `${sayfa}.html`;
   return `  <nav class="diller" aria-label="${kacis(d.nav.dil)}">
     ${diller.map((x) => x.kod === d.kod

@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Konum:</strong> Ben sekmesi › Konum. “Konumumu otomatik bul”a dokun ya da listeden şehrini seç. Başka bir şehir seçiliyse vakitler o şehre göre gelir.",
           "<strong>Hesaplama yöntemi:</strong> Ben sekmesi › Hesaplama yöntemi. Türkiye için Diyanet İşleri Başkanlığı'nı seç; “Şehre göre otomatik” de bulunduğun ülkenin yöntemini seçer.",
-          "<strong>İkindi vakti:</strong> Aynı ekranda Asr-ı evvel (Diyanet) ya da Asr-ı sânî seçimini kontrol et; ikisi arasında bir saate yakın fark olabilir.",
+          "<strong>İkindi vakti:</strong> Aynı ekranda Asr-ı evvel ya da Asr-ı sânî seçimini kontrol et; ikisi arasında bir saate yakın fark olabilir.",
           "<strong>Hicri tarih:</strong> Hicri takvim bir gün kayıyorsa Araçlar › Hicri takvim'den ±2 günlük düzeltme verebilirsin."
         ],
         "son": "Resmî takvimle birkaç dakikalık fark temkin payından kaynaklanabilir ve normaldir."
