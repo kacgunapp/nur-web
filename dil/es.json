@@ -1,0 +1,202 @@
+{
+  "kod": "es",
+  "ad": "Español",
+  "yon": "ltr",
+  "baslik": "Nur: Horas de oración y Corán",
+  "metaAciklama": "Horarios de oración, lecciones de oración en 3D, lectura y escucha del Corán, Qibla, contador de dhikr. Sin cuenta, sin anuncios, sin recopilación de datos.",
+  "nav": {
+    "tanitim": "Presentación",
+    "destek": "Ayuda",
+    "gizlilik": "Privacidad",
+    "dil": "Idioma"
+  },
+  "kahraman": {
+    "simgeAlt": "Icono de la app Nur: un libro abierto dorado con luz encima",
+    "giris": "Un compañero sencillo que te ayuda a mantener con regularidad tus actos de adoración. Tiene modo infantil y modo adulto; no pide cuenta, no muestra anuncios y no recopila datos.",
+    "rozet": "Para iOS · pronto en el App Store"
+  },
+  "nelerVar": "¿Qué incluye?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Horarios de oración",
+      "p": "12 métodos de cálculo, entre ellos Diyanet, reglas para latitudes altas, notificaciones de los horarios de oración y un horario mensual."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Oración y ablución (wudu) en 3D",
+      "p": "Movimientos paso a paso con una figura de hombre, mujer o niño; puedes girarla en cualquier ángulo, con las súplicas en árabe al lado."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Corán",
+      "p": "114 suras, lectura del texto árabe página a página, escucha aleya por aleya con cinco recitadores, marcadores y plan de jatm."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Brújula y mapa juntos: la dirección de la Kaaba, la distancia en línea recta y las mezquitas cercanas."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Contador de dhikr",
+      "p": "Un contador con cuentas de tasbih; distintos materiales de tasbih y una ligera vibración en cada toque."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Herramientas",
+      "p": "Cálculo del zakat y del zakat al-fitr, calendario de la Hégira y días benditos, recordatorios para el suhur, el tahajjud y el Yumu'a."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "La próxima oración y las tareas del día en tu pantalla de inicio; tócalo para abrir la sección correspondiente."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Tu privacidad se queda contigo",
+    "maddeler": [
+      "Sin cuenta, inicio de sesión ni servidor.",
+      "Sin anuncios, analítica ni rastreo.",
+      "Tu progreso y tus ajustes se quedan solo en tu dispositivo.",
+      "Tu ubicación se usa en el dispositivo para los horarios de oración y la Qibla; para buscar mezquitas cercanas solo se envía una versión redondeada a aproximadamente 1 km."
+    ],
+    "tamMetin": "Leer la política de privacidad completa"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Esta traducción se ofrece solo a título informativo; en caso de discrepancia, prevalece el texto en turco.",
+  "destek": {
+    "h1": "Ayuda",
+    "giris": "A continuación tienes las situaciones más habituales y cómo resolverlas. Si no encuentras tu respuesta, escríbenos.",
+    "sssBaslik": "Preguntas frecuentes",
+    "sss": [
+      {
+        "soru": "Los horarios de oración parecen incorrectos",
+        "giris": "Los horarios se calculan a partir de la ubicación y el método de cálculo seleccionados. Comprueba lo siguiente, en este orden:",
+        "adimlar": [
+          "<strong>Ubicación:</strong> pestaña Yo › Ubicación. Toca «Encontrar mi ubicación automáticamente» o elige tu ciudad en la lista. Si hay otra ciudad seleccionada, los horarios serán los de esa ciudad.",
+          "<strong>Método de cálculo:</strong> pestaña Yo › Método de cálculo. Para Turquía elige Diyanet (Presidencia de Asuntos Religiosos); «Automático según la ciudad» elige el método del país en el que te encuentras.",
+          "<strong>Hora del Asr:</strong> en la misma pantalla, revisa la elección entre Asr temprano y Asr tardío; entre ambos puede haber una diferencia de casi una hora.",
+          "<strong>Fecha de la Hégira:</strong> si el calendario de la Hégira tiene un día de desfase, puedes aplicar una corrección de ±2 días en Herramientas › Calendario de la Hégira."
+        ],
+        "son": "Una diferencia de unos pocos minutos con el calendario oficial puede deberse a un margen de seguridad y es normal."
+      },
+      {
+        "soru": "No me llegan las notificaciones",
+        "adimlar": [
+          "En tu iPhone abre <strong>Ajustes › Notificaciones › Nur</strong>; «Permitir notificaciones» debe estar activado.",
+          "Si hay un modo de Concentración activo (No molestar, Dormir), añade Nur a las apps permitidas.",
+          "En la app, <strong>pestaña Yo › Aviso del adhan</strong> debe estar activado. Para los recordatorios del suhur, el tahajjud y el Yumu'a, consulta <strong>Herramientas › Recordatorios</strong>.",
+          "Cuando cambias de ubicación, las notificaciones se reprograman automáticamente con los nuevos horarios.",
+          "iOS limita cuántas notificaciones puede programar una app por adelantado; Nur programa los horarios de oración de aproximadamente una semana. Si abres la app al menos una vez por semana, las notificaciones siguen llegando sin interrupción."
+        ]
+      },
+      {
+        "soru": "La dirección de la Qibla se desvía",
+        "adimlar": [
+          "Calibra la brújula moviendo el teléfono en el aire trazando un 8 varias veces.",
+          "Aléjate de fundas magnéticas, altavoces, mesas metálicas o aparatos electrónicos; desvían la brújula.",
+          "Asegúrate de que <strong>Ajustes › Privacidad y seguridad › Localización › Servicios del sistema › Calibración de la brújula</strong> esté activado.",
+          "Asegúrate de que tu ubicación sea correcta: el ángulo de la Qibla se calcula a partir de la ubicación seleccionada."
+        ]
+      },
+      {
+        "soru": "El audio del Corán no se reproduce o no se descarga",
+        "adimlar": [
+          "El audio de las aleyas llega por internet. Comprueba tu conexión wifi o de datos móviles; en Ajustes › Datos móviles, el permiso de datos móviles de Nur debe estar activado.",
+          "Si una descarga se detuvo a medias, vuelve a intentarlo: los archivos descargados parcialmente se eliminan y la descarga se completa desde el principio.",
+          "Las suras descargadas se reproducen sin conexión. Puedes ver y eliminar las descargas en Leer el Corán › Ajustes de lectura.",
+          "El botón de escuchar solo está disponible en las súplicas tomadas de aleyas del Corán; las demás súplicas no tienen botón."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contacto",
+    "iletisim": "Para preguntas, sugerencias o informes de errores:",
+    "iletisimKonu": "Ayuda de Nur",
+    "iletisimNot": "Si al escribirnos indicas el modelo de tu iPhone, la versión de iOS y la ciudad seleccionada, podremos ayudarte más rápido.",
+    "metaBaslik": "Ayuda de Nur",
+    "metaAciklama": "Preguntas frecuentes y contacto de la app Nur."
+  },
+  "gizlilik": {
+    "h1": "Política de privacidad",
+    "tarih": "Fecha de entrada en vigor: 27 de septiembre de 2026",
+    "giris": "Esta política explica qué información utiliza la app Nur: Horas de oración y Corán para iOS («Nur») y cómo la utiliza. En resumen: Nur no tiene servidor y no recopila ningún dato personal tuyo. Para funcionar, algunas funciones envían solicitudes a los servicios de terceros que se enumeran uno a uno más abajo.",
+    "bolumler": [
+      {
+        "h2": "Sin cuenta",
+        "p": [
+          "Para usar Nur no necesitas crear una cuenta, iniciar sesión ni facilitar datos como una dirección de correo electrónico o un número de teléfono. La app no tiene servidor."
+        ]
+      },
+      {
+        "h2": "Sin anuncios, analítica ni rastreo",
+        "p": [
+          "Nur no muestra anuncios; no contiene herramientas de analítica, de informes de fallos ni de rastreo. No te rastrea entre apps y sitios web y no accede al identificador de publicidad."
+        ]
+      },
+      {
+        "h2": "Tus datos se quedan en tu dispositivo",
+        "p": [
+          "El nombre que introduzcas opcionalmente, la ciudad que elijas, tus ajustes, tu progreso en las oraciones y las tareas, tu progreso de lectura del Corán y tus marcadores se guardan solo en tu dispositivo. Si está activada, estos datos también se incluyen en la copia de seguridad de iCloud de tu iPhone; esa copia pertenece a tu cuenta de Apple y Nur no puede leerla. El audio de las aleyas que descargues también se queda en tu dispositivo, pero como puede volver a descargarse no se incluye en la copia de seguridad; iOS puede eliminarlo para liberar espacio y se vuelve a descargar cuando hace falta. Si activas el widget de la pantalla de inicio, se escribe un breve resumen (la próxima oración, las tareas del día) en el área compartida de tu dispositivo para que el widget pueda mostrarlo.",
+          "El perfil que eliges al abrir la app por primera vez (niño, hombre adulto o mujer adulta; en el perfil de niño, niña o niño) y tu escuela jurídica también se guardan solo en tu dispositivo; se usan para la explicación de la oración, la figura y el cálculo de la hora del Asr, y nunca se envían a ningún sitio.",
+          "Cuando eliminas la app, todos los datos de Nur del dispositivo se eliminan con ella."
+        ]
+      },
+      {
+        "h2": "Modo días especiales",
+        "p": [
+          "El modo días especiales, que puede activarse en los perfiles de mujer y niña, y el registro de los días en que estuvo activado se guardan solo en el almacenamiento propio de la app, en tu dispositivo. Esta información nunca se envía a ningún servidor; no se escribe en el área compartida que lee el widget de la pantalla de inicio, no aparece en el texto de las notificaciones y no se registra (no se guardan registros). El widget y las notificaciones son iguales tanto si el modo días especiales está activado como si no. Cuando lo desactivas, los días pasados permanecen en el dispositivo durante un máximo de 90 días, solo para el cálculo de la racha; cuando eliminas la app, esta información también se elimina. Si está activada, se incluye en la copia de seguridad de iCloud de tu iPhone junto con el resto de los datos de la app."
+        ]
+      },
+      {
+        "h2": "Ubicación",
+        "p": [
+          "Si concedes el permiso de ubicación, tu ubicación se usa en tu dispositivo para calcular los horarios de oración y la dirección de la Qibla. Si no concedes el permiso de ubicación, puedes elegir tu ciudad en la lista.",
+          "Cuando abres la pantalla «Mezquitas cercanas», tu ubicación se redondea a aproximadamente 1 km (dos decimales) y se envía al servicio Overpass de OpenStreetMap para encontrar mezquitas cercanas. Como en cualquier solicitud por internet, tu dirección IP también llega a este servicio; no se envía ninguna otra información que te identifique. La ciudad obtenida a partir de tu ubicación se guarda en el dispositivo con la misma precisión, redondeada a aproximadamente 1 km. Datos de mezquitas © colaboradores de OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Mapa e indicaciones (Apple Mapas)",
+        "p": [
+          "Los mapas de las pantallas «Mezquitas cercanas» y «Kaaba» se muestran con Apple Mapas. Las imágenes del mapa se cargan desde Apple para la zona que se muestra en pantalla; si has concedido el permiso de ubicación, tu ubicación también se muestra en el mapa. Este servicio está sujeto a la política de privacidad de Apple.",
+          "Cuando tocas el botón «Cómo llegar» de una mezquita, Apple Mapas se abre con el nombre y las coordenadas de la mezquita; la ruta se calcula en Apple Mapas. Esto solo ocurre cuando lo tocas."
+        ]
+      },
+      {
+        "h2": "Audio del Corán",
+        "p": [
+          "El audio de las aleyas se reproduce desde el servicio Islamic Network (cdn.islamic.network) o se descarga en tu dispositivo desde él. Con cada solicitud, este servicio recibe: tu dirección IP, la dirección del archivo solicitado (qué sura y qué aleya de qué recitador se está escuchando) y el identificador estándar del navegador (User-Agent), que contiene las versiones de la app y de iOS. No se envía ninguna otra información. El audio descargado en el dispositivo se reproduce sin conexión. Los derechos de autor de las grabaciones pertenecen a los recitadores; la fuente y las condiciones de uso figuran en la app, en Acerca de › Fuentes y licencias."
+        ]
+      },
+      {
+        "h2": "Compartir",
+        "p": [
+          "Cuando tocas el botón «Compartir mi progreso», el resumen de tu progreso (racha, meta, número de oraciones y de dhikr) se abre en la hoja para compartir de iOS. El texto solo llega a la app o a la persona que elijas; Nur nunca comparte nada por su cuenta."
+        ]
+      },
+      {
+        "h2": "Notificaciones",
+        "p": [
+          "Las notificaciones de los horarios de oración y los recordatorios se programan localmente en tu dispositivo. No se usan notificaciones remotas (push); no se realiza ningún registro en ningún servidor para las notificaciones."
+        ]
+      },
+      {
+        "h2": "Niños",
+        "p": [
+          "Nur tiene un modo infantil. Como la app no recopila datos personales de ningún usuario, incluidos los niños, tampoco existe ningún tratamiento de datos específico para niños."
+        ]
+      },
+      {
+        "h2": "Cambios",
+        "p": [
+          "Si esta política cambia, la versión vigente se publicará en esta página con una nueva fecha de entrada en vigor."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contacto",
+    "iletisim": "Para preguntas:",
+    "iletisimKonu": "Privacidad de Nur",
+    "metaBaslik": "Política de privacidad de Nur",
+    "metaAciklama": "Política de privacidad de la app Nur: sin cuenta, sin anuncios ni rastreo, los datos se quedan en tu dispositivo."
+  }
+}

@@ -11,7 +11,7 @@
     "dil": "Dil"
   },
   "kahraman": {
-    "simgeAlt": "Nur tətbiq simgesi: qızılı açıq kitab və üstündə nur",
+    "simgeAlt": "Nur tətbiqinin ikonu: qızılı açıq kitab və üstündə nur",
     "giris": "İbadəti müntəzəm etməyi asanlaşdıran sadə bir köməkçi. Uşaq və böyük rejimi var; hesab istəmir, reklam göstərmir, məlumat toplamır.",
     "rozet": "iOS üçün · tezliklə App Store-da"
   },
@@ -20,17 +20,17 @@
     {
       "ikon": "🕰️",
       "h3": "Namaz vaxtları",
-      "p": "Diyanet daxil 12 hesablama üsulu, yüksək enlik qaydaları, vaxt bildirişləri və aylıq namaz cədvəli."
+      "p": "Diyanət daxil 12 hesablama üsulu, yüksək enlik qaydaları, vaxt bildirişləri və aylıq namaz cədvəli."
     },
     {
       "ikon": "🧎",
       "h3": "3D namaz və dəstəmaz",
-      "p": "Kişi, qadın və uşaq fiquru ilə addım-addım hərəkətlər; hər tərəfdən fırladıla bilər, duaları ilə birlikdə."
+      "p": "Kişi, qadın və uşaq fiquru ilə addım-addım hərəkətlər; hər tərəfdən fırladıla bilər, yanında ərəbcə dualar."
     },
     {
       "ikon": "📖",
       "h3": "Quran",
-      "p": "114 surə, səhifə-səhifə oxuma, oxunuş, beş qaridən ayə-ayə dinləmə, əlfəcin və xətm planı."
+      "p": "114 surə, ərəb mətnini səhifə-səhifə oxuma, beş qaridən ayə-ayə dinləmə, əlfəcin və xətm planı."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Məkan:</strong> Mən bölməsi › Məkan. “Məkanımı avtomatik tap”a toxun və ya siyahıdan şəhərini seç. Başqa şəhər seçilibsə, vaxtlar o şəhərə görə gəlir.",
           "<strong>Hesablama üsulu:</strong> Mən bölməsi › Hesablama üsulu. Türkiyə üçün Diyanət İşləri Başqanlığını seç; “Şəhərə görə avtomatik” də olduğun ölkənin üsulunu seçir.",
-          "<strong>Əsr vaxtı:</strong> Eyni ekranda Əsri-əvvəl (Diyanet) və ya Əsri-sani seçimini yoxla; ikisi arasında bir saata yaxın fərq ola bilər.",
+          "<strong>Əsr vaxtı:</strong> Eyni ekranda Əsri-əvvəl və ya Əsri-sani seçimini yoxla; ikisi arasında bir saata yaxın fərq ola bilər.",
           "<strong>Hicri tarix:</strong> Hicri təqvim bir gün sürüşürsə, Alətlər › Hicri təqvim bölməsindən ±2 günlük düzəliş verə bilərsən."
         ],
         "son": "Rəsmi təqvimlə bir neçə dəqiqəlik fərq ehtiyat payından qaynaqlana bilər və normaldır."
@@ -137,7 +137,7 @@
       {
         "h2": "Məlumatların cihazında qalır",
         "p": [
-          "İstəyə bağlı yazdığın ad, seçdiyin şəhər, ayarların, namaz və tapşırıq irəliləyişin, Quran oxuma irəliləyişin və əlfəcinlərin yalnız cihazında saxlanılır. Açıqdırsa, bu məlumatlar iPhone-unun iCloud ehtiyat nüsxəsinə də daxil olur; bu ehtiyat nüsxə Apple hesabına aiddir və Nur tərəfindən oxuna bilməz. Yüklədiyin ayə səsləri də cihazında qalır, lakin yenidən yüklənə bildiyi üçün ehtiyat nüsxəyə daxil edilmir; iOS yer açmaq üçün onları silə bilər, lazım olanda yenidən yüklənir. Əsas ekran vidcetini açsan, vidcetin göstərə bilməsi üçün qısa xülasə (növbəti vaxt, günün tapşırıqları) yenə cihazındakı ortaq sahəyə yazılır.",
+          "İstəyə bağlı yazdığın ad, seçdiyin şəhər, ayarların, namaz və tapşırıq irəliləyişin, Quran oxuma irəliləyişin və əlfəcinlərin yalnız cihazında saxlanılır. Açıqdırsa, bu məlumatlar iPhone-unun iCloud ehtiyat nüsxəsinə də daxil olur; bu ehtiyat nüsxə Apple hesabına aiddir və Nur tərəfindən oxuna bilməz. Yüklədiyin ayə səsləri də cihazında qalır, lakin yenidən yüklənə bildiyi üçün ehtiyat nüsxəyə daxil edilmir; iOS yer açmaq üçün onları silə bilər, lazım olanda yenidən yüklənir. Əsas ekran vidcetini açsan, vidcetin göstərə bilməsi üçün qısa xülasə (növbəti vaxt, günün tapşırıqları) cihazındakı ortaq sahəyə yazılır.",
           "İlk açılışda seçdiyin profil (uşaq, yetkin kişi və ya yetkin qadın; uşaqdırsa qız və ya oğlan) və məzhəb də yalnız cihazında saxlanılır; namaz izahı, fiqur və əsr vaxtının hesabı üçün istifadə olunur, heç yerə göndərilmir.",
           "Tətbiqi siləndə cihazdakı bütün Nur məlumatları da silinir."
         ]
@@ -145,7 +145,7 @@
       {
         "h2": "Xüsusi gün rejimi",
         "p": [
-          "Qadın və qız uşağı profilində açıla bilən xüsusi gün rejimi və hansı günlərdə açıq olduğu məlumatı yalnız tətbiqin öz yaddaşında, cihazında saxlanılır. Bu məlumat heç bir serverə göndərilmir; əsas ekran vidcetinin oxuduğu ortaq sahəyə yazılmır, bildiriş mətnlərində yer almır və qeyd edilmir (loq saxlanılmır). Vidcet və bildirişlər xüsusi gün açıq olanda da, bağlı olanda da eynidir. Bağladığında keçmiş günlər yalnız ardıcıllıq hesabı üçün ən çoxu 90 gün cihazda qalır; tətbiqi siləndə bu məlumat da silinir. Açıqdırsa, digər tətbiq məlumatlarınla birlikdə iPhone-unun iCloud ehtiyat nüsxəsinə daxil olur."
+          "Qadın və qız uşağı profilində açıla bilən xüsusi gün rejimi və hansı günlərdə açıq olduğu məlumatı yalnız tətbiqin öz yaddaşında, cihazında saxlanılır. Bu məlumat heç bir serverə göndərilmir; əsas ekran vidcetinin oxuduğu ortaq sahəyə yazılmır, bildiriş mətnlərində yer almır və qeyd edilmir (loq saxlanılmır). Vidcet və bildirişlər xüsusi gün rejimi açıq olanda da, bağlı olanda da eynidir. Bağladığında keçmiş günlər yalnız ardıcıllıq hesabı üçün ən çoxu 90 gün cihazda qalır; tətbiqi siləndə bu məlumat da silinir. Açıqdırsa, digər tətbiq məlumatlarınla birlikdə iPhone-unun iCloud ehtiyat nüsxəsinə daxil olur."
         ]
       },
       {

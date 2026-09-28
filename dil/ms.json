@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "Solat dan wuduk 3D",
-      "p": "Pergerakan langkah demi langkah dengan figura lelaki, wanita dan kanak-kanak; boleh diputar dari setiap sudut, lengkap dengan doanya."
+      "p": "Pergerakan langkah demi langkah dengan figura lelaki, wanita dan kanak-kanak; boleh diputar dari setiap sudut, disertai doa-doanya dalam bahasa Arab."
     },
     {
       "ikon": "📖",
       "h3": "Al-Quran",
-      "p": "114 surah, bacaan halaman demi halaman, transliterasi, dengar ayat demi ayat daripada lima qari, penanda dan pelan khatam."
+      "p": "114 surah, bacaan teks Arab halaman demi halaman, dengar ayat demi ayat daripada lima qari, penanda dan pelan khatam."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Lokasi:</strong> tab Saya › Lokasi. Sentuh “Cari lokasi saya secara automatik” atau pilih bandar anda daripada senarai. Jika bandar lain dipilih, waktu dipaparkan mengikut bandar itu.",
           "<strong>Kaedah pengiraan:</strong> tab Saya › Kaedah pengiraan. Untuk Turki, pilih Diyanet (Hal Ehwal Agama Turki); “Automatik mengikut bandar” pula memilih kaedah negara tempat anda berada.",
-          "<strong>Waktu Asar:</strong> Pada skrin yang sama, semak pilihan Asar awal (Diyanet) atau Asar thani; perbezaan antara keduanya boleh mencapai hampir sejam.",
+          "<strong>Waktu Asar:</strong> Pada skrin yang sama, semak pilihan Asar awal atau Asar thani; perbezaan antara keduanya boleh mencapai hampir sejam.",
           "<strong>Tarikh Hijrah:</strong> Jika kalendar Hijrah tersasar sehari, anda boleh membuat pelarasan ±2 hari di Alatan › Kalendar Hijrah."
         ],
         "son": "Perbezaan beberapa minit dengan takwim rasmi mungkin berpunca daripada margin ihtiat dan ia adalah normal."

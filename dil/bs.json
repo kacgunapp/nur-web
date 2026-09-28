@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "3D namaz i abdest",
-      "p": "Pokreti korak po korak s figurom muškarca, žene i djeteta; može se okretati iz svakog ugla, zajedno s dovama."
+      "p": "Pokreti korak po korak s figurom muškarca, žene i djeteta; može se okretati iz svakog ugla, uz dove na arapskom."
     },
     {
       "ikon": "📖",
       "h3": "Kur'an",
-      "p": "114 sura, čitanje stranicu po stranicu, transliteracija, slušanje ajet po ajet od pet učača, oznake i plan hatme."
+      "p": "114 sura, čitanje arapskog teksta stranicu po stranicu, slušanje ajet po ajet od pet učača, oznake i plan hatme."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Lokacija:</strong> kartica Ja › Lokacija. Dodirni „Pronađi moju lokaciju automatski“ ili odaberi svoj grad s liste. Ako je odabran drugi grad, vaktovi dolaze prema tom gradu.",
           "<strong>Metoda računanja:</strong> kartica Ja › Metoda računanja. Za Tursku odaberi Diyanet (Uprava za vjerske poslove Turske); „Automatski prema gradu“ bira metodu države u kojoj se nalaziš.",
-          "<strong>Ikindija:</strong> na istom ekranu provjeri izbor Asr-i evvel (Diyanet) ili Asr-i sani; između njih može biti razlika od gotovo sat vremena.",
+          "<strong>Ikindija:</strong> na istom ekranu provjeri izbor Asr-i evvel ili Asr-i sani; između njih može biti razlika od gotovo sat vremena.",
           "<strong>Hidžretski datum:</strong> ako hidžretski kalendar odstupa jedan dan, u Alati › Hidžretski kalendar možeš unijeti ispravku od ±2 dana."
         ],
         "son": "Razlika od nekoliko minuta u odnosu na zvanični kalendar može poticati od sigurnosne rezerve i normalna je."
@@ -145,14 +145,14 @@
       {
         "h2": "Način posebnih dana",
         "p": [
-          "Način posebnih dana, koji se može uključiti u profilu žene i djevojčice, i podatak o tome kojih je dana bio uključen čuvaju se samo u vlastitom spremištu aplikacije, na tvom uređaju. Taj podatak se ne šalje ni na jedan server; ne upisuje se u zajednički prostor koji čita widget početnog ekrana, ne pojavljuje se u tekstu obavijesti i ne bilježi se (nema zapisnika). Widget i obavijesti su isti bez obzira na to je li poseban dan uključen ili isključen. Kad ga isključiš, prethodni dani ostaju na uređaju najviše 90 dana, samo radi računanja niza; kad obrišeš aplikaciju, briše se i taj podatak. Ako je uključena, ulazi u iCloud rezervnu kopiju tvog iPhonea zajedno s ostalim podacima aplikacije."
+          "Način posebnih dana, koji se može uključiti u profilu žene i djevojčice, i podatak o tome kojih je dana bio uključen čuvaju se samo u vlastitom spremištu aplikacije, na tvom uređaju. Taj podatak se ne šalje ni na jedan server; ne upisuje se u zajednički prostor koji čita widget početnog ekrana, ne pojavljuje se u tekstu obavijesti i ne bilježi se (nema zapisnika). Widget i obavijesti su isti bez obzira na to je li način posebnih dana uključen ili isključen. Kad ga isključiš, prethodni dani ostaju na uređaju najviše 90 dana, samo radi računanja niza; kad obrišeš aplikaciju, briše se i taj podatak. Ako je uključena, ulazi u iCloud rezervnu kopiju tvog iPhonea zajedno s ostalim podacima aplikacije."
         ]
       },
       {
         "h2": "Lokacija",
         "p": [
           "Ako daš dozvolu za lokaciju, tvoja lokacija se na uređaju koristi za računanje vaktova namaza i smjera kible. Ako ne daš dozvolu, možeš odabrati svoj grad s liste.",
-          "Kad otvoriš ekran „Džamije u blizini“, tvoja lokacija se, zaokružena na približno 1 km (dvije decimale), šalje usluzi OpenStreetMap Overpass radi pronalaženja obližnjih džamija. Kao i pri svakom internetskom zahtjevu, do te usluge stiže i tvoja IP adresa; osim toga ne šalje se nijedan podatak koji te identificira. Grad pronađen prema lokaciji čuva se na uređaju s istom preciznošću, zaokružen na približno 1 km. Podaci o džamijama © OpenStreetMap contributors (ODbL)."
+          "Kad otvoriš ekran „Džamije u blizini“, tvoja lokacija se, zaokružena na približno 1 km (dvije decimale), šalje usluzi OpenStreetMap Overpass radi pronalaženja obližnjih džamija. Kao i pri svakom internetskom zahtjevu, do te usluge stiže i tvoja IP adresa; osim toga ne šalje se nijedan podatak koji te identificira. Grad pronađen prema lokaciji čuva se na uređaju s istom preciznošću, zaokružen na približno 1 km. Podaci o džamijama © saradnici OpenStreetMapa (ODbL)."
         ]
       },
       {

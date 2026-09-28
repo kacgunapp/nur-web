@@ -12,7 +12,7 @@
   },
   "kahraman": {
     "simgeAlt": "Icône de l'application Nur : un livre ouvert doré surmonté d'une lumière",
-    "giris": "Un compagnon simple qui t'aide à prier avec régularité. Mode enfant et mode adulte ; sans compte, sans publicité, sans collecte de données.",
+    "giris": "Un compagnon simple qui t'aide à pratiquer tes actes d'adoration avec régularité. Mode enfant et mode adulte ; sans compte, sans publicité, sans collecte de données.",
     "rozet": "Pour iOS · bientôt sur l'App Store"
   },
   "nelerVar": "Que contient l'application ?",
@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "Prière et ablutions en 3D",
-      "p": "Gestes étape par étape avec une figure d'homme, de femme ou d'enfant ; orientable sous tous les angles, avec les invocations."
+      "p": "Gestes étape par étape avec une figure d'homme, de femme ou d'enfant ; orientable sous tous les angles, avec les invocations en arabe en regard."
     },
     {
       "ikon": "📖",
       "h3": "Coran",
-      "p": "114 sourates, lecture page par page, translittération, écoute verset par verset avec cinq récitateurs, signets et plan de khatm."
+      "p": "114 sourates, lecture page par page du texte arabe, écoute verset par verset avec cinq récitateurs, signets et plan de khatm."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Position :</strong> onglet Moi › Position. Touche « Me localiser automatiquement » ou choisis ta ville dans la liste. Si une autre ville est sélectionnée, les horaires correspondent à cette ville.",
           "<strong>Méthode de calcul :</strong> onglet Moi › Méthode de calcul. Pour la Turquie, choisis Diyanet (Présidence des affaires religieuses) ; « Automatique selon la ville » choisit la méthode du pays où tu te trouves.",
-          "<strong>Heure de l'Asr :</strong> sur le même écran, vérifie le choix entre Asr awwal (Diyanet) et Asr thani ; l'écart entre les deux peut approcher une heure.",
+          "<strong>Heure de l'Asr :</strong> sur le même écran, vérifie le choix entre Asr awwal (plus tôt) et Asr thani (plus tard) ; l'écart entre les deux peut approcher une heure.",
           "<strong>Date hégirienne :</strong> si le calendrier hégirien est décalé d'un jour, tu peux appliquer une correction de ±2 jours dans Outils › Calendrier hégirien."
         ],
         "son": "Un écart de quelques minutes avec le calendrier officiel peut venir de la marge de précaution ; c'est normal."

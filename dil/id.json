@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "Salat dan wudu 3D",
-      "p": "Gerakan langkah demi langkah dengan figur laki-laki, perempuan, dan anak; bisa diputar dari segala sudut, lengkap dengan doanya."
+      "p": "Gerakan langkah demi langkah dengan figur laki-laki, perempuan, dan anak; bisa diputar dari segala sudut, disertai doa-doanya dalam bahasa Arab."
     },
     {
       "ikon": "📖",
       "h3": "Al-Qur'an",
-      "p": "114 surah, baca halaman demi halaman, transliterasi, dengar ayat demi ayat dari lima qari, penanda, dan rencana khatam."
+      "p": "114 surah, baca teks Arab halaman demi halaman, dengar ayat demi ayat dari lima qari, penanda, dan rencana khatam."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Lokasi:</strong> Tab Saya › Lokasi. Ketuk “Temukan lokasiku otomatis” atau pilih kotamu dari daftar. Jika kota lain yang dipilih, waktu salat mengikuti kota itu.",
           "<strong>Metode perhitungan:</strong> Tab Saya › Metode perhitungan. Untuk Turki pilih Diyanet (Kemenag Turki); “Otomatis sesuai kota” memilih metode negara tempatmu berada.",
-          "<strong>Waktu Asar:</strong> Di layar yang sama, periksa pilihan Asar awal (Diyanet) atau Asar tsani; selisih keduanya bisa hampir satu jam.",
+          "<strong>Waktu Asar:</strong> Di layar yang sama, periksa pilihan Asar awal atau Asar tsani; selisih keduanya bisa hampir satu jam.",
           "<strong>Tanggal Hijriah:</strong> Jika kalender Hijriah bergeser sehari, kamu bisa memberi koreksi ±2 hari dari Alat › Kalender Hijriah."
         ],
         "son": "Selisih beberapa menit dari kalender resmi bisa berasal dari margin kehati-hatian dan itu normal."

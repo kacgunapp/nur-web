@@ -1,0 +1,202 @@
+{
+  "kod": "vi",
+  "ad": "Tiếng Việt",
+  "yon": "ltr",
+  "baslik": "Nur: Giờ Salah & Qur'an",
+  "metaAciklama": "Giờ Salah, bài học Salah 3D, đọc và nghe Qur'an, Qiblah, bộ đếm Dhikr. Không tài khoản, không quảng cáo, không thu thập dữ liệu.",
+  "nav": {
+    "tanitim": "Giới thiệu",
+    "destek": "Hỗ trợ",
+    "gizlilik": "Quyền riêng tư",
+    "dil": "Ngôn ngữ"
+  },
+  "kahraman": {
+    "simgeAlt": "Biểu tượng ứng dụng Nur: một cuốn sách mở màu vàng kim với ánh sáng phía trên",
+    "giris": "Người bạn đồng hành đơn giản giúp bạn duy trì việc thờ phượng đều đặn dễ dàng hơn. Có chế độ trẻ em và người lớn; không yêu cầu tài khoản, không hiển thị quảng cáo và không thu thập dữ liệu.",
+    "rozet": "Dành cho iOS · sắp có trên App Store"
+  },
+  "nelerVar": "Có gì bên trong?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Giờ Salah",
+      "p": "12 phương pháp tính, bao gồm Diyanet, quy tắc vĩ độ cao, thông báo giờ Salah và lịch giờ Salah hằng tháng."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Salah và Wudu 3D",
+      "p": "Các động tác từng bước với hình nam, nữ hoặc trẻ em; xoay được ở mọi góc độ, kèm theo các Du'a bằng tiếng Ả Rập."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Qur'an",
+      "p": "114 Surah, đọc văn bản tiếng Ả Rập theo từng trang, nghe từng câu với năm Qari, dấu trang và kế hoạch Khatm."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qiblah",
+      "p": "La bàn và bản đồ cùng lúc: hướng Kaaba, khoảng cách theo đường thẳng và các thánh đường gần đây."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Bộ đếm Dhikr",
+      "p": "Bộ đếm với chuỗi Tasbih; nhiều chất liệu hạt khác nhau và rung nhẹ mỗi lần chạm."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Công cụ",
+      "p": "Tính Zakat và Fitrah, lịch Hijri và các ngày thiêng liêng, lời nhắc Suhur, Tahajjud và Jumu'ah."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Tiện ích",
+      "p": "Giờ Salah tiếp theo và nhiệm vụ hôm nay ngay trên màn hình chính; chạm vào để mở đúng mục."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Quyền riêng tư của bạn ở lại với bạn",
+    "maddeler": [
+      "Không tài khoản, không đăng nhập, không máy chủ.",
+      "Không quảng cáo, phân tích hay theo dõi.",
+      "Tiến độ và cài đặt của bạn chỉ lưu trên thiết bị của bạn.",
+      "Vị trí của bạn được dùng ngay trên thiết bị cho giờ Salah và Qiblah; khi tìm thánh đường gần đây, chỉ một vị trí đã làm tròn đến khoảng 1 km được gửi đi."
+    ],
+    "tamMetin": "Đọc toàn văn chính sách quyền riêng tư"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Bản dịch này chỉ nhằm mục đích cung cấp thông tin; nếu có khác biệt, văn bản tiếng Thổ Nhĩ Kỳ sẽ được ưu tiên áp dụng.",
+  "destek": {
+    "h1": "Hỗ trợ",
+    "giris": "Dưới đây là những tình huống thường gặp và cách khắc phục. Nếu không tìm thấy câu trả lời, hãy viết thư cho chúng tôi.",
+    "sssBaslik": "Câu hỏi thường gặp",
+    "sss": [
+      {
+        "soru": "Giờ Salah có vẻ không đúng",
+        "giris": "Giờ được tính dựa trên vị trí và phương pháp tính đã chọn. Hãy kiểm tra lần lượt các mục sau:",
+        "adimlar": [
+          "<strong>Vị trí:</strong> tab Tôi › Vị trí. Chạm vào “Tự động tìm vị trí của tôi” hoặc chọn thành phố của bạn từ danh sách. Nếu đang chọn một thành phố khác, giờ hiển thị sẽ là của thành phố đó.",
+          "<strong>Phương pháp tính:</strong> tab Tôi › Phương pháp tính. Tại Thổ Nhĩ Kỳ, hãy chọn Cơ quan Tôn giáo Thổ Nhĩ Kỳ (Diyanet); “Tự động theo thành phố” sẽ chọn phương pháp của quốc gia bạn đang ở.",
+          "<strong>Giờ Asr:</strong> Trên cùng màn hình đó, hãy kiểm tra lựa chọn Asr sớm hoặc Asr muộn; hai cách này có thể chênh nhau gần một giờ.",
+          "<strong>Ngày Hijri:</strong> Nếu lịch Hijri lệch một ngày, bạn có thể đặt điều chỉnh ±2 ngày trong Công cụ › Lịch Hijri."
+        ],
+        "son": "Chênh lệch vài phút so với lịch chính thức có thể là do khoảng thời gian dự phòng an toàn và là bình thường."
+      },
+      {
+        "soru": "Không nhận được thông báo",
+        "adimlar": [
+          "Trên iPhone, hãy mở <strong>Cài đặt › Thông báo › Nur</strong>; “Cho phép thông báo” phải được bật.",
+          "Nếu đang bật một chế độ Tập trung (Không làm phiền, Ngủ), hãy thêm Nur vào danh sách ứng dụng được cho phép.",
+          "Trong ứng dụng, <strong>tab Tôi › Thông báo Adhan</strong> phải được bật. Với lời nhắc Suhur, Tahajjud và Jumu'ah, hãy xem <strong>Công cụ › Lời nhắc</strong>.",
+          "Khi bạn thay đổi vị trí, thông báo sẽ tự động được lên lịch lại theo giờ mới.",
+          "iOS giới hạn số thông báo mà một ứng dụng có thể lên lịch trước; Nur lên lịch khoảng một tuần giờ Salah. Nếu bạn mở ứng dụng ít nhất mỗi tuần một lần, thông báo sẽ tiếp tục không gián đoạn."
+        ]
+      },
+      {
+        "soru": "Hướng Qiblah bị lệch",
+        "adimlar": [
+          "Hiệu chỉnh la bàn bằng cách di chuyển điện thoại trong không trung theo hình số 8 vài lần.",
+          "Tránh xa ốp lưng có nam châm, loa, bàn kim loại hoặc thiết bị điện tử; chúng làm la bàn bị sai lệch.",
+          "Hãy đảm bảo <strong>Cài đặt › Quyền riêng tư & Bảo mật › Dịch vụ định vị › Dịch vụ hệ thống › Hiệu chỉnh la bàn</strong> đang bật.",
+          "Hãy đảm bảo vị trí của bạn chính xác: góc Qiblah được tính từ vị trí đã chọn."
+        ]
+      },
+      {
+        "soru": "Âm thanh Qur'an không phát hoặc không tải về được",
+        "adimlar": [
+          "Âm thanh các câu được lấy từ internet. Hãy kiểm tra kết nối Wi-Fi hoặc di động; trong Cài đặt › Di động, quyền dùng dữ liệu di động của Nur phải được bật.",
+          "Nếu quá trình tải dừng giữa chừng, hãy thử lại: các tệp tải dở sẽ bị xóa và việc tải sẽ hoàn tất lại từ đầu.",
+          "Các Surah đã tải về phát được khi không có mạng. Bạn có thể xem và xóa các mục đã tải trong Đọc Qur'an › Cài đặt đọc.",
+          "Nút nghe chỉ có ở những Du'a được lấy từ các câu Qur'an; các Du'a khác không có nút này."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Liên hệ",
+    "iletisim": "Câu hỏi, góp ý hoặc báo lỗi:",
+    "iletisimKonu": "Hỗ trợ Nur",
+    "iletisimNot": "Nếu bạn ghi kèm mẫu iPhone, phiên bản iOS và thành phố đã chọn khi viết thư, chúng tôi có thể giúp nhanh hơn.",
+    "metaBaslik": "Hỗ trợ Nur",
+    "metaAciklama": "Câu hỏi thường gặp và thông tin liên hệ của ứng dụng Nur."
+  },
+  "gizlilik": {
+    "h1": "Chính sách quyền riêng tư",
+    "tarih": "Ngày có hiệu lực: 27 tháng 9 năm 2026",
+    "giris": "Chính sách này giải thích ứng dụng Nur: Giờ Salah & Qur'an dành cho iOS (“Nur”) sử dụng những thông tin nào và sử dụng như thế nào. Tóm lại: Nur không có máy chủ và không thu thập dữ liệu cá nhân nào từ bạn. Để hoạt động, một số tính năng gửi yêu cầu đến các dịch vụ bên thứ ba được liệt kê từng cái một bên dưới.",
+    "bolumler": [
+      {
+        "h2": "Không tài khoản",
+        "p": [
+          "Để sử dụng Nur, bạn không cần tạo tài khoản, đăng nhập hay cung cấp các thông tin như địa chỉ email hoặc số điện thoại. Ứng dụng không có máy chủ."
+        ]
+      },
+      {
+        "h2": "Không quảng cáo, phân tích hay theo dõi",
+        "p": [
+          "Nur không hiển thị quảng cáo; ứng dụng không chứa công cụ phân tích, báo cáo sự cố hay theo dõi nào. Ứng dụng không theo dõi bạn trên các ứng dụng và trang web khác và không truy cập mã định danh quảng cáo."
+        ]
+      },
+      {
+        "h2": "Dữ liệu của bạn ở lại trên thiết bị của bạn",
+        "p": [
+          "Tên bạn tùy chọn nhập, thành phố bạn chọn, các cài đặt, tiến độ Salah và nhiệm vụ, tiến độ đọc Qur'an và dấu trang của bạn chỉ được lưu trên thiết bị của bạn. Nếu được bật, dữ liệu này cũng nằm trong bản sao lưu iCloud của iPhone; bản sao lưu đó thuộc tài khoản Apple của bạn và Nur không thể đọc được. Âm thanh các câu mà bạn tải về cũng ở lại trên thiết bị, nhưng vì có thể tải lại nên không được sao lưu; iOS có thể xóa chúng để giải phóng dung lượng và chúng sẽ được tải lại khi cần. Nếu bạn bật tiện ích màn hình chính, một bản tóm tắt ngắn (giờ Salah tiếp theo, nhiệm vụ hôm nay) sẽ được ghi vào vùng dùng chung trên thiết bị để tiện ích có thể hiển thị.",
+          "Hồ sơ bạn chọn khi mở lần đầu (trẻ em, nam giới trưởng thành hoặc nữ giới trưởng thành; với trẻ em thì là bé gái hoặc bé trai) và trường phái của bạn cũng chỉ được lưu trên thiết bị của bạn; chúng được dùng cho phần thuyết minh Salah, hình 3D và cách tính giờ Asr, và không bao giờ được gửi đi đâu.",
+          "Khi bạn xóa ứng dụng, toàn bộ dữ liệu Nur trên thiết bị cũng bị xóa theo."
+        ]
+      },
+      {
+        "h2": "Chế độ ngày đặc biệt",
+        "p": [
+          "Chế độ ngày đặc biệt, có thể bật trong hồ sơ nữ và bé gái, cùng với bản ghi về những ngày chế độ này được bật, chỉ được lưu trong bộ nhớ riêng của ứng dụng trên thiết bị của bạn. Thông tin này không bao giờ được gửi đến bất kỳ máy chủ nào; không được ghi vào vùng dùng chung mà tiện ích màn hình chính đọc, không xuất hiện trong nội dung thông báo và không bị ghi nhận (không lưu nhật ký). Tiện ích và thông báo đều như nhau dù chế độ ngày đặc biệt đang bật hay tắt. Khi bạn tắt chế độ này, các ngày đã qua chỉ ở lại trên thiết bị tối đa 90 ngày, chỉ để tính chuỗi ngày; khi bạn xóa ứng dụng, thông tin này cũng bị xóa. Nếu được bật, thông tin này nằm trong bản sao lưu iCloud của iPhone cùng với các dữ liệu ứng dụng khác của bạn."
+        ]
+      },
+      {
+        "h2": "Vị trí",
+        "p": [
+          "Nếu bạn cấp quyền truy cập vị trí, vị trí của bạn được dùng trên thiết bị để tính giờ Salah và hướng Qiblah. Nếu bạn không cấp quyền truy cập vị trí, bạn có thể chọn thành phố của mình từ danh sách.",
+          "Khi bạn mở màn hình “Thánh đường gần đây”, vị trí của bạn được làm tròn đến khoảng 1 km (hai chữ số thập phân) và gửi đến dịch vụ Overpass của OpenStreetMap để tìm các thánh đường ở gần. Như với mọi yêu cầu trên internet, địa chỉ IP của bạn cũng đến được dịch vụ này; không có thông tin nào khác giúp nhận dạng bạn được gửi đi. Thành phố được xác định từ vị trí của bạn cũng được lưu trên thiết bị với cùng độ chính xác, làm tròn đến khoảng 1 km. Dữ liệu thánh đường © những người đóng góp OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Bản đồ và chỉ đường (Bản đồ Apple)",
+        "p": [
+          "Bản đồ trên màn hình “Thánh đường gần đây” và “Kaaba” được hiển thị bằng Bản đồ Apple. Hình ảnh bản đồ được tải từ Apple cho khu vực đang hiển thị trên màn hình; nếu bạn đã cấp quyền truy cập vị trí, vị trí của bạn cũng được hiển thị trên bản đồ. Dịch vụ này tuân theo chính sách quyền riêng tư của Apple.",
+          "Khi bạn chạm vào nút “Chỉ đường” của một thánh đường, Bản đồ Apple sẽ mở với tên và tọa độ của thánh đường đó; lộ trình được tính trong Bản đồ Apple. Việc này chỉ xảy ra khi bạn chạm."
+        ]
+      },
+      {
+        "h2": "Âm thanh Qur'an",
+        "p": [
+          "Âm thanh các câu được phát từ, hoặc tải về thiết bị của bạn từ, dịch vụ Islamic Network (cdn.islamic.network). Với mỗi yêu cầu, dịch vụ này nhận được: địa chỉ IP của bạn, địa chỉ của tệp được yêu cầu (đang nghe Surah và câu nào của Qari nào) và mã nhận dạng trình duyệt tiêu chuẩn (User-Agent) chứa phiên bản ứng dụng và iOS. Không có thông tin nào khác được gửi đi. Âm thanh đã tải về thiết bị phát được khi không có mạng. Bản ghi âm thuộc bản quyền của các Qari; nguồn và điều khoản sử dụng có trong ứng dụng tại Giới thiệu › Nguồn và giấy phép."
+        ]
+      },
+      {
+        "h2": "Chia sẻ",
+        "p": [
+          "Khi bạn chạm vào nút “Chia sẻ tiến độ”, bản tóm tắt tiến độ của bạn (chuỗi ngày, mục tiêu, số lần Salah và Dhikr) sẽ mở trong bảng chia sẻ của iOS. Nội dung chỉ được gửi đến ứng dụng hoặc người mà bạn chọn; Nur không bao giờ tự chia sẻ bất cứ thứ gì."
+        ]
+      },
+      {
+        "h2": "Thông báo",
+        "p": [
+          "Thông báo giờ Salah và lời nhắc được lên lịch cục bộ trên thiết bị của bạn. Không sử dụng thông báo từ xa (đẩy); không có đăng ký nào với bất kỳ máy chủ nào được thực hiện cho thông báo."
+        ]
+      },
+      {
+        "h2": "Trẻ em",
+        "p": [
+          "Nur có chế độ trẻ em. Vì ứng dụng không thu thập dữ liệu cá nhân từ bất kỳ người dùng nào, kể cả trẻ em, nên cũng không có hoạt động xử lý dữ liệu nào dành riêng cho trẻ em."
+        ]
+      },
+      {
+        "h2": "Thay đổi",
+        "p": [
+          "Nếu chính sách này thay đổi, phiên bản hiện hành sẽ được đăng trên trang này cùng với ngày có hiệu lực mới."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Liên hệ",
+    "iletisim": "Nếu có câu hỏi:",
+    "iletisimKonu": "Quyền riêng tư Nur",
+    "metaBaslik": "Chính sách quyền riêng tư của Nur",
+    "metaAciklama": "Chính sách quyền riêng tư của ứng dụng Nur: không tài khoản, không quảng cáo hay theo dõi, dữ liệu ở lại trên thiết bị của bạn."
+  }
+}

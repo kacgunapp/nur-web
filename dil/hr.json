@@ -1,0 +1,202 @@
+{
+  "kod": "hr",
+  "ad": "Hrvatski",
+  "yon": "ltr",
+  "baslik": "Nur: Vremena namaza i Kur'an",
+  "metaAciklama": "Vremena namaza, 3D lekcije namaza, čitanje i slušanje Kur'ana, Kibla, brojač zikra. Bez računa, bez oglasa, bez prikupljanja podataka.",
+  "nav": {
+    "tanitim": "Predstavljanje",
+    "destek": "Podrška",
+    "gizlilik": "Privatnost",
+    "dil": "Jezik"
+  },
+  "kahraman": {
+    "simgeAlt": "Ikona aplikacije Nur: zlatna otvorena knjiga i svjetlost iznad nje",
+    "giris": "Jednostavan pratitelj koji olakšava redovito obavljanje ibadeta. Ima dječji način i način za odrasle; ne traži račun, ne prikazuje oglase i ne prikuplja podatke.",
+    "rozet": "Za iOS · uskoro na App Storeu"
+  },
+  "nelerVar": "Što sadrži?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Vremena namaza",
+      "p": "12 metoda izračuna, uključujući Diyanet, pravila za visoke geografske širine, obavijesti o vremenima namaza i mjesečna vaktija."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D namaz i abdest",
+      "p": "Pokreti korak po korak s likom muškarca, žene ili djeteta; možeš ih okretati pod bilo kojim kutom, a uz njih su dove na arapskom."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Kur'an",
+      "p": "114 sura, čitanje arapskog teksta stranicu po stranicu, slušanje ajet po ajet u izvedbi pet učača, oznake i plan hatme."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Kibla",
+      "p": "Kompas i karta zajedno: smjer Kabe, zračna udaljenost i obližnje džamije."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Brojač zikra",
+      "p": "Brojač sa zrnima tespiha; različiti materijali zrna i lagana vibracija pri svakom dodiru."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Alati",
+      "p": "Izračun zekata i fitre, hidžretski kalendar i mubarek dani, podsjetnici za sehur, tehedžud i džumu."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Sljedeći namaz i zadaci dana na početnom zaslonu; dodirom se otvara odgovarajući odjeljak."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Tvoja privatnost ostaje kod tebe",
+    "maddeler": [
+      "Bez računa, prijave i poslužitelja.",
+      "Bez oglasa, analitike i praćenja.",
+      "Tvoj napredak i postavke ostaju samo na tvom uređaju.",
+      "Tvoja lokacija koristi se na uređaju za vremena namaza i Kiblu; za pretragu obližnjih džamija šalje se samo verzija zaokružena na otprilike 1 km."
+    ],
+    "tamMetin": "Pročitaj cijela pravila o privatnosti"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Ovaj je prijevod samo informativnog karaktera; u slučaju bilo kakvog neslaganja mjerodavan je tekst na turskom jeziku.",
+  "destek": {
+    "h1": "Podrška",
+    "giris": "U nastavku su česte situacije i njihova rješenja. Ako ne nađeš odgovor, piši nam.",
+    "sssBaslik": "Česta pitanja",
+    "sss": [
+      {
+        "soru": "Vremena namaza izgledaju pogrešno",
+        "giris": "Vremena se računaju prema odabranoj lokaciji i metodi izračuna. Redom provjeri sljedeće:",
+        "adimlar": [
+          "<strong>Lokacija:</strong> kartica Ja › Lokacija. Dodirni „Automatski pronađi moju lokaciju” ili odaberi svoj grad s popisa. Ako je odabran neki drugi grad, vremena se prikazuju za taj grad.",
+          "<strong>Metoda izračuna:</strong> kartica Ja › Metoda izračuna. Za Tursku odaberi Predsjedništvo za vjerske poslove (Diyanet); „Automatski prema gradu” bira metodu zemlje u kojoj se nalaziš.",
+          "<strong>Vrijeme ikindije:</strong> na istom zaslonu provjeri izbor rana ikindija (asr-i evvel) ili kasna ikindija (asr-i sani); razlika između njih može biti gotovo sat vremena.",
+          "<strong>Hidžretski datum:</strong> ako hidžretski kalendar odstupa za jedan dan, u Alati › Hidžretski kalendar možeš postaviti ispravak od ±2 dana."
+        ],
+        "son": "Razlika od nekoliko minuta u odnosu na službeni kalendar može proizlaziti iz sigurnosne rezerve i normalna je."
+      },
+      {
+        "soru": "Obavijesti ne stižu",
+        "adimlar": [
+          "Na iPhoneu otvori <strong>Postavke › Obavijesti › Nur</strong>; opcija „Dopusti obavijesti” mora biti uključena.",
+          "Ako je uključen način Fokus (Ne uznemiravaj, Spavanje), dodaj Nur među dopuštene aplikacije.",
+          "U aplikaciji mora biti uključena opcija <strong>kartica Ja › Obavijest o ezanu</strong>. Podsjetnike za sehur, tehedžud i džumu naći ćeš u <strong>Alati › Podsjetnici</strong>.",
+          "Kad promijeniš lokaciju, obavijesti se automatski ponovno zakazuju prema novim vremenima.",
+          "iOS ograničava broj obavijesti koje aplikacija može unaprijed zakazati; Nur planira vremena namaza za otprilike tjedan dana. Ako aplikaciju otvoriš barem jednom tjedno, obavijesti se nastavljaju bez prekida."
+        ]
+      },
+      {
+        "soru": "Smjer Kible odstupa",
+        "adimlar": [
+          "Kalibriraj kompas tako da telefonom nekoliko puta u zraku opišeš osmicu.",
+          "Udalji se od magnetskih maski, zvučnika, metalnih stolova ili elektroničkih uređaja; oni ometaju kompas.",
+          "Provjeri je li uključena opcija <strong>Postavke › Privatnost i sigurnost › Lokacijske usluge › Usluge sustava › Kalibracija kompasa</strong>.",
+          "Provjeri je li tvoja lokacija točna: kut Kible računa se prema odabranoj lokaciji."
+        ]
+      },
+      {
+        "soru": "Zvuk Kur'ana se ne reproducira ili ne preuzima",
+        "adimlar": [
+          "Zvučni zapisi ajeta dolaze s interneta. Provjeri Wi-Fi ili mobilnu vezu; u Postavke › Mobilna mreža Nur mora imati dopušten mobilni prijenos podataka.",
+          "Ako je preuzimanje prekinuto na pola, pokušaj ponovno: djelomično preuzete datoteke brišu se i preuzimanje se dovršava od početka.",
+          "Preuzete sure reproduciraju se bez mreže. Preuzimanja možeš vidjeti i izbrisati u Čitaj Kur'an › Postavke čitanja.",
+          "Gumb za slušanje postoji samo kod dova preuzetih iz kur'anskih ajeta; kod ostalih dova gumb se ne prikazuje."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Za pitanja, prijedloge ili prijavu pogrešaka:",
+    "iletisimKonu": "Nur – podrška",
+    "iletisimNot": "Ako u poruci navedeš model iPhonea, verziju iOS-a i odabrani grad, moći ćemo brže pomoći.",
+    "metaBaslik": "Nur – podrška",
+    "metaAciklama": "Česta pitanja i kontakt za aplikaciju Nur."
+  },
+  "gizlilik": {
+    "h1": "Pravila o privatnosti",
+    "tarih": "Datum stupanja na snagu: 27. rujna 2026.",
+    "giris": "Ova pravila objašnjavaju koje podatke i na koji način koristi aplikacija Nur: Vremena namaza i Kur'an za iOS („Nur”). Ukratko: Nur nema poslužitelj i od tebe ne prikuplja osobne podatke. Neke funkcije, kako bi radile, šalju zahtjeve uslugama trećih strana koje su pojedinačno navedene u nastavku.",
+    "bolumler": [
+      {
+        "h2": "Bez računa",
+        "p": [
+          "Za korištenje Nura ne moraš otvoriti račun, prijaviti se ni navesti podatke poput adrese e-pošte ili broja telefona. Aplikacija nema poslužitelj."
+        ]
+      },
+      {
+        "h2": "Bez oglasa, analitike i praćenja",
+        "p": [
+          "Nur ne prikazuje oglase; ne sadrži alate za analitiku, izvješćivanje o rušenju ni praćenje. Ne prati te kroz aplikacije i web-stranice i ne pristupa oglašivačkom identifikatoru."
+        ]
+      },
+      {
+        "h2": "Tvoji podaci ostaju na tvom uređaju",
+        "p": [
+          "Ime koje po želji uneseš, grad koji odabereš, tvoje postavke, napredak u namazima i zadacima, napredak u čitanju Kur'ana i oznake pohranjuju se samo na tvom uređaju. Ako je uključena iCloud sigurnosna kopija tvog iPhonea, ti su podaci uključeni i u nju; ta sigurnosna kopija pripada tvom Apple računu i Nur je ne može čitati. Preuzeti zvučni zapisi ajeta također ostaju na tvom uređaju, ali budući da se mogu ponovno preuzeti, ne uključuju se u sigurnosnu kopiju; iOS ih može izbrisati kako bi oslobodio prostor, a po potrebi se ponovno preuzimaju. Ako uključiš widget početnog zaslona, kratki sažetak (sljedeći namaz, zadaci dana) zapisuje se u zajedničko područje na tvom uređaju kako bi ga widget mogao prikazati.",
+          "Profil koji odabereš pri prvom pokretanju (dijete, odrasli muškarac ili odrasla žena; za dijete djevojčica ili dječak) i mezheb također se pohranjuju samo na tvom uređaju; koriste se za objašnjenje namaza, lik i izračun vremena ikindije i nikada se nikamo ne šalju.",
+          "Kad izbrišeš aplikaciju, zajedno s njom brišu se i svi podaci Nura na uređaju."
+        ]
+      },
+      {
+        "h2": "Način posebnih dana",
+        "p": [
+          "Način posebnih dana, koji se može uključiti na profilima žene i djevojčice, i podatak o tome kojih je dana bio uključen čuvaju se samo u vlastitoj pohrani aplikacije, na tvom uređaju. Taj se podatak nikada ne šalje ni na jedan poslužitelj; ne zapisuje se u zajedničko područje koje čita widget početnog zaslona, ne pojavljuje se u tekstu obavijesti i ne bilježi se (ne vode se zapisnici). Widget i obavijesti isti su bez obzira na to je li način posebnih dana uključen ili isključen. Kad ga isključiš, prošli dani ostaju na uređaju najviše 90 dana, samo radi izračuna niza; kad izbrišeš aplikaciju, briše se i taj podatak. Ako je uključena iCloud sigurnosna kopija tvog iPhonea, taj je podatak u nju uključen zajedno s ostalim podacima aplikacije."
+        ]
+      },
+      {
+        "h2": "Lokacija",
+        "p": [
+          "Ako dopustiš pristup lokaciji, tvoja se lokacija na uređaju koristi za izračun vremena namaza i smjera Kible. Ako ne dopustiš pristup lokaciji, svoj grad možeš odabrati s popisa.",
+          "Kad otvoriš zaslon „Obližnje džamije”, tvoja se lokacija zaokružuje na otprilike 1 km (dvije decimale) i šalje usluzi OpenStreetMap Overpass kako bi se pronašle džamije u blizini. Kao i kod svakog internetskog zahtjeva, toj usluzi stiže i tvoja IP adresa; ne šalju se nikakvi drugi podaci koji te identificiraju. Grad pronađen na temelju tvoje lokacije pohranjuje se na uređaju s istom preciznošću, zaokružen na otprilike 1 km. Podaci o džamijama © suradnici OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Karta i upute za put (Apple Karte)",
+        "p": [
+          "Karte na zaslonima „Obližnje džamije” i „Kaba” prikazuju se pomoću Apple Karata. Slike karte učitavaju se od Applea za područje prikazano na zaslonu; ako je pristup lokaciji dopušten, na karti se prikazuje i tvoja lokacija. Na ovu se uslugu primjenjuju Appleova pravila o privatnosti.",
+          "Kad dodirneš gumb „Upute za put” kod džamije, otvaraju se Apple Karte s nazivom i koordinatama džamije; ruta se izračunava u Apple Kartama. To se događa samo kad dodirneš gumb."
+        ]
+      },
+      {
+        "h2": "Zvučni zapisi Kur'ana",
+        "p": [
+          "Zvučni zapisi ajeta reproduciraju se s usluge Islamic Network (cdn.islamic.network) ili se s nje preuzimaju na tvoj uređaj. Uz svaki zahtjev ta usluga prima: tvoju IP adresu, adresu zatraženog zapisa (koju suru i ajet kojeg učača slušaš) i standardni identifikator preglednika (User-Agent) koji sadrži verzije aplikacije i iOS-a. Ne šalju se nikakvi drugi podaci. Zapisi preuzeti na uređaj reproduciraju se bez mreže. Autorska prava na snimke pripadaju učačima; izvor i uvjeti korištenja nalaze se u aplikaciji pod O aplikaciji › Izvori i licencije."
+        ]
+      },
+      {
+        "h2": "Dijeljenje",
+        "p": [
+          "Kad dodirneš gumb „Podijeli moj napredak”, sažetak tvog napretka (niz, cilj, broj namaza i zikrova) otvara se u iOS izborniku za dijeljenje. Tekst ide samo aplikaciji ili osobi koju odabereš; Nur nikada ništa ne dijeli sam od sebe."
+        ]
+      },
+      {
+        "h2": "Obavijesti",
+        "p": [
+          "Obavijesti o vremenima namaza i podsjetnici zakazuju se lokalno na tvom uređaju. Udaljene (push) obavijesti ne koriste se; radi obavijesti ne obavlja se nikakva registracija ni na jednom poslužitelju."
+        ]
+      },
+      {
+        "h2": "Djeca",
+        "p": [
+          "Nur ima dječji način. Budući da aplikacija ne prikuplja osobne podatke ni od jednog korisnika, uključujući djecu, ne postoji ni obrada podataka svojstvena djeci."
+        ]
+      },
+      {
+        "h2": "Izmjene",
+        "p": [
+          "Ako se ova pravila izmijene, važeća verzija bit će objavljena na ovoj stranici s novim datumom stupanja na snagu."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Za pitanja:",
+    "iletisimKonu": "Nur – privatnost",
+    "metaBaslik": "Nur – pravila o privatnosti",
+    "metaAciklama": "Pravila o privatnosti aplikacije Nur: bez računa, bez oglasa i praćenja, podaci ostaju na tvom uređaju."
+  }
+}

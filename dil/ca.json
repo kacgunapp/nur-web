@@ -1,0 +1,202 @@
+{
+  "kod": "ca",
+  "ad": "Català",
+  "yon": "ltr",
+  "baslik": "Nur: Hores de pregària, Alcorà",
+  "metaAciklama": "Hores de pregària, lliçons de pregària en 3D, llegir i escoltar l'Alcorà, Qibla, comptador de dhikr. Sense compte, sense anuncis, sense recollida de dades.",
+  "nav": {
+    "tanitim": "Presentació",
+    "destek": "Assistència",
+    "gizlilik": "Privadesa",
+    "dil": "Idioma"
+  },
+  "kahraman": {
+    "simgeAlt": "Icona de l'app Nur: un llibre obert daurat amb llum al damunt",
+    "giris": "Un company senzill que et facilita mantenir la teva adoració amb regularitat. Té mode infantil i mode adult; no demana cap compte, no mostra anuncis i no recull dades.",
+    "rozet": "Per a iOS · aviat a l'App Store"
+  },
+  "nelerVar": "Què hi trobaràs?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Hores de pregària",
+      "p": "12 mètodes de càlcul, inclòs el de Diyanet, regles de latitud alta, notificacions de les hores de pregària i un horari mensual."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Pregària i ablució en 3D",
+      "p": "Moviments pas a pas amb una figura d'home, dona o infant; es pot girar des de qualsevol angle, amb les súpliques en àrab al costat."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Alcorà",
+      "p": "114 sures, lectura del text àrab pàgina a pàgina, escolta aleia per aleia amb cinc recitadors, marcadors i un pla de khatm."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Brúixola i mapa alhora: la direcció de la Kaaba, la distància en línia recta i les mesquites properes."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Comptador de dhikr",
+      "p": "Un comptador amb tasbih; diferents materials per a les boles i una vibració suau a cada toc."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Eines",
+      "p": "Càlcul del zakat i la fitra, calendari de l'hègira i dies beneïts, recordatoris del suhur, el tahajjud i la Jumu'a."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Giny",
+      "p": "La propera pregària i les tasques del dia a la pantalla d'inici; toca'l per obrir la secció corresponent."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "La teva privadesa es queda amb tu",
+    "maddeler": [
+      "Sense compte, inici de sessió ni servidor.",
+      "Sense anuncis, analítiques ni seguiment.",
+      "El teu progrés i la teva configuració es queden només al teu dispositiu.",
+      "La teva ubicació s'utilitza al dispositiu per a les hores de pregària i la Qibla; per a la cerca de mesquites properes només s'envia una versió arrodonida a 1 km aproximadament."
+    ],
+    "tamMetin": "Llegeix la política de privadesa completa"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Aquesta traducció és només informativa; en cas de discrepància, preval el text en turc.",
+  "destek": {
+    "h1": "Assistència",
+    "giris": "A continuació trobaràs situacions habituals i com resoldre-les. Si no hi trobes la resposta, escriu-nos.",
+    "sssBaslik": "Preguntes freqüents",
+    "sss": [
+      {
+        "soru": "Les hores de pregària semblen incorrectes",
+        "giris": "Les hores es calculen segons la ubicació i el mètode de càlcul seleccionats. Comprova per ordre el següent:",
+        "adimlar": [
+          "<strong>Ubicació:</strong> pestanya Jo › Ubicació. Toca «Troba la meva ubicació automàticament» o tria la teva ciutat de la llista. Si hi ha una altra ciutat seleccionada, les hores seran les d'aquella ciutat.",
+          "<strong>Mètode de càlcul:</strong> pestanya Jo › Mètode de càlcul. Per a Turquia, tria Presidència d'Afers Religiosos (Diyanet); «Automàtic segons la ciutat» tria el mètode del país on ets.",
+          "<strong>Hora de l'Asr:</strong> a la mateixa pantalla, comprova si has triat Asr primerenc o Asr tardà; entre tots dos hi pot haver gairebé una hora de diferència.",
+          "<strong>Data de l'hègira:</strong> si el calendari de l'hègira va desfasat un dia, pots aplicar una correcció de ±2 dies a Eines › Calendari de l'hègira."
+        ],
+        "son": "Una diferència de pocs minuts respecte al calendari oficial pot venir d'un marge de seguretat i és normal."
+      },
+      {
+        "soru": "No arriben les notificacions",
+        "adimlar": [
+          "A l'iPhone, obre <strong>Configuració › Notificacions › Nur</strong>; «Permetre notificacions» ha d'estar activat.",
+          "Si tens activat un mode de concentració (No molestis, Son), afegeix Nur a les apps permeses.",
+          "A l'app, <strong>pestanya Jo › Avís de l'adhan</strong> ha d'estar activat. Per als recordatoris del suhur, el tahajjud i la Jumu'a, consulta <strong>Eines › Recordatoris</strong>.",
+          "Quan canvies la ubicació, les notificacions es tornen a programar automàticament per a les noves hores.",
+          "L'iOS limita quantes notificacions pot programar una app per endavant; Nur planifica les hores de pregària d'una setmana aproximadament. Si obres l'app almenys un cop per setmana, les notificacions continuen sense interrupció."
+        ]
+      },
+      {
+        "soru": "La direcció de la Qibla es desvia",
+        "adimlar": [
+          "Calibra la brúixola movent el telèfon per l'aire dibuixant un 8 unes quantes vegades.",
+          "Allunya't de fundes magnètiques, altaveus, taules metàl·liques o aparells electrònics; desvien la brúixola.",
+          "Assegura't que <strong>Configuració › Privacitat i seguretat › Localització › Serveis del sistema › Calibratge de la brúixola</strong> estigui activat.",
+          "Assegura't que la teva ubicació sigui correcta: l'angle de la Qibla es calcula a partir de la ubicació seleccionada."
+        ]
+      },
+      {
+        "soru": "L'àudio de l'Alcorà no es reprodueix o no es baixa",
+        "adimlar": [
+          "L'àudio de les aleies ve d'internet. Comprova la connexió Wi-Fi o de dades mòbils; a Configuració › Dades mòbils, el permís de dades mòbils de Nur ha d'estar activat.",
+          "Si una baixada s'ha aturat a mitges, torna-ho a provar: els fitxers baixats parcialment s'eliminen i la baixada es completa des del principi.",
+          "Les sures baixades es reprodueixen sense connexió. Pots veure i eliminar les baixades a Llegeix l'Alcorà › Opcions de lectura.",
+          "El botó d'escoltar només hi és a les súpliques que provenen d'aleies de l'Alcorà; les altres súpliques no tenen botó."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contacte",
+    "iletisim": "Per a preguntes, suggeriments o informes d'errors:",
+    "iletisimKonu": "Assistència de Nur",
+    "iletisimNot": "Si en escriure'ns inclous el model d'iPhone, la versió d'iOS i la ciutat seleccionada, et podrem ajudar més de pressa.",
+    "metaBaslik": "Assistència de Nur",
+    "metaAciklama": "Preguntes freqüents i contacte de l'app Nur."
+  },
+  "gizlilik": {
+    "h1": "Política de privadesa",
+    "tarih": "Data d'entrada en vigor: 27 de setembre de 2026",
+    "giris": "Aquesta política explica quina informació fa servir l'app Nur: Hores de pregària, Alcorà per a iOS («Nur») i com la fa servir. En resum: Nur no té cap servidor i no recull cap dada personal teva. Algunes funcions envien sol·licituds als serveis de tercers que s'indiquen un per un a continuació per poder funcionar.",
+    "bolumler": [
+      {
+        "h2": "Sense compte",
+        "p": [
+          "Per fer servir Nur no cal que creïs un compte, que iniciïs sessió ni que facilitis dades com una adreça electrònica o un número de telèfon. L'app no té cap servidor."
+        ]
+      },
+      {
+        "h2": "Sense anuncis, analítiques ni seguiment",
+        "p": [
+          "Nur no mostra anuncis; no conté eines d'analítica, d'informes d'errors ni de seguiment. No et segueix entre apps i llocs web i no accedeix a l'identificador de publicitat."
+        ]
+      },
+      {
+        "h2": "Les teves dades es queden al teu dispositiu",
+        "p": [
+          "El nom que introdueixes opcionalment, la ciutat que tries, la teva configuració, el teu progrés en pregàries i tasques, el teu progrés en la lectura de l'Alcorà i els teus marcadors es desen només al teu dispositiu. Si està activada, aquestes dades també s'inclouen a la còpia de seguretat d'iCloud del teu iPhone; aquesta còpia pertany al teu compte d'Apple i Nur no la pot llegir. L'àudio de les aleies que baixes també es queda al teu dispositiu, però com que es pot tornar a baixar no s'inclou a la còpia de seguretat; l'iOS el pot eliminar per alliberar espai, i es torna a baixar quan cal. Si actives el giny de la pantalla d'inici, s'escriu un resum breu (la propera pregària, les tasques del dia) a l'espai compartit del teu dispositiu perquè el giny el pugui mostrar.",
+          "El perfil que tries el primer cop que obres l'app (infant, home adult o dona adulta; si és un infant, nena o nen) i la teva escola també es desen només al teu dispositiu; es fan servir per a l'explicació de la pregària, la figura i el càlcul de l'hora de l'Asr, i no s'envien enlloc.",
+          "Quan elimines l'app, totes les dades de Nur del dispositiu s'eliminen amb ella."
+        ]
+      },
+      {
+        "h2": "Mode de dies especials",
+        "p": [
+          "El mode de dies especials, que es pot activar als perfils de dona i de nena, i el registre dels dies en què ha estat activat es desen només a l'emmagatzematge propi de l'app, al teu dispositiu. Aquesta informació no s'envia mai a cap servidor; no s'escriu a l'espai compartit que llegeix el giny de la pantalla d'inici, no apareix al text de les notificacions i no es registra (no es desa cap registre). El giny i les notificacions són iguals tant si el mode de dies especials està activat com si no. Quan el desactives, els dies anteriors es queden al dispositiu com a màxim 90 dies, només per al càlcul de la ratxa; quan elimines l'app, aquesta informació també s'elimina. Si està activada, s'inclou a la còpia de seguretat d'iCloud del teu iPhone juntament amb la resta de dades de l'app."
+        ]
+      },
+      {
+        "h2": "Ubicació",
+        "p": [
+          "Si concedeixes el permís d'ubicació, la teva ubicació s'utilitza al teu dispositiu per calcular les hores de pregària i la direcció de la Qibla. Si no concedeixes el permís d'ubicació, pots triar la teva ciutat de la llista.",
+          "Quan obres la pantalla «Mesquites properes», la teva ubicació s'arrodoneix a 1 km aproximadament (dues xifres decimals) i s'envia al servei OpenStreetMap Overpass per trobar mesquites properes. Com en qualsevol sol·licitud a internet, la teva adreça IP també arriba a aquest servei; no s'envia cap altra informació que t'identifiqui. La ciutat trobada a partir de la teva ubicació es desa al dispositiu amb la mateixa precisió, arrodonida a 1 km aproximadament. Dades de mesquites © col·laboradors d'OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Mapa i indicacions (Mapes d'Apple)",
+        "p": [
+          "Els mapes de les pantalles «Mesquites properes» i «Kaaba» es mostren amb Mapes d'Apple. Les imatges del mapa es carreguen des d'Apple per a la zona que es mostra a la pantalla; si has concedit el permís d'ubicació, la teva ubicació també es mostra al mapa. Aquest servei està subjecte a la política de privadesa d'Apple.",
+          "Quan toques el botó «Indicacions» d'una mesquita, s'obre Mapes d'Apple amb el nom i les coordenades de la mesquita; la ruta es calcula a Mapes d'Apple. Això només passa quan tu el toques."
+        ]
+      },
+      {
+        "h2": "Àudio de l'Alcorà",
+        "p": [
+          "L'àudio de les aleies es reprodueix des del servei Islamic Network (cdn.islamic.network) o es baixa al teu dispositiu des d'aquest servei. A cada sol·licitud, aquest servei rep: la teva adreça IP, l'adreça del fitxer sol·licitat (quina sura i quina aleia de quin recitador s'està escoltant) i l'identificador estàndard del navegador (User-Agent), que conté les versions de l'app i de l'iOS. No s'envia cap altra informació. L'àudio baixat al dispositiu es reprodueix sense connexió. Els drets d'autor dels enregistraments són dels recitadors; la font i les condicions d'ús són a l'app, a Quant a › Fonts i llicències."
+        ]
+      },
+      {
+        "h2": "Compartir",
+        "p": [
+          "Quan toques el botó «Comparteix el meu progrés», el resum del teu progrés (ratxa, objectiu, nombre de pregàries i de dhikr) s'obre al full de compartir de l'iOS. El text només va a l'app o a la persona que tu triïs; Nur no comparteix mai res pel seu compte."
+        ]
+      },
+      {
+        "h2": "Notificacions",
+        "p": [
+          "Les notificacions de les hores de pregària i els recordatoris es programen localment al teu dispositiu. No es fan servir notificacions remotes (push); no es fa cap registre a cap servidor per a les notificacions."
+        ]
+      },
+      {
+        "h2": "Infants",
+        "p": [
+          "Nur té un mode infantil. Com que l'app no recull dades personals de cap usuari, infants inclosos, tampoc no hi ha cap tractament de dades específic per a infants."
+        ]
+      },
+      {
+        "h2": "Canvis",
+        "p": [
+          "Si aquesta política canvia, la versió vigent es publicarà en aquesta pàgina amb una nova data d'entrada en vigor."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contacte",
+    "iletisim": "Per a preguntes:",
+    "iletisimKonu": "Privadesa de Nur",
+    "metaBaslik": "Política de privadesa de Nur",
+    "metaAciklama": "Política de privadesa de l'app Nur: sense compte, sense anuncis ni seguiment, les dades es queden al dispositiu."
+  }
+}

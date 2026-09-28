@@ -1,0 +1,202 @@
+{
+  "kod": "nl",
+  "ad": "Nederlands",
+  "yon": "ltr",
+  "baslik": "Nur: Gebedstijden & Koran",
+  "metaAciklama": "Gebedstijden, 3D-gebedslessen, Koran lezen en beluisteren, Qibla, dhikr-teller. Geen account, geen advertenties, geen gegevensverzameling.",
+  "nav": {
+    "tanitim": "Overzicht",
+    "destek": "Ondersteuning",
+    "gizlilik": "Privacy",
+    "dil": "Taal"
+  },
+  "kahraman": {
+    "simgeAlt": "App-icoon van Nur: een gouden open boek met licht erboven",
+    "giris": "Een eenvoudige metgezel die het makkelijker maakt om je aanbidding regelmatig te houden. Er is een kinder- en een volwassenenmodus; de app vraagt geen account, toont geen advertenties en verzamelt geen gegevens.",
+    "rozet": "Voor iOS · binnenkort in de App Store"
+  },
+  "nelerVar": "Wat zit erin?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Gebedstijden",
+      "p": "12 berekeningsmethoden waaronder Diyanet, regels voor hoge breedtegraden, meldingen bij gebedstijden en een maandrooster."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D-gebed en woedoe",
+      "p": "Stap-voor-stap bewegingen met een figuur van een man, vrouw of kind; vanuit elke hoek te draaien, met de smeekbeden in het Arabisch erbij."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Koran",
+      "p": "114 soera's, de Arabische tekst pagina voor pagina lezen, vers voor vers luisteren naar vijf reciteurs, bladwijzers en een khatm-plan."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Kompas en kaart samen: de richting van de Ka'ba, de afstand in vogelvlucht en moskeeën in de buurt."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Dhikr-teller",
+      "p": "Een teller met een gebedssnoer; verschillende materialen voor de kralen en een lichte trilling bij elke tik."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Hulpmiddelen",
+      "p": "Berekening van zakaat en fitra, Hijri-kalender en gezegende dagen, herinneringen voor suhoor, tahajjud en het vrijdaggebed."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Het volgende gebed en de taken van vandaag op je beginscherm; tik erop om het juiste onderdeel te openen."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Je privacy blijft bij jou",
+    "maddeler": [
+      "Geen account, inlog of server.",
+      "Geen advertenties, analyse of tracking.",
+      "Je voortgang en instellingen blijven alleen op je toestel.",
+      "Je locatie wordt op het toestel gebruikt voor de gebedstijden en de Qibla; bij het zoeken naar moskeeën in de buurt wordt alleen een tot ongeveer 1 km afgeronde versie verstuurd."
+    ],
+    "tamMetin": "Lees het volledige privacybeleid"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Deze vertaling dient alleen ter informatie; bij verschillen is de Turkse tekst leidend.",
+  "destek": {
+    "h1": "Ondersteuning",
+    "giris": "Hieronder staan veelvoorkomende situaties en hoe je ze oplost. Vind je je antwoord niet, schrijf ons dan.",
+    "sssBaslik": "Veelgestelde vragen",
+    "sss": [
+      {
+        "soru": "De gebedstijden lijken niet te kloppen",
+        "giris": "De tijden worden berekend op basis van de gekozen locatie en berekeningsmethode. Controleer het volgende in deze volgorde:",
+        "adimlar": [
+          "<strong>Locatie:</strong> tabblad Ik › Locatie. Tik op “Mijn locatie automatisch bepalen” of kies je stad uit de lijst. Als er een andere stad is gekozen, gelden de tijden voor die stad.",
+          "<strong>Berekeningsmethode:</strong> tabblad Ik › Berekeningsmethode. Kies voor Turkije Presidium voor Godsdienstzaken (Diyanet); “Automatisch per stad” kiest de methode van het land waar je bent.",
+          "<strong>Asr-tijd:</strong> controleer op hetzelfde scherm de keuze tussen vroege Asr en late Asr; het verschil tussen beide kan bijna een uur zijn.",
+          "<strong>Hijri-datum:</strong> als de Hijri-kalender een dag verschuift, kun je in Hulpmiddelen › Hijri-kalender een correctie van ±2 dagen instellen."
+        ],
+        "son": "Een verschil van enkele minuten met de officiële kalender kan door een veiligheidsmarge komen en is normaal."
+      },
+      {
+        "soru": "Meldingen komen niet binnen",
+        "adimlar": [
+          "Open op je iPhone <strong>Instellingen › Berichtgeving › Nur</strong>; “Sta berichtgeving toe” moet aan staan.",
+          "Als er een focusmodus (Niet storen, Slaap) aan staat, voeg Nur dan toe aan de toegestane apps.",
+          "In de app moet <strong>tabblad Ik › Adhan-melding</strong> aan staan. Voor herinneringen voor suhoor, tahajjud en het vrijdaggebed, zie <strong>Hulpmiddelen › Herinneringen</strong>.",
+          "Als je je locatie wijzigt, worden de meldingen automatisch opnieuw ingepland voor de nieuwe tijden.",
+          "iOS beperkt hoeveel meldingen een app vooraf kan inplannen; Nur plant de gebedstijden voor ongeveer een week. Als je de app minstens één keer per week opent, gaan de meldingen zonder onderbreking door."
+        ]
+      },
+      {
+        "soru": "De Qibla-richting wijkt af",
+        "adimlar": [
+          "Kalibreer het kompas door de telefoon een paar keer in de vorm van een 8 door de lucht te bewegen.",
+          "Blijf uit de buurt van magnetische hoesjes, luidsprekers, metalen tafels of elektronische apparaten; die brengen het kompas van de wijs.",
+          "Zorg dat <strong>Instellingen › Privacy en beveiliging › Locatievoorzieningen › Systeemvoorzieningen › Kompaskalibratie</strong> aan staat.",
+          "Zorg dat je locatie klopt: de Qibla-hoek wordt berekend op basis van de gekozen locatie."
+        ]
+      },
+      {
+        "soru": "Koranaudio speelt niet af of wordt niet gedownload",
+        "adimlar": [
+          "De audio van de verzen komt van internet. Controleer je wifi- of mobiele verbinding; in Instellingen › Mobiel netwerk moet mobiele data voor Nur aan staan.",
+          "Als een download halverwege is gestopt, probeer het opnieuw: gedeeltelijk gedownloade bestanden worden verwijderd en de download wordt vanaf het begin voltooid.",
+          "Gedownloade soera's spelen af zonder netwerk. Je kunt downloads bekijken en verwijderen via Koran lezen › Leesinstellingen.",
+          "De luisterknop is er alleen bij smeekbeden die uit Koranverzen komen; bij andere smeekbeden is er geen knop."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contact",
+    "iletisim": "Voor vragen, suggesties of het melden van fouten:",
+    "iletisimKonu": "Nur ondersteuning",
+    "iletisimNot": "Als je bij het schrijven je iPhone-model, iOS-versie en gekozen stad vermeldt, kunnen we je sneller helpen.",
+    "metaBaslik": "Nur Ondersteuning",
+    "metaAciklama": "Veelgestelde vragen en contact voor de app Nur."
+  },
+  "gizlilik": {
+    "h1": "Privacybeleid",
+    "tarih": "Ingangsdatum: 27 september 2026",
+    "giris": "Dit beleid legt uit welke informatie de app Nur: Gebedstijden & Koran voor iOS (“Nur”) gebruikt en hoe. Kort gezegd: Nur heeft geen server en verzamelt geen persoonsgegevens van je. Sommige functies sturen verzoeken naar de hieronder één voor één genoemde diensten van derden om te kunnen werken.",
+    "bolumler": [
+      {
+        "h2": "Geen account",
+        "p": [
+          "Om Nur te gebruiken hoef je geen account aan te maken, niet in te loggen en geen gegevens zoals een e-mailadres of telefoonnummer op te geven. De app heeft geen server."
+        ]
+      },
+      {
+        "h2": "Geen advertenties, analyse of tracking",
+        "p": [
+          "Nur toont geen advertenties; de app bevat geen tools voor analyse, crashrapportage of tracking. Ze volgt je niet over apps en websites heen en heeft geen toegang tot de advertentie-ID."
+        ]
+      },
+      {
+        "h2": "Je gegevens blijven op je toestel",
+        "p": [
+          "De naam die je optioneel invoert, de stad die je kiest, je instellingen, je voortgang met gebeden en taken, je voortgang met het lezen van de Koran en je bladwijzers worden alleen op je toestel bewaard. Als deze aan staat, worden deze gegevens ook opgenomen in de iCloud-reservekopie van je iPhone; die reservekopie hoort bij je Apple-account en kan niet door Nur worden gelezen. Audio van verzen die je downloadt blijft ook op je toestel, maar omdat die opnieuw kan worden gedownload, wordt er geen reservekopie van gemaakt; iOS kan die verwijderen om ruimte vrij te maken, en ze wordt opnieuw gedownload wanneer dat nodig is. Als je de widget op het beginscherm inschakelt, wordt een korte samenvatting (het volgende gebed, de taken van vandaag) naar de gedeelde ruimte op je toestel geschreven, zodat de widget die kan tonen.",
+          "Het profiel dat je bij de eerste start kiest (kind, volwassen man of volwassen vrouw; bij een kind meisje of jongen) en je rechtsschool worden ook alleen op je toestel bewaard; ze worden gebruikt voor de uitleg van het gebed, de figuur en de berekening van de Asr-tijd, en worden nergens naartoe gestuurd.",
+          "Wanneer je de app verwijdert, worden alle gegevens van Nur op het toestel mee verwijderd."
+        ]
+      },
+      {
+        "h2": "Modus speciale dagen",
+        "p": [
+          "De modus speciale dagen, die in de profielen vrouw en meisje kan worden ingeschakeld, en de registratie van op welke dagen die aan stond, worden alleen in de eigen opslag van de app op je toestel bewaard. Deze informatie wordt nooit naar een server gestuurd; ze wordt niet geschreven naar de gedeelde ruimte die de widget op het beginscherm leest, verschijnt niet in de tekst van meldingen en wordt niet vastgelegd (er worden geen logs bijgehouden). De widget en de meldingen zijn hetzelfde, of de modus speciale dagen nu aan of uit staat. Wanneer je de modus uitschakelt, blijven eerdere dagen maximaal 90 dagen op het toestel, alleen voor de berekening van je reeks; wanneer je de app verwijdert, wordt ook deze informatie verwijderd. Als de iCloud-reservekopie van je iPhone aan staat, wordt ze daarin samen met je andere appgegevens opgenomen."
+        ]
+      },
+      {
+        "h2": "Locatie",
+        "p": [
+          "Als je toestemming geeft voor locatie, wordt je locatie op je toestel gebruikt om de gebedstijden en de Qibla-richting te berekenen. Als je geen toestemming geeft voor locatie, kun je je stad uit de lijst kiezen.",
+          "Wanneer je het scherm “Moskeeën in de buurt” opent, wordt je locatie afgerond op ongeveer 1 km (twee decimalen) en naar de dienst OpenStreetMap Overpass gestuurd om moskeeën in de buurt te vinden. Zoals bij elk internetverzoek bereikt ook je IP-adres deze dienst; er wordt geen andere informatie verstuurd die jou identificeert. De stad die op basis van je locatie is gevonden, wordt op het toestel met dezelfde nauwkeurigheid bewaard, afgerond op ongeveer 1 km. Moskeegegevens © OpenStreetMap-bijdragers (ODbL)."
+        ]
+      },
+      {
+        "h2": "Kaart en routebeschrijving (Apple Kaarten)",
+        "p": [
+          "De kaarten op de schermen “Moskeeën in de buurt” en “Ka'ba” worden getoond met Apple Kaarten. Kaartbeelden worden van Apple geladen voor het gebied dat op het scherm wordt getoond; als je toestemming voor locatie hebt gegeven, wordt ook je locatie op de kaart getoond. Deze dienst valt onder het privacybeleid van Apple.",
+          "Wanneer je op de knop “Route” van een moskee tikt, opent Apple Kaarten met de naam en de coördinaten van de moskee; de route wordt in Apple Kaarten berekend. Dit gebeurt alleen wanneer jij tikt."
+        ]
+      },
+      {
+        "h2": "Koranaudio",
+        "p": [
+          "De audio van de verzen wordt afgespeeld vanaf, of naar je toestel gedownload van, de dienst Islamic Network (cdn.islamic.network). Bij elk verzoek ontvangt deze dienst: je IP-adres, het adres van het opgevraagde bestand (naar welke soera en welk vers van welke reciteur wordt geluisterd) en de standaard browseridentificatie (User-Agent) met de versies van de app en iOS. Er wordt geen andere informatie verstuurd. Op het toestel gedownloade audio speelt af zonder netwerk. Het auteursrecht op de opnamen ligt bij de reciteurs; de bron en de gebruiksvoorwaarden staan in de app onder Over › Bronnen en licenties."
+        ]
+      },
+      {
+        "h2": "Delen",
+        "p": [
+          "Wanneer je op de knop “Mijn voortgang delen” tikt, wordt een samenvatting van je voortgang (reeks, doel, aantallen gebeden en dhikr) geopend in het deelmenu van iOS. De tekst gaat alleen naar de app of de persoon die jij kiest; Nur deelt nooit uit zichzelf iets."
+        ]
+      },
+      {
+        "h2": "Meldingen",
+        "p": [
+          "Meldingen bij gebedstijden en herinneringen worden lokaal op je toestel ingepland. Er worden geen externe (push)meldingen gebruikt; er vindt voor meldingen geen registratie bij een server plaats."
+        ]
+      },
+      {
+        "h2": "Kinderen",
+        "p": [
+          "Nur heeft een kindermodus. Omdat de app van geen enkele gebruiker, kinderen inbegrepen, persoonsgegevens verzamelt, is er ook geen gegevensverwerking die specifiek voor kinderen geldt."
+        ]
+      },
+      {
+        "h2": "Wijzigingen",
+        "p": [
+          "Als dit beleid verandert, wordt de actuele versie op deze pagina gepubliceerd met een nieuwe ingangsdatum."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Contact",
+    "iletisim": "Voor vragen:",
+    "iletisimKonu": "Nur privacy",
+    "metaBaslik": "Privacybeleid van Nur",
+    "metaAciklama": "Privacybeleid van de app Nur: geen account, geen advertenties of tracking, gegevens blijven op je toestel."
+  }
+}

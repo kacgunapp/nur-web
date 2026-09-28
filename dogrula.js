@@ -5,7 +5,7 @@ const kod = process.argv[2];
 if (!kod) { console.error("kullanım: node dogrula.js <kod>"); process.exit(2); }
 const tr = JSON.parse(fs.readFileSync(`dil/tr.json`, "utf8"));
 const d = JSON.parse(fs.readFileSync(`dil/${kod}.json`, "utf8"));
-const RTL = ["ar", "ur", "fa"];
+const RTL = ["ar", "ur", "fa", "he"];
 const hata = [];
 function kontrol(a, b, yol) {
   if (Array.isArray(a)) {

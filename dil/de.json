@@ -12,7 +12,7 @@
   },
   "kahraman": {
     "simgeAlt": "Nur-App-Symbol: goldenes aufgeschlagenes Buch mit Licht darüber",
-    "giris": "Ein schlichter Begleiter, der dir hilft, deine Gebete regelmäßig zu verrichten. Mit Kinder- und Erwachsenenmodus; kein Konto, keine Werbung, keine Datensammlung.",
+    "giris": "Ein schlichter Begleiter, der dir hilft, deine Gottesdienste regelmäßig zu verrichten. Mit Kinder- und Erwachsenenmodus; kein Konto, keine Werbung, keine Datensammlung.",
     "rozet": "Für iOS · bald im App Store"
   },
   "nelerVar": "Was steckt drin?",
@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "3D-Gebet und Wudu",
-      "p": "Bewegungen Schritt für Schritt mit Figuren für Mann, Frau und Kind; aus jedem Winkel drehbar, mit den zugehörigen Bittgebeten."
+      "p": "Bewegungen Schritt für Schritt mit einer Figur für Mann, Frau oder Kind; aus jedem Winkel drehbar, mit den Bittgebeten auf Arabisch daneben."
     },
     {
       "ikon": "📖",
       "h3": "Koran",
-      "p": "114 Suren, Seite für Seite lesen, Umschrift, Vers für Vers anhören mit fünf Rezitatoren, Lesezeichen und Khatm-Plan."
+      "p": "114 Suren, den arabischen Text Seite für Seite lesen, Vers für Vers anhören mit fünf Rezitatoren, Lesezeichen und Khatm-Plan."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Standort:</strong> Ich-Tab › Standort. Tippe auf „Standort automatisch ermitteln“ oder wähle deine Stadt aus der Liste. Ist eine andere Stadt gewählt, gelten die Zeiten dieser Stadt.",
           "<strong>Berechnungsmethode:</strong> Ich-Tab › Berechnungsmethode. Für die Türkei wähle Diyanet (Präsidium für Religionsangelegenheiten); „Automatisch nach Stadt“ wählt die Methode des Landes, in dem du dich befindest.",
-          "<strong>Asr-Zeit:</strong> Prüfe auf demselben Bildschirm die Wahl zwischen Asr al-awwal (Diyanet) und Asr ath-thani; zwischen beiden kann fast eine Stunde Unterschied liegen.",
+          "<strong>Asr-Zeit:</strong> Prüfe auf demselben Bildschirm die Wahl zwischen Asr al-awwal (früher) und Asr ath-thani (später); zwischen beiden kann fast eine Stunde Unterschied liegen.",
           "<strong>Hidschri-Datum:</strong> Weicht der Hidschri-Kalender um einen Tag ab, kannst du ihn unter Werkzeuge › Hidschri-Kalender um bis zu ±2 Tage korrigieren."
         ],
         "son": "Ein Unterschied von wenigen Minuten zum offiziellen Kalender kann an der Sicherheitsspanne liegen und ist normal."

@@ -100,10 +100,13 @@ footer { border-top: 1px solid var(--cizgi); color: var(--soluk); font-size: 14p
 footer .ic { padding-top: 20px; padding-bottom: 28px; display: flex; gap: 14px; flex-wrap: wrap; }
 footer a { color: var(--soluk); }
 
-/* Dil seçici: 12 dil, sayfa üstünde; sağdan sola dillerde yön html[dir] ile döner */
-.diller { margin-inline-start: 0; justify-content: center; gap: 2px 6px; font-size: 14px; margin-bottom: 6px; }
-.diller a, .diller span { color: var(--soluk); text-decoration: none; padding: 8px 8px; min-height: 44px; display: inline-flex; align-items: center; border-radius: 8px; }
-.diller a:hover, .diller a:focus-visible { color: var(--vurgu); text-decoration: underline; }
-.diller span[aria-current] { color: var(--metin); font-weight: 700; background: var(--bg2); }
+/* Dil seçici: katlanır liste (48 dil), sayfa üstünde; sağdan sola dillerde yön html[dir] ile döner */
+.diller { font-size: 14px; margin-bottom: 6px; }
+.diller summary { cursor: pointer; color: var(--soluk); min-height: 44px; display: inline-flex; align-items: center; gap: 6px; padding: 0 8px; border-radius: 8px; }
+.diller summary:focus-visible { outline: 2px solid var(--vurgu); }
+.diller nav { display: flex; flex-wrap: wrap; gap: 2px 6px; margin-top: 4px; }
+.diller nav a, .diller nav span { color: var(--soluk); text-decoration: none; padding: 8px 8px; min-height: 44px; display: inline-flex; align-items: center; border-radius: 8px; }
+.diller nav a:hover, .diller nav a:focus-visible { color: var(--vurgu); text-decoration: underline; }
+.diller nav span[aria-current] { color: var(--metin); font-weight: 700; background: var(--bg2); }
 .ceviri-notu { color: var(--soluk); font-size: 14px; margin: 0 auto 18px; }
 [dir="rtl"] ol, [dir="rtl"] ul { padding-inline-start: 24px; }

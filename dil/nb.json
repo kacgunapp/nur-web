@@ -1,0 +1,202 @@
+{
+  "kod": "nb",
+  "ad": "Norsk bokmål",
+  "yon": "ltr",
+  "baslik": "Nur: Bønnetider og Koranen",
+  "metaAciklama": "Bønnetider, bønneleksjoner i 3D, lesing av og lytting til Koranen, Qibla, dhikr-teller. Ingen konto, ingen reklame, ingen datainnsamling.",
+  "nav": {
+    "tanitim": "Oversikt",
+    "destek": "Støtte",
+    "gizlilik": "Personvern",
+    "dil": "Språk"
+  },
+  "kahraman": {
+    "simgeAlt": "Nurs appikon: en gyllen oppslått bok med lys over",
+    "giris": "En enkel følgesvenn som gjør det lettere å holde tilbedelsen din regelmessig. Den har barnemodus og voksenmodus; den krever ingen konto, viser ingen reklame og samler ikke inn data.",
+    "rozet": "For iOS · kommer snart til App Store"
+  },
+  "nelerVar": "Hva inneholder den?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Bønnetider",
+      "p": "12 beregningsmetoder, blant dem Diyanet, regler for høye breddegrader, varsler om bønnetid og en månedlig bønnetabell."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Bønn og wudu i 3D",
+      "p": "Bevegelser trinn for trinn med en figur av en mann, en kvinne eller et barn; kan roteres til alle vinkler, med bønnene på arabisk ved siden av."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Koranen",
+      "p": "114 suraer, lesing av den arabiske teksten side for side, lytting vers for vers med fem resitatorer, bokmerker og en khatm-plan."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Kompass og kart sammen: retningen til Kaba, avstanden i luftlinje og moskeer i nærheten."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Dhikr-teller",
+      "p": "En teller med tasbih; ulike materialer for perlene og en lett vibrasjon ved hvert trykk."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Verktøy",
+      "p": "Beregning av zakat og fitra, Hijri-kalender og velsignede dager, påminnelser om suhur, tahajjud og jumu'a."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Neste bønn og dagens oppgaver på hjemskjermen; trykk på den for å åpne riktig del."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Personvernet ditt blir hos deg",
+    "maddeler": [
+      "Ingen konto, pålogging eller server.",
+      "Ingen reklame, analyse eller sporing.",
+      "Fremgangen og innstillingene dine blir bare på enheten din.",
+      "Posisjonen din brukes på enheten til bønnetider og Qibla; ved søk etter moskeer i nærheten sendes bare en versjon avrundet til omtrent 1 km."
+    ],
+    "tamMetin": "Les hele personvernerklæringen"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Denne oversettelsen er kun til informasjon; ved avvik er den tyrkiske teksten gjeldende.",
+  "destek": {
+    "h1": "Støtte",
+    "giris": "Nedenfor finner du vanlige situasjoner og hvordan du løser dem. Hvis du ikke finner svaret ditt, kan du skrive til oss.",
+    "sssBaslik": "Vanlige spørsmål",
+    "sss": [
+      {
+        "soru": "Bønnetidene ser feil ut",
+        "giris": "Tidene beregnes ut fra valgt posisjon og beregningsmetode. Sjekk følgende i denne rekkefølgen:",
+        "adimlar": [
+          "<strong>Posisjon:</strong> fanen Meg › Posisjon. Trykk på «Finn posisjonen min automatisk», eller velg byen din fra listen. Hvis en annen by er valgt, gjelder tidene for den byen.",
+          "<strong>Beregningsmetode:</strong> fanen Meg › Beregningsmetode. For Tyrkia velger du Direktoratet for religiøse saker (Diyanet); «Automatisk etter by» velger metoden for landet du er i.",
+          "<strong>Asr-tid:</strong> sjekk på samme skjerm om du har valgt tidlig asr eller sen asr; forskjellen mellom dem kan være nesten en time.",
+          "<strong>Hijri-dato:</strong> hvis Hijri-kalenderen er forskjøvet med en dag, kan du stille inn en korreksjon på ±2 dager under Verktøy › Hijri-kalender."
+        ],
+        "son": "En forskjell på noen få minutter fra den offisielle kalenderen kan skyldes en sikkerhetsmargin og er normalt."
+      },
+      {
+        "soru": "Varsler kommer ikke",
+        "adimlar": [
+          "Åpne <strong>Innstillinger › Varslinger › Nur</strong> på iPhone; «Tillat varslinger» må være på.",
+          "Hvis en fokusmodus (Ikke forstyrr, Søvn) er på, legger du til Nur blant de tillatte appene.",
+          "I appen må <strong>fanen Meg › Azan-varsel</strong> være på. Påminnelser om suhur, tahajjud og jumu'a finner du under <strong>Verktøy › Påminnelser</strong>.",
+          "Når du endrer posisjonen, planlegges varslene automatisk på nytt etter de nye tidene.",
+          "iOS begrenser hvor mange varsler en app kan planlegge på forhånd; Nur planlegger bønnetider for omtrent en uke. Hvis du åpner appen minst én gang i uken, fortsetter varslene uten avbrudd."
+        ]
+      },
+      {
+        "soru": "Qibla-retningen driver",
+        "adimlar": [
+          "Kalibrer kompasset ved å bevege telefonen gjennom luften i et åttetall noen ganger.",
+          "Gå bort fra magnetiske deksler, høyttalere, metallbord eller elektroniske apparater; de forstyrrer kompasset.",
+          "Sørg for at <strong>Innstillinger › Personvern og sikkerhet › Stedstjenester › Systemtjenester › Kompasskalibrering</strong> er på.",
+          "Sørg for at posisjonen din er riktig: Qibla-vinkelen beregnes ut fra den valgte posisjonen."
+        ]
+      },
+      {
+        "soru": "Koranlyd spilles ikke av eller lastes ikke ned",
+        "adimlar": [
+          "Lyden for versene kommer fra internett. Sjekk Wi-Fi- eller mobilforbindelsen; under Innstillinger › Mobilnett må mobildata være slått på for Nur.",
+          "Hvis en nedlasting stoppet halvveis, prøv igjen: delvis nedlastede filer slettes, og nedlastingen fullføres fra begynnelsen.",
+          "Nedlastede suraer spilles av uten nett. Du kan se og slette nedlastinger under Les Koranen › Leseinnstillinger.",
+          "Lytteknappen finnes bare ved bønner som er hentet fra koranvers; andre bønner har ingen knapp."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "For spørsmål, forslag eller feilrapporter:",
+    "iletisimKonu": "Nur støtte",
+    "iletisimNot": "Hvis du oppgir iPhone-modell, iOS-versjon og valgt by når du skriver, kan vi hjelpe deg raskere.",
+    "metaBaslik": "Nur Støtte",
+    "metaAciklama": "Vanlige spørsmål og kontakt for appen Nur."
+  },
+  "gizlilik": {
+    "h1": "Personvernerklæring",
+    "tarih": "Gjelder fra: 27. september 2026",
+    "giris": "Denne erklæringen forklarer hvilken informasjon appen Nur: Bønnetider og Koranen for iOS («Nur») bruker, og hvordan. Kort sagt: Nur har ingen server og samler ikke inn personopplysninger fra deg. Noen funksjoner sender forespørsler til tredjepartstjenestene som er oppført én etter én nedenfor, for å kunne fungere.",
+    "bolumler": [
+      {
+        "h2": "Ingen konto",
+        "p": [
+          "For å bruke Nur trenger du ikke å opprette en konto, logge på eller oppgi opplysninger som e-postadresse eller telefonnummer. Appen har ingen server."
+        ]
+      },
+      {
+        "h2": "Ingen reklame, analyse eller sporing",
+        "p": [
+          "Nur viser ingen reklame; den inneholder ingen verktøy for analyse, krasjrapportering eller sporing. Den sporer deg ikke på tvers av apper og nettsteder og har ikke tilgang til reklameidentifikatoren."
+        ]
+      },
+      {
+        "h2": "Dataene dine blir på enheten din",
+        "p": [
+          "Navnet du eventuelt skriver inn, byen du velger, innstillingene dine, fremgangen din med bønner og oppgaver, fremgangen din med å lese Koranen og bokmerkene dine lagres bare på enheten din. Hvis den er slått på, blir disse dataene også med i iCloud-sikkerhetskopien av iPhonen din; den sikkerhetskopien tilhører Apple-kontoen din og kan ikke leses av Nur. Verslyd du laster ned, blir også på enheten din, men fordi den kan lastes ned på nytt, sikkerhetskopieres den ikke; iOS kan slette den for å frigjøre plass, og den lastes ned på nytt ved behov. Hvis du slår på widgeten på hjemskjermen, skrives et kort sammendrag (neste bønn, dagens oppgaver) til det delte området på enheten din, slik at widgeten kan vise det.",
+          "Profilen du velger ved første oppstart (barn, voksen mann eller voksen kvinne; for et barn jente eller gutt) og rettsskolen din lagres også bare på enheten din; de brukes til gjennomgangen av bønnen, figuren og beregningen av asr-tiden, og sendes aldri noe sted.",
+          "Når du sletter appen, slettes alle Nur-data på enheten sammen med den."
+        ]
+      },
+      {
+        "h2": "Modus for spesielle dager",
+        "p": [
+          "Modus for spesielle dager, som kan slås på i profilene kvinne og jente, og registreringen av hvilke dager den var på, lagres bare i appens egen lagring, på enheten din. Denne informasjonen sendes aldri til noen server; den skrives ikke til det delte området som widgeten på hjemskjermen leser, vises ikke i teksten i varsler og registreres ikke (det føres ingen logger). Widgeten og varslene er de samme enten modus for spesielle dager er på eller av. Når du slår den av, blir tidligere dager liggende på enheten i høyst 90 dager, bare for beregningen av rekken din; når du sletter appen, slettes også denne informasjonen. Hvis den er slått på, blir den med i iCloud-sikkerhetskopien av iPhonen din sammen med de andre appdataene dine."
+        ]
+      },
+      {
+        "h2": "Posisjon",
+        "p": [
+          "Hvis du gir tillatelse til posisjon, brukes posisjonen din på enheten din til å beregne bønnetider og Qibla-retningen. Hvis du ikke gir tillatelse til posisjon, kan du velge byen din fra listen.",
+          "Når du åpner skjermen «Moskeer i nærheten», avrundes posisjonen din til omtrent 1 km (to desimaler) og sendes til tjenesten OpenStreetMap Overpass for å finne moskeer i nærheten. Som ved enhver forespørsel på internett når også IP-adressen din frem til denne tjenesten; ingen annen informasjon som identifiserer deg, sendes. Byen som blir funnet ut fra posisjonen din, lagres på enheten med samme nøyaktighet, avrundet til omtrent 1 km. Moskédata © OpenStreetMap-bidragsytere (ODbL)."
+        ]
+      },
+      {
+        "h2": "Kart og veibeskrivelse (Apple Kart)",
+        "p": [
+          "Kartene på skjermene «Moskeer i nærheten» og «Kaba» vises med Apple Kart. Kartbilder lastes fra Apple for området som vises på skjermen; hvis du har gitt tillatelse til posisjon, vises også posisjonen din på kartet. Denne tjenesten er underlagt Apples personvernerklæring.",
+          "Når du trykker på knappen «Veibeskrivelse» for en moské, åpnes Apple Kart med moskeens navn og koordinater; ruten beregnes i Apple Kart. Dette skjer bare når du trykker."
+        ]
+      },
+      {
+        "h2": "Koranlyd",
+        "p": [
+          "Verslyd spilles av fra, eller lastes ned til enheten din fra, tjenesten Islamic Network (cdn.islamic.network). Ved hver forespørsel mottar denne tjenesten: IP-adressen din, adressen til den forespurte filen (hvilken resitators sura og vers det lyttes til) og den vanlige nettleseridentifikatoren (User-Agent) med app- og iOS-versjonene. Ingen annen informasjon sendes. Lyd som er lastet ned til enheten, spilles av uten nett. Opphavsretten til opptakene tilhører resitatorene; kilde og bruksvilkår finnes i appen under Om › Kilder og lisenser."
+        ]
+      },
+      {
+        "h2": "Deling",
+        "p": [
+          "Når du trykker på knappen «Del fremgangen min», åpnes et sammendrag av fremgangen din (rekke, mål, antall bønner og dhikr) i delingsarket i iOS. Teksten går bare til appen eller personen du velger; Nur deler aldri noe på egen hånd."
+        ]
+      },
+      {
+        "h2": "Varsler",
+        "p": [
+          "Varsler om bønnetid og påminnelser planlegges lokalt på enheten din. Eksterne varsler (push) brukes ikke; det gjøres ingen registrering hos noen server for varsler."
+        ]
+      },
+      {
+        "h2": "Barn",
+        "p": [
+          "Nur har en barnemodus. Fordi appen ikke samler inn personopplysninger fra noen bruker, heller ikke barn, finnes det heller ingen databehandling som gjelder spesielt for barn."
+        ]
+      },
+      {
+        "h2": "Endringer",
+        "p": [
+          "Hvis denne erklæringen endres, publiseres den gjeldende versjonen på denne siden med en ny ikrafttredelsesdato."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "For spørsmål:",
+    "iletisimKonu": "Nur personvern",
+    "metaBaslik": "Nurs personvernerklæring",
+    "metaAciklama": "Personvernerklæringen for appen Nur: ingen konto, ingen reklame eller sporing, dataene blir på enheten din."
+  }
+}

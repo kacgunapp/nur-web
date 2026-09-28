@@ -1,0 +1,202 @@
+{
+  "kod": "fi",
+  "ad": "Suomi",
+  "yon": "ltr",
+  "baslik": "Nur: Rukousajat ja Koraani",
+  "metaAciklama": "Rukousajat, 3D-rukousopetus, Koraanin lukeminen ja kuuntelu, Qibla, dhikr-laskuri. Ei tiliä, ei mainoksia, ei tietojen keruuta.",
+  "nav": {
+    "tanitim": "Esittely",
+    "destek": "Tuki",
+    "gizlilik": "Tietosuoja",
+    "dil": "Kieli"
+  },
+  "kahraman": {
+    "simgeAlt": "Nur-sovelluksen kuvake: kultainen avoin kirja ja sen yllä valoa",
+    "giris": "Yksinkertainen kumppani, joka helpottaa pitämään palvonnan säännöllisenä. Siinä on lapsi- ja aikuistila; se ei vaadi tiliä, ei näytä mainoksia eikä kerää tietoja.",
+    "rozet": "iOS:lle · tulossa pian App Storeen"
+  },
+  "nelerVar": "Mitä sovelluksessa on?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Rukousajat",
+      "p": "12 laskentatapaa, Diyanet mukaan lukien, korkean leveysasteen säännöt, rukousaikailmoitukset ja kuukauden aikataulu."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D-rukous ja wudu",
+      "p": "Vaihe vaiheelta etenevät liikkeet miehen, naisen tai lapsen hahmolla; käännettävissä mihin tahansa kulmaan, ja rinnalla du'at arabiaksi."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Koraani",
+      "p": "114 suuraa, arabiankielisen tekstin lukeminen sivu kerrallaan, kuuntelu jae kerrallaan viideltä resitoijalta, kirjanmerkit ja khatm-suunnitelma."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Qibla",
+      "p": "Kompassi ja kartta yhdessä: Kaaban suunta, etäisyys linnuntietä ja lähimmät moskeijat."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Dhikr-laskuri",
+      "p": "Laskuri rukousnauhan helmillä; erilaisia helmimateriaaleja ja kevyt värinä jokaisella napautuksella."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Työkalut",
+      "p": "Zakatin ja fitran laskenta, Hijra-kalenteri ja siunatut päivät, muistutukset suhuriin, tahajjudiin ja jumu'aan."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Seuraava rukous ja päivän tehtävät kotinäytölläsi; napauttamalla avautuu oikea osio."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Yksityisyytesi pysyy sinulla",
+    "maddeler": [
+      "Ei tiliä, kirjautumista eikä palvelinta.",
+      "Ei mainoksia, analytiikkaa eikä seurantaa.",
+      "Edistymisesi ja asetuksesi pysyvät vain laitteellasi.",
+      "Sijaintiasi käytetään laitteella rukousaikoihin ja Qiblaan; lähimpien moskeijoiden hakua varten lähetetään vain noin 1 km:n tarkkuuteen pyöristetty sijainti."
+    ],
+    "tamMetin": "Lue koko tietosuojakäytäntö"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Tämä käännös on tarkoitettu vain tiedoksi; mahdollisissa ristiriitatilanteissa turkinkielinen teksti on ratkaiseva.",
+  "destek": {
+    "h1": "Tuki",
+    "giris": "Alla ovat yleisimmät tilanteet ja niiden ratkaisut. Jos et löydä vastausta, kirjoita meille.",
+    "sssBaslik": "Usein kysytyt kysymykset",
+    "sss": [
+      {
+        "soru": "Rukousajat näyttävät väärältä",
+        "giris": "Ajat lasketaan valitun sijainnin ja laskentatavan mukaan. Tarkista nämä järjestyksessä:",
+        "adimlar": [
+          "<strong>Sijainti:</strong> Minä-välilehti › Sijainti. Napauta ”Hae sijaintini automaattisesti” tai valitse kaupunkisi luettelosta. Jos valittuna on jokin toinen kaupunki, ajat näytetään sen kaupungin mukaan.",
+          "<strong>Laskentatapa:</strong> Minä-välilehti › Laskentatapa. Valitse Turkissa Turkin uskontoasiain virasto (Diyanet); ”Automaattinen kaupungin mukaan” valitsee sen maan laskentatavan, jossa olet.",
+          "<strong>Asr-aika:</strong> Tarkista samalla näytöllä valinta aikaisempi Asr tai myöhempi Asr; niiden välillä voi olla lähes tunnin ero.",
+          "<strong>Hijra-päivämäärä:</strong> Jos Hijra-kalenteri on päivän pielessä, voit asettaa ±2 päivän korjauksen kohdassa Työkalut › Hijra-kalenteri."
+        ],
+        "son": "Muutaman minuutin ero viralliseen kalenteriin voi johtua varmuusmarginaalista, ja se on normaalia."
+      },
+      {
+        "soru": "Ilmoituksia ei tule",
+        "adimlar": [
+          "Avaa iPhonessa <strong>Asetukset › Ilmoitukset › Nur</strong>; ”Salli ilmoitukset” on oltava päällä.",
+          "Jos keskittymistila (Älä häiritse, Nukkuminen) on päällä, lisää Nur sallittuihin appeihin.",
+          "Sovelluksessa <strong>Minä-välilehti › Adhan-ilmoitus</strong> on oltava päällä. Suhur-, tahajjud- ja jumu'a-muistutukset löytyvät kohdasta <strong>Työkalut › Muistutukset</strong>.",
+          "Kun vaihdat sijaintia, ilmoitukset ajoitetaan automaattisesti uudelleen uusien aikojen mukaan.",
+          "iOS rajoittaa sitä, kuinka monta ilmoitusta sovellus voi ajoittaa etukäteen; Nur suunnittelee noin viikon rukousajat. Jos avaat sovelluksen vähintään kerran viikossa, ilmoitukset jatkuvat keskeytyksettä."
+        ]
+      },
+      {
+        "soru": "Qiblan suunta heittelee",
+        "adimlar": [
+          "Kalibroi kompassi liikuttamalla puhelinta ilmassa muutaman kerran 8-kuvion muotoisesti.",
+          "Siirry kauemmas magneettisista suojakuorista, kaiuttimista, metallipöydistä tai elektronisista laitteista; ne saavat kompassin näyttämään väärin.",
+          "Varmista, että <strong>Asetukset › Tietosuoja ja suojaus › Sijaintipalvelut › Järjestelmäpalvelut › Kompassin kalibrointi</strong> on päällä.",
+          "Varmista, että sijaintisi on oikein: Qiblan kulma lasketaan valitun sijainnin mukaan."
+        ]
+      },
+      {
+        "soru": "Koraanin ääni ei toistu tai lataudu",
+        "adimlar": [
+          "Jakeiden äänitteet tulevat internetistä. Tarkista Wi-Fi- tai mobiiliyhteytesi; kohdassa Asetukset › Mobiiliverkko Nurin mobiilidatan käytön on oltava sallittu.",
+          "Jos lataus keskeytyi, yritä uudelleen: osittain ladatut tiedostot poistetaan ja lataus tehdään alusta loppuun.",
+          "Ladatut suurat toistuvat ilman verkkoyhteyttä. Näet ja voit poistaa lataukset kohdassa Lue Koraania › Lukuasetukset.",
+          "Kuuntelupainike on vain Koraanin jakeista otetuissa du'issa; muissa du'issa painiketta ei ole."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Yhteystiedot",
+    "iletisim": "Kysymykset, ehdotukset ja virheilmoitukset:",
+    "iletisimKonu": "Nur-tuki",
+    "iletisimNot": "Jos kerrot viestissäsi iPhonesi mallin, iOS-versiosi ja valitsemasi kaupungin, voimme auttaa nopeammin.",
+    "metaBaslik": "Nur – tuki",
+    "metaAciklama": "Usein kysytyt kysymykset ja yhteystiedot Nur-sovellusta varten."
+  },
+  "gizlilik": {
+    "h1": "Tietosuojakäytäntö",
+    "tarih": "Voimaantulopäivä: 27. syyskuuta 2026",
+    "giris": "Tämä käytäntö selittää, mitä tietoja iOS:lle tarkoitettu Nur: Rukousajat ja Koraani -sovellus (”Nur”) käyttää ja miten. Lyhyesti: Nurilla ei ole palvelinta, eikä se kerää sinulta henkilötietoja. Jotkin toiminnot lähettävät toimiakseen pyyntöjä alla yksitellen luetelluille kolmansien osapuolten palveluille.",
+    "bolumler": [
+      {
+        "h2": "Ei tiliä",
+        "p": [
+          "Nurin käyttämiseen sinun ei tarvitse luoda tiliä, kirjautua sisään eikä antaa tietoja, kuten sähköpostiosoitetta tai puhelinnumeroa. Sovelluksella ei ole palvelinta."
+        ]
+      },
+      {
+        "h2": "Ei mainoksia, analytiikkaa eikä seurantaa",
+        "p": [
+          "Nur ei näytä mainoksia; se ei sisällä analytiikka-, kaatumisraportointi- eikä seurantatyökaluja. Se ei seuraa sinua sovellusten ja verkkosivustojen välillä eikä käytä mainostunnistetta."
+        ]
+      },
+      {
+        "h2": "Tietosi pysyvät laitteellasi",
+        "p": [
+          "Valinnaisesti antamasi nimi, valitsemasi kaupunki, asetuksesi, rukous- ja tehtäväedistymisesi, Koraanin lukemisen edistymisesi ja kirjanmerkkisi tallennetaan vain laitteellesi. Jos iPhonesi iCloud-varmuuskopiointi on päällä, nämä tiedot sisältyvät myös varmuuskopioon; varmuuskopio kuuluu Apple-tilillesi, eikä Nur voi lukea sitä. Lataamasi jakeiden äänitteet pysyvät myös laitteellasi, mutta koska ne voidaan ladata uudelleen, niitä ei varmuuskopioida; iOS voi poistaa ne tilan vapauttamiseksi, ja ne ladataan uudelleen tarvittaessa. Jos otat kotinäytön widgetin käyttöön, lyhyt yhteenveto (seuraava rukous, päivän tehtävät) kirjoitetaan laitteesi jaettuun tallennusalueeseen, jotta widget voi näyttää sen.",
+          "Ensimmäisellä käynnistyskerralla valitsemasi profiili (lapsi, aikuinen mies tai aikuinen nainen; lapsen kohdalla tyttö tai poika) ja oppisuuntasi tallennetaan myös vain laitteellesi; niitä käytetään rukouksen selostukseen, hahmoon ja Asr-ajan laskemiseen, eikä niitä koskaan lähetetä minnekään.",
+          "Kun poistat sovelluksen, kaikki laitteella olevat Nurin tiedot poistetaan sen mukana."
+        ]
+      },
+      {
+        "h2": "Erityisten päivien tila",
+        "p": [
+          "Erityisten päivien tila, jonka voi ottaa käyttöön nais- ja tyttöprofiileissa, sekä tieto siitä, minä päivinä se oli päällä, säilytetään vain sovelluksen omassa tallennustilassa laitteellasi. Tätä tietoa ei koskaan lähetetä millekään palvelimelle; sitä ei kirjoiteta jaettuun alueeseen, jota kotinäytön widget lukee, se ei näy ilmoitusten tekstissä eikä sitä tallenneta (lokeja ei pidetä). Widget ja ilmoitukset ovat samat riippumatta siitä, onko erityisten päivien tila päällä vai pois päältä. Kun poistat tilan käytöstä, menneet päivät säilyvät laitteella enintään 90 päivää vain putken laskemista varten; kun poistat sovelluksen, myös nämä tiedot poistetaan. Jos iCloud-varmuuskopiointi on päällä, tiedot sisältyvät iPhonesi iCloud-varmuuskopioon yhdessä sovelluksen muiden tietojen kanssa."
+        ]
+      },
+      {
+        "h2": "Sijainti",
+        "p": [
+          "Jos annat sijaintiluvan, sijaintiasi käytetään laitteellasi rukousaikojen ja Qiblan suunnan laskemiseen. Jos et anna sijaintilupaa, voit valita kaupunkisi luettelosta.",
+          "Kun avaat ”Lähimmät moskeijat” -näkymän, sijaintisi pyöristetään noin 1 km:n tarkkuuteen (kaksi desimaalia) ja lähetetään OpenStreetMap Overpass -palveluun lähellä olevien moskeijoiden löytämiseksi. Kuten jokaisessa internetpyynnössä, myös IP-osoitteesi välittyy tälle palvelulle; muita sinut tunnistavia tietoja ei lähetetä. Sijaintisi perusteella löydetty kaupunki tallennetaan laitteelle samalla tarkkuudella, noin 1 km:iin pyöristettynä. Moskeijatiedot © OpenStreetMap-tekijät (ODbL)."
+        ]
+      },
+      {
+        "h2": "Kartta ja reittiohjeet (Apple Kartat)",
+        "p": [
+          "”Lähimmät moskeijat”- ja ”Kaaba”-näkymien kartat näytetään Apple Karttojen avulla. Karttakuvat ladataan Applelta näytöllä näkyvältä alueelta; jos olet antanut sijaintiluvan, sijaintisi näytetään myös kartalla. Tähän palveluun sovelletaan Applen tietosuojakäytäntöä.",
+          "Kun napautat moskeijan ”Reittiohjeet”-painiketta, Apple Kartat avautuu moskeijan nimen ja koordinaattien kanssa; reitti lasketaan Apple Kartoissa. Tämä tapahtuu vain, kun napautat."
+        ]
+      },
+      {
+        "h2": "Koraanin äänitteet",
+        "p": [
+          "Jakeiden äänitteet toistetaan Islamic Network -palvelusta (cdn.islamic.network) tai ladataan sieltä laitteellesi. Jokaisen pyynnön yhteydessä tämä palvelu vastaanottaa: IP-osoitteesi, pyydetyn tiedoston osoitteen (minkä resitoijan esittämää suuraa ja jaetta kuunnellaan) sekä vakiomuotoisen selaintunnisteen (User-Agent), joka sisältää sovelluksen ja iOS:n versiot. Muita tietoja ei lähetetä. Laitteelle ladatut äänitteet toistuvat ilman verkkoyhteyttä. Tallenteiden tekijänoikeudet kuuluvat resitoijille; lähde ja käyttöehdot löytyvät sovelluksesta kohdasta Tietoja › Lähteet ja lisenssit."
+        ]
+      },
+      {
+        "h2": "Jakaminen",
+        "p": [
+          "Kun napautat ”Jaa edistymiseni” -painiketta, edistymisesi yhteenveto (putki, tavoite, rukous- ja dhikr-määrät) avautuu iOS:n jakovalikkoon. Teksti menee vain valitsemallesi sovellukselle tai henkilölle; Nur ei koskaan jaa mitään omatoimisesti."
+        ]
+      },
+      {
+        "h2": "Ilmoitukset",
+        "p": [
+          "Rukousaikailmoitukset ja muistutukset ajoitetaan paikallisesti laitteellasi. Etäilmoituksia (push) ei käytetä; ilmoituksia varten ei rekisteröidytä millekään palvelimelle."
+        ]
+      },
+      {
+        "h2": "Lapset",
+        "p": [
+          "Nurissa on lapsitila. Koska sovellus ei kerää henkilötietoja keneltäkään käyttäjältä, lapset mukaan lukien, siinä ei myöskään ole erityisesti lapsiin kohdistuvaa tietojenkäsittelyä."
+        ]
+      },
+      {
+        "h2": "Muutokset",
+        "p": [
+          "Jos tämä käytäntö muuttuu, voimassa oleva versio julkaistaan tällä sivulla uuden voimaantulopäivän kanssa."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Yhteystiedot",
+    "iletisim": "Kysymykset:",
+    "iletisimKonu": "Nur – tietosuoja",
+    "metaBaslik": "Nur – tietosuojakäytäntö",
+    "metaAciklama": "Nur-sovelluksen tietosuojakäytäntö: ei tiliä, ei mainoksia eikä seurantaa, tiedot pysyvät laitteellasi."
+  }
+}

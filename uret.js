@@ -1,5 +1,5 @@
 /* ============================================================
-   Nur tanıtım sitesi — 12 dilli sayfa üreticisi
+   Nur tanıtım sitesi — çok dilli sayfa üreticisi (uygulamanın dilleri)
    Kaynak: dil/<kod>.json (Türkçe esas; çeviriler aynı yapıda).
    Çıktı: Türkçe kökte (index/destek/gizlilik.html — adresler değişmez),
    öbür diller /<kod>/ altında. Her sayfada hreflang alternatifleri,
@@ -9,8 +9,9 @@
 const fs = require("fs");
 const path = require("path");
 const KOK = __dirname;
-const KOD = ["tr", "en", "ar", "de", "fr", "id", "ms", "ur", "fa", "ru", "bs", "az"];
-const RTL = ["ar", "ur", "fa"];
+/* Uygulamanın dil listesiyle aynı sıra (nur/src/dil/diller.json) */
+const KOD = ["tr", "en", "ar", "de", "fr", "id", "ms", "ur", "fa", "ru", "bs", "az", "es", "it", "pt-BR", "pt-PT", "nl", "ca", "ro", "da", "sv", "nb", "fi", "pl", "cs", "sk", "sl", "hr", "hu", "el", "uk", "he", "vi", "th", "ja", "ko", "zh-Hans", "zh-Hant", "hi", "bn", "mr", "gu", "pa", "or", "ta", "te", "kn", "ml"];
+const RTL = ["ar", "ur", "fa", "he"];
 const SITE = "https://kacgunapp.github.io/nur-web/";      // GitHub Pages kökü
 const EPOSTA = "dogac@teknikaotomasyon.com";
 
@@ -75,11 +76,15 @@ ${alternatif}
 function dilSecici(d, sayfa) {
   if (diller.length < 2) return "";                    // tek açık dil: seçici gösterilmez
   const dosya = sayfa === "index" ? "" : `${sayfa}.html`;
-  return `  <nav class="diller" aria-label="${kacis(d.nav.dil)}">
+  /* 48 dil: katlanır liste (details/summary — betiksiz, erişilebilir); açık dil başlıkta */
+  return `  <details class="diller">
+    <summary aria-label="${kacis(d.nav.dil)}"><span aria-hidden="true">🌐</span> ${kacis(d.ad)}</summary>
+    <nav aria-label="${kacis(d.nav.dil)}">
     ${diller.map((x) => x.kod === d.kod
       ? `<span aria-current="true" lang="${x.kod}">${kacis(x.ad)}</span>`
       : `<a href="${d.kod === "tr" ? "" : "../"}${x.kod === "tr" ? "" : x.kod + "/"}${dosya || "./"}" lang="${x.kod}" hreflang="${x.kod}">${kacis(x.ad)}</a>`).join("\n    ")}
-  </nav>
+    </nav>
+  </details>
 `;
 }
 

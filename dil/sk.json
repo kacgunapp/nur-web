@@ -1,0 +1,202 @@
+{
+  "kod": "sk",
+  "ad": "Slovenčina",
+  "yon": "ltr",
+  "baslik": "Nur: Časy modlitieb a Korán",
+  "metaAciklama": "Časy modlitieb, 3D lekcie modlitby, čítanie a počúvanie Koránu, Kibla, počítadlo zikru. Bez účtu, bez reklám, bez zberu údajov.",
+  "nav": {
+    "tanitim": "Predstavenie",
+    "destek": "Podpora",
+    "gizlilik": "Súkromie",
+    "dil": "Jazyk"
+  },
+  "kahraman": {
+    "simgeAlt": "Ikona aplikácie Nur: zlatá otvorená kniha a nad ňou svetlo",
+    "giris": "Jednoduchý spoločník, ktorý uľahčuje pravidelné uctievanie. Má detský režim a režim pre dospelých; nevyžaduje účet, nezobrazuje reklamy a nezbiera žiadne údaje.",
+    "rozet": "Pre iOS · čoskoro v App Store"
+  },
+  "nelerVar": "Čo v aplikácii nájdeš?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Časy modlitieb",
+      "p": "12 metód výpočtu vrátane Diyanet, pravidlá pre vysoké zemepisné šírky, upozornenia na časy modlitieb a mesačný rozpis."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "3D modlitba a wudú",
+      "p": "Pohyby krok za krokom s postavou muža, ženy alebo dieťaťa; dajú sa otočiť do ľubovoľného uhla a vedľa nich sú prosby v arabčine."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Korán",
+      "p": "114 súr, čítanie arabského textu stranu po strane, počúvanie verš po verši v podaní piatich recitátorov, záložky a plán chatmu."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Kibla",
+      "p": "Kompas a mapa spolu: smer ku Kaabe, vzdialenosť vzdušnou čiarou a mešity v okolí."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Počítadlo zikru",
+      "p": "Počítadlo s korálkami tasbihu; rôzne materiály korálok a jemná vibrácia pri každom ťuknutí."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Nástroje",
+      "p": "Výpočet zakátu a fitry, hidžrí kalendár a požehnané dni, pripomienky suhúru, tahadždžudu a džumy."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widget",
+      "p": "Nasledujúca modlitba a úlohy na dnes na ploche; po ťuknutí sa otvorí príslušná sekcia."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Tvoje súkromie zostáva u teba",
+    "maddeler": [
+      "Žiadny účet, prihlásenie ani server.",
+      "Žiadne reklamy, analytika ani sledovanie.",
+      "Tvoj pokrok a nastavenia zostávajú len v tvojom zariadení.",
+      "Tvoja poloha sa v zariadení používa na časy modlitieb a Kiblu; na hľadanie mešít v okolí sa odosiela len verzia zaokrúhlená približne na 1 km."
+    ],
+    "tamMetin": "Prečítať celé zásady ochrany súkromia"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "Tento preklad má len informatívny charakter; v prípade akéhokoľvek rozporu je rozhodujúce turecké znenie.",
+  "destek": {
+    "h1": "Podpora",
+    "giris": "Nižšie nájdeš časté situácie a ich riešenia. Ak odpoveď nenájdeš, napíš nám.",
+    "sssBaslik": "Často kladené otázky",
+    "sss": [
+      {
+        "soru": "Časy modlitieb vyzerajú nesprávne",
+        "giris": "Časy sa počítajú podľa zvolenej polohy a metódy výpočtu. Skontroluj postupne:",
+        "adimlar": [
+          "<strong>Poloha:</strong> karta Ja › Poloha. Ťukni na „Nájsť moju polohu automaticky“ alebo vyber svoje mesto zo zoznamu. Ak je zvolené iné mesto, časy sa zobrazujú pre toto mesto.",
+          "<strong>Metóda výpočtu:</strong> karta Ja › Metóda výpočtu. Pre Turecko vyber Úrad pre náboženské záležitosti (Diyanet); voľba „Automaticky podľa mesta“ vyberie metódu krajiny, v ktorej sa nachádzaš.",
+          "<strong>Čas Asr:</strong> na tej istej obrazovke skontroluj voľbu skorší Asr alebo neskorší Asr; rozdiel medzi nimi môže byť takmer hodina.",
+          "<strong>Hidžrí dátum:</strong> ak sa hidžrí kalendár líši o deň, v Nástroje › Hidžrí kalendár môžeš nastaviť úpravu o ±2 dni."
+        ],
+        "son": "Rozdiel niekoľkých minút oproti oficiálnemu kalendáru môže vyplývať z bezpečnostnej rezervy a je normálny."
+      },
+      {
+        "soru": "Upozornenia neprichádzajú",
+        "adimlar": [
+          "Na iPhone otvor <strong>Nastavenia › Hlásenia › Nur</strong>; voľba „Povoliť hlásenia“ musí byť zapnutá.",
+          "Ak je zapnutý režim sústredenia (Nerušiť, Spánok), pridaj Nur medzi povolené aplikácie.",
+          "V aplikácii musí byť zapnuté <strong>karta Ja › Upozornenie na azán</strong>. Pripomienky suhúru, tahadždžudu a džumy nájdeš v <strong>Nástroje › Pripomienky</strong>.",
+          "Keď zmeníš polohu, upozornenia sa automaticky znova naplánujú podľa nových časov.",
+          "iOS obmedzuje počet upozornení, ktoré môže aplikácia naplánovať vopred; Nur plánuje časy modlitieb približne na týždeň. Ak aplikáciu otvoríš aspoň raz za týždeň, upozornenia pokračujú bez prerušenia."
+        ]
+      },
+      {
+        "soru": "Smer Kibly sa odchyľuje",
+        "adimlar": [
+          "Nakalibruj kompas tak, že telefónom niekoľkokrát opíšeš vo vzduchu osmičku.",
+          "Vzdiaľ sa od magnetických obalov, reproduktorov, kovových stolov alebo elektronických zariadení; tie kompas vychyľujú.",
+          "Uisti sa, že je zapnuté <strong>Nastavenia › Súkromie a bezpečnosť › Polohové služby › Systémové služby › Kalibrácia kompasu</strong>.",
+          "Uisti sa, že tvoja poloha je správna: uhol Kibly sa počíta podľa zvolenej polohy."
+        ]
+      },
+      {
+        "soru": "Zvuk Koránu sa neprehráva alebo nesťahuje",
+        "adimlar": [
+          "Nahrávky veršov sa načítavajú z internetu. Skontroluj pripojenie k Wi-Fi alebo mobilnej sieti; v Nastavenia › Mobilná sieť musí mať Nur povolené mobilné dáta.",
+          "Ak sa sťahovanie prerušilo v polovici, skús to znova: čiastočne stiahnuté súbory sa vymažú a sťahovanie prebehne celé od začiatku.",
+          "Stiahnuté súry sa prehrávajú bez siete. Stiahnuté súbory môžeš zobraziť a vymazať v Čítať Korán › Nastavenia čítania.",
+          "Tlačidlo počúvania je len pri prosbách prevzatých z veršov Koránu; pri ostatných prosbách tlačidlo nie je."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Otázky, návrhy alebo nahlásenie chýb:",
+    "iletisimKonu": "Nur – podpora",
+    "iletisimNot": "Ak v správe uvedieš model iPhonu, verziu iOS a zvolené mesto, pomôžeme ti rýchlejšie.",
+    "metaBaslik": "Nur – podpora",
+    "metaAciklama": "Často kladené otázky a kontakt k aplikácii Nur."
+  },
+  "gizlilik": {
+    "h1": "Zásady ochrany súkromia",
+    "tarih": "Dátum účinnosti: 27. septembra 2026",
+    "giris": "Tieto zásady vysvetľujú, aké informácie a ako používa aplikácia Nur: Časy modlitieb a Korán pre iOS („Nur“). Stručne: Nur nemá žiadny server a nezbiera od teba žiadne osobné údaje. Niektoré funkcie, aby mohli fungovať, odosielajú požiadavky službám tretích strán, ktoré sú nižšie jednotlivo uvedené.",
+    "bolumler": [
+      {
+        "h2": "Žiadny účet",
+        "p": [
+          "Na používanie Nur si nemusíš vytvárať účet, prihlasovať sa ani uvádzať údaje ako e-mailovú adresu alebo telefónne číslo. Aplikácia nemá žiadny server."
+        ]
+      },
+      {
+        "h2": "Žiadne reklamy, analytika ani sledovanie",
+        "p": [
+          "Nur nezobrazuje reklamy; neobsahuje žiadne nástroje na analytiku, hlásenie pádov ani sledovanie. Nesleduje ťa naprieč aplikáciami a webovými stránkami a nepristupuje k reklamnému identifikátoru."
+        ]
+      },
+      {
+        "h2": "Tvoje údaje zostávajú v tvojom zariadení",
+        "p": [
+          "Meno, ktoré voliteľne zadáš, mesto, ktoré si vyberieš, tvoje nastavenia, pokrok v modlitbách a úlohách, pokrok v čítaní Koránu a záložky sa ukladajú len v tvojom zariadení. Ak je zapnutá záloha iPhonu na iCloud, tieto údaje sú zahrnuté aj do nej; táto záloha patrí k tvojmu účtu Apple a Nur ju nemôže čítať. Stiahnuté nahrávky veršov tiež zostávajú v tvojom zariadení, ale keďže sa dajú znova stiahnuť, nezálohujú sa; iOS ich môže vymazať, aby uvoľnil miesto, a v prípade potreby sa stiahnu znova. Ak zapneš widget na ploche, do zdieľaného úložiska v tvojom zariadení sa zapíše krátky súhrn (nasledujúca modlitba, úlohy na dnes), aby ho widget mohol zobraziť.",
+          "Profil, ktorý si vyberieš pri prvom spustení (dieťa, dospelý muž alebo dospelá žena; pri dieťati dievča alebo chlapec), a tvoja právna škola sa tiež ukladajú len v tvojom zariadení; používajú sa na výklad modlitby, postavu a výpočet času Asr a nikdy sa nikam neodosielajú.",
+          "Keď aplikáciu vymažeš, vymažú sa s ňou všetky údaje Nur v zariadení."
+        ]
+      },
+      {
+        "h2": "Režim osobitných dní",
+        "p": [
+          "Režim osobitných dní, ktorý sa dá zapnúť v profiloch ženy a dievčaťa, a informácia o tom, v ktoré dni bol zapnutý, sa uchovávajú len vo vlastnom úložisku aplikácie, v tvojom zariadení. Táto informácia sa nikdy neodosiela na žiadny server; nezapisuje sa do zdieľaného úložiska, z ktorého číta widget na ploche, neobjavuje sa v texte upozornení a nezaznamenáva sa (nevedú sa žiadne protokoly). Widget aj upozornenia sú rovnaké, či je režim osobitných dní zapnutý, alebo vypnutý. Keď ho vypneš, minulé dni zostanú v zariadení najviac 90 dní, len na výpočet série; keď aplikáciu vymažeš, vymaže sa aj táto informácia. Ak je zapnutá záloha iPhonu na iCloud, je v nej zahrnutá spolu s ostatnými údajmi aplikácie."
+        ]
+      },
+      {
+        "h2": "Poloha",
+        "p": [
+          "Ak udelíš povolenie na prístup k polohe, tvoja poloha sa v zariadení používa na výpočet časov modlitieb a smeru Kibly. Ak povolenie na prístup k polohe neudelíš, môžeš svoje mesto vybrať zo zoznamu.",
+          "Keď otvoríš obrazovku „Mešity v okolí“, tvoja poloha sa zaokrúhli približne na 1 km (dve desatinné miesta) a odošle sa službe OpenStreetMap Overpass, aby sa našli mešity v okolí. Ako pri každej internetovej požiadavke sa k tejto službe dostane aj tvoja IP adresa; žiadne ďalšie informácie, ktoré ťa identifikujú, sa neodosielajú. Mesto zistené podľa tvojej polohy sa v zariadení ukladá s rovnakou presnosťou, zaokrúhlené približne na 1 km. Údaje o mešitách © prispievatelia OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Mapa a navigácia (Apple Mapy)",
+        "p": [
+          "Mapy na obrazovkách „Mešity v okolí“ a „Kaaba“ sa zobrazujú pomocou Apple Máp. Mapové podklady sa načítavajú od Apple pre oblasť zobrazenú na obrazovke; ak je povolenie na prístup k polohe udelené, na mape sa zobrazí aj tvoja poloha. Táto služba podlieha zásadám ochrany súkromia spoločnosti Apple.",
+          "Keď ťukneš na tlačidlo „Navigovať“ pri mešite, otvoria sa Apple Mapy s názvom a súradnicami mešity; trasa sa vypočíta v Apple Mapách. Stane sa to len vtedy, keď ťukneš."
+        ]
+      },
+      {
+        "h2": "Nahrávky Koránu",
+        "p": [
+          "Nahrávky veršov sa prehrávajú zo služby Islamic Network (cdn.islamic.network) alebo sa z nej sťahujú do tvojho zariadenia. S každou požiadavkou táto služba dostane: tvoju IP adresu, adresu požadovaného súboru (ktorú súru a verš od ktorého recitátora počúvaš) a štandardný identifikátor prehliadača (User-Agent) obsahujúci verziu aplikácie a iOS. Žiadne iné informácie sa neodosielajú. Nahrávky stiahnuté do zariadenia sa prehrávajú bez siete. Autorské práva k nahrávkam patria recitátorom; zdroj a podmienky použitia nájdeš v aplikácii v O aplikácii › Zdroje a licencie."
+        ]
+      },
+      {
+        "h2": "Zdieľanie",
+        "p": [
+          "Keď ťukneš na tlačidlo „Zdieľať môj pokrok“, súhrn tvojho pokroku (séria, cieľ, počty modlitieb a zikru) sa otvorí v ponuke zdieľania iOS. Text sa dostane len k aplikácii alebo osobe, ktorú vyberieš; Nur nikdy nič nezdieľa sám od seba."
+        ]
+      },
+      {
+        "h2": "Upozornenia",
+        "p": [
+          "Upozornenia na časy modlitieb a pripomienky sa plánujú lokálne v tvojom zariadení. Vzdialené (push) upozornenia sa nepoužívajú; kvôli upozorneniam sa nevykonáva žiadna registrácia na žiadnom serveri."
+        ]
+      },
+      {
+        "h2": "Deti",
+        "p": [
+          "Nur má detský režim. Keďže aplikácia nezbiera osobné údaje od žiadneho používateľa vrátane detí, neprebieha ani žiadne spracúvanie údajov špecifické pre deti."
+        ]
+      },
+      {
+        "h2": "Zmeny",
+        "p": [
+          "Ak sa tieto zásady zmenia, aktuálna verzia bude zverejnená na tejto stránke s novým dátumom účinnosti."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "V prípade otázok:",
+    "iletisimKonu": "Nur – súkromie",
+    "metaBaslik": "Nur – zásady ochrany súkromia",
+    "metaAciklama": "Zásady ochrany súkromia aplikácie Nur: žiadny účet, žiadne reklamy ani sledovanie, údaje zostávajú v tvojom zariadení."
+  }
+}

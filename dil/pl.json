@@ -1,0 +1,202 @@
+{
+  "kod": "pl",
+  "ad": "Polski",
+  "yon": "ltr",
+  "baslik": "Nur: Pory modlitw i Koran",
+  "metaAciklama": "Pory modlitw, lekcje modlitwy 3D, czytanie i słuchanie Koranu, Kibla, licznik zikru. Bez konta, bez reklam, bez zbierania danych.",
+  "nav": {
+    "tanitim": "O aplikacji",
+    "destek": "Pomoc",
+    "gizlilik": "Prywatność",
+    "dil": "Język"
+  },
+  "kahraman": {
+    "simgeAlt": "Ikona aplikacji Nur: złota otwarta księga i światło nad nią",
+    "giris": "Prosty towarzysz, który ułatwia regularne oddawanie czci. Ma tryb dziecięcy i tryb dla dorosłych; nie wymaga konta, nie wyświetla reklam i nie zbiera danych.",
+    "rozet": "Na iOS · wkrótce w App Store"
+  },
+  "nelerVar": "Co zawiera?",
+  "kartlar": [
+    {
+      "ikon": "🕰️",
+      "h3": "Pory modlitw",
+      "p": "12 metod obliczeń, w tym Diyanet, reguły wysokich szerokości geograficznych, powiadomienia o porach modlitw i miesięczny grafik modlitw."
+    },
+    {
+      "ikon": "🧎",
+      "h3": "Modlitwa i wudu w 3D",
+      "p": "Ruchy krok po kroku z postacią mężczyzny, kobiety lub dziecka; można je obracać pod dowolnym kątem, a obok wyświetlane są dua po arabsku."
+    },
+    {
+      "ikon": "📖",
+      "h3": "Koran",
+      "p": "114 sur, czytanie tekstu arabskiego strona po stronie, słuchanie ajat po ajacie w wykonaniu pięciu recytatorów, zakładki i plan chatmu."
+    },
+    {
+      "ikon": "🕋",
+      "h3": "Kibla",
+      "p": "Kompas i mapa razem: kierunek Kaaby, odległość w linii prostej i pobliskie meczety."
+    },
+    {
+      "ikon": "📿",
+      "h3": "Licznik zikru",
+      "p": "Licznik z koralikami tasbihu; różne materiały koralików i lekka wibracja przy każdym dotknięciu."
+    },
+    {
+      "ikon": "🧰",
+      "h3": "Narzędzia",
+      "p": "Obliczanie zakatu i fitry, kalendarz hidżry i błogosławione dni, przypomnienia o suhurze, tahadżudzie i dżumie."
+    },
+    {
+      "ikon": "📱",
+      "h3": "Widżet",
+      "p": "Następna modlitwa i zadania na dziś na ekranie głównym; po dotknięciu otwiera się właściwa sekcja."
+    }
+  ],
+  "gizlilikOzet": {
+    "h2": "Twoja prywatność zostaje przy tobie",
+    "maddeler": [
+      "Bez konta, logowania i serwera.",
+      "Bez reklam, analityki i śledzenia.",
+      "Twoje postępy i ustawienia pozostają tylko na twoim urządzeniu.",
+      "Twoja lokalizacja jest używana na urządzeniu do pór modlitw i Kibli; do wyszukiwania pobliskich meczetów wysyłana jest tylko wersja zaokrąglona do około 1 km."
+    ],
+    "tamMetin": "Przeczytaj pełną politykę prywatności"
+  },
+  "telif": "© 2026 Nur",
+  "ceviriNotu": "To tłumaczenie ma charakter wyłącznie informacyjny; w razie jakichkolwiek rozbieżności rozstrzygający jest tekst turecki.",
+  "destek": {
+    "h1": "Pomoc",
+    "giris": "Poniżej znajdziesz najczęstsze sytuacje i sposoby ich rozwiązania. Jeśli nie znajdziesz odpowiedzi, napisz do nas.",
+    "sssBaslik": "Najczęściej zadawane pytania",
+    "sss": [
+      {
+        "soru": "Pory modlitw wyglądają na błędne",
+        "giris": "Pory są obliczane na podstawie wybranej lokalizacji i metody obliczeń. Sprawdź kolejno:",
+        "adimlar": [
+          "<strong>Lokalizacja:</strong> karta Ja › Lokalizacja. Dotknij „Znajdź moją lokalizację automatycznie” albo wybierz swoje miasto z listy. Jeśli wybrane jest inne miasto, pory będą podawane dla tego miasta.",
+          "<strong>Metoda obliczeń:</strong> karta Ja › Metoda obliczeń. W Turcji wybierz Prezydium ds. Religii (Diyanet); opcja „Automatycznie według miasta” wybiera metodę kraju, w którym jesteś.",
+          "<strong>Pora asr:</strong> na tym samym ekranie sprawdź wybór: wcześniejszy asr lub późniejszy asr; różnica między nimi może wynosić prawie godzinę.",
+          "<strong>Data hidżry:</strong> jeśli kalendarz hidżry różni się o jeden dzień, w Narzędzia › Kalendarz hidżry możesz ustawić korektę o ±2 dni."
+        ],
+        "son": "Różnica kilku minut w stosunku do oficjalnego kalendarza może wynikać z marginesu ostrożności i jest normalna."
+      },
+      {
+        "soru": "Powiadomienia nie przychodzą",
+        "adimlar": [
+          "Na iPhonie otwórz <strong>Ustawienia › Powiadomienia › Nur</strong>; opcja „Pozwalaj na powiadomienia” musi być włączona.",
+          "Jeśli włączony jest tryb skupienia (Nie przeszkadzać, Sen), dodaj Nur do dozwolonych aplikacji.",
+          "W aplikacji opcja <strong>karta Ja › Powiadomienie o azanie</strong> musi być włączona. Przypomnienia o suhurze, tahadżudzie i dżumie znajdziesz w <strong>Narzędzia › Przypomnienia</strong>.",
+          "Gdy zmienisz lokalizację, powiadomienia zostaną automatycznie zaplanowane na nowo według nowych pór.",
+          "iOS ogranicza liczbę powiadomień, które aplikacja może zaplanować z wyprzedzeniem; Nur planuje pory modlitw na około tydzień. Jeśli otworzysz aplikację co najmniej raz w tygodniu, powiadomienia będą przychodzić bez przerw."
+        ]
+      },
+      {
+        "soru": "Kierunek Kibli się przesuwa",
+        "adimlar": [
+          "Skalibruj kompas, kilka razy zataczając telefonem w powietrzu ósemkę.",
+          "Odsuń się od etui z magnesem, głośników, metalowych stołów i urządzeń elektronicznych; zakłócają one działanie kompasu.",
+          "Upewnij się, że opcja <strong>Ustawienia › Prywatność i ochrona › Usługi lokalizacji › Usługi systemowe › Kalibracja kompasu</strong> jest włączona.",
+          "Upewnij się, że twoja lokalizacja jest prawidłowa: kąt Kibli jest obliczany na podstawie wybranej lokalizacji."
+        ]
+      },
+      {
+        "soru": "Nagrania Koranu nie odtwarzają się lub nie pobierają",
+        "adimlar": [
+          "Nagrania ajatów pochodzą z internetu. Sprawdź połączenie Wi-Fi lub komórkowe; w Ustawienia › Sieć komórkowa dostęp Nur do danych komórkowych musi być włączony.",
+          "Jeśli pobieranie przerwało się w połowie, spróbuj ponownie: częściowo pobrane pliki są usuwane, a pobieranie zostaje wykonane od początku.",
+          "Pobrane sury odtwarzają się bez sieci. Pobrane pliki możesz zobaczyć i usunąć w Czytaj Koran › Ustawienia czytania.",
+          "Przycisk słuchania jest dostępny tylko przy dua pochodzących z ajatów Koranu; przy pozostałych dua nie ma przycisku."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "Pytania, sugestie lub zgłoszenia błędów:",
+    "iletisimKonu": "Nur – pomoc",
+    "iletisimNot": "Jeśli w wiadomości podasz model iPhone'a, wersję iOS i wybrane miasto, pomożemy szybciej.",
+    "metaBaslik": "Nur – pomoc",
+    "metaAciklama": "Najczęściej zadawane pytania i kontakt dotyczące aplikacji Nur."
+  },
+  "gizlilik": {
+    "h1": "Polityka prywatności",
+    "tarih": "Data wejścia w życie: 27 września 2026 r.",
+    "giris": "Niniejsza polityka wyjaśnia, jakie informacje i w jaki sposób wykorzystuje aplikacja Nur: Pory modlitw i Koran na iOS („Nur”). W skrócie: Nur nie ma serwera i nie zbiera od ciebie danych osobowych. Niektóre funkcje, aby działać, wysyłają zapytania do usług podmiotów trzecich, wymienionych poniżej jedna po drugiej.",
+    "bolumler": [
+      {
+        "h2": "Bez konta",
+        "p": [
+          "Aby korzystać z Nur, nie musisz zakładać konta, logować się ani podawać danych takich jak adres e-mail czy numer telefonu. Aplikacja nie ma serwera."
+        ]
+      },
+      {
+        "h2": "Bez reklam, analityki i śledzenia",
+        "p": [
+          "Nur nie wyświetla reklam; nie zawiera narzędzi analitycznych, raportowania awarii ani śledzenia. Nie śledzi cię w innych aplikacjach i witrynach i nie korzysta z identyfikatora reklamowego."
+        ]
+      },
+      {
+        "h2": "Twoje dane pozostają na twoim urządzeniu",
+        "p": [
+          "Imię, które opcjonalnie wpiszesz, wybrane miasto, twoje ustawienia, postępy w modlitwach i zadaniach, postępy w czytaniu Koranu oraz zakładki są przechowywane tylko na twoim urządzeniu. Jeśli kopia zapasowa iCloud twojego iPhone'a jest włączona, dane te również do niej trafiają; ta kopia należy do twojego konta Apple i nie może zostać odczytana przez Nur. Pobrane nagrania ajatów również pozostają na twoim urządzeniu, ale ponieważ można je pobrać ponownie, nie są uwzględniane w kopii zapasowej; iOS może je usunąć, aby zwolnić miejsce, a w razie potrzeby zostaną pobrane ponownie. Jeśli włączysz widżet ekranu głównego, krótkie podsumowanie (następna modlitwa, zadania na dziś) jest zapisywane we wspólnym obszarze na twoim urządzeniu, aby widżet mógł je wyświetlić.",
+          "Profil wybrany przy pierwszym uruchomieniu (dziecko, dorosły mężczyzna lub dorosła kobieta; w przypadku dziecka dziewczynka lub chłopiec) oraz twój mazhab również są przechowywane tylko na twoim urządzeniu; służą do objaśnień modlitwy, wyboru postaci i obliczania pory asr i nigdy nie są nigdzie wysyłane.",
+          "Gdy usuniesz aplikację, wszystkie dane Nur na urządzeniu zostaną usunięte razem z nią."
+        ]
+      },
+      {
+        "h2": "Tryb szczególnych dni",
+        "p": [
+          "Tryb szczególnych dni, który można włączyć w profilach kobiety i dziewczynki, oraz informacja o tym, w które dni był włączony, są przechowywane wyłącznie we własnej pamięci aplikacji, na twoim urządzeniu. Ta informacja nigdy nie jest wysyłana na żaden serwer; nie jest zapisywana we wspólnym obszarze, z którego korzysta widżet ekranu głównego, nie pojawia się w treści powiadomień i nie jest rejestrowana (nie są prowadzone żadne logi). Widżet i powiadomienia wyglądają tak samo niezależnie od tego, czy tryb szczególnych dni jest włączony, czy wyłączony. Po jego wyłączeniu minione dni pozostają na urządzeniu najwyżej przez 90 dni, wyłącznie na potrzeby obliczania serii; gdy usuniesz aplikację, ta informacja również zostanie usunięta. Jeśli kopia zapasowa iCloud twojego iPhone'a jest włączona, informacja ta trafia do niej razem z pozostałymi danymi aplikacji."
+        ]
+      },
+      {
+        "h2": "Lokalizacja",
+        "p": [
+          "Jeśli udzielisz zgody na dostęp do lokalizacji, twoja lokalizacja jest używana na urządzeniu do obliczania pór modlitw i kierunku Kibli. Jeśli nie udzielisz tej zgody, możesz wybrać swoje miasto z listy.",
+          "Gdy otworzysz ekran „Pobliskie meczety”, twoja lokalizacja jest zaokrąglana do około 1 km (dwa miejsca po przecinku) i wysyłana do usługi OpenStreetMap Overpass w celu znalezienia meczetów w pobliżu. Jak przy każdym zapytaniu internetowym, do tej usługi trafia również twój adres IP; żadne inne informacje pozwalające cię zidentyfikować nie są wysyłane. Miasto ustalone na podstawie twojej lokalizacji jest przechowywane na urządzeniu z tą samą dokładnością, zaokrąglone do około 1 km. Dane o meczetach © współtwórcy OpenStreetMap (ODbL)."
+        ]
+      },
+      {
+        "h2": "Mapa i trasa (Apple Mapy)",
+        "p": [
+          "Mapy na ekranach „Pobliskie meczety” i „Kaaba” są wyświetlane za pomocą Apple Map. Obrazy mapy są pobierane z serwerów Apple dla obszaru widocznego na ekranie; jeśli udzielono zgody na dostęp do lokalizacji, twoja lokalizacja jest również pokazywana na mapie. Usługa ta podlega polityce prywatności Apple.",
+          "Gdy dotkniesz przycisku „Trasa” przy meczecie, otworzą się Apple Mapy z nazwą i współrzędnymi meczetu; trasa jest wyznaczana w Apple Mapach. Dzieje się to tylko wtedy, gdy dotkniesz przycisku."
+        ]
+      },
+      {
+        "h2": "Nagrania Koranu",
+        "p": [
+          "Nagrania ajatów są odtwarzane z usługi Islamic Network (cdn.islamic.network) lub pobierane z niej na twoje urządzenie. Przy każdym zapytaniu usługa ta otrzymuje: twój adres IP, adres żądanego pliku (którego recytatora i którą surę oraz ajat słuchasz) oraz standardowy identyfikator przeglądarki (User-Agent) zawierający wersje aplikacji i iOS. Żadne inne informacje nie są wysyłane. Nagrania pobrane na urządzenie odtwarzają się bez sieci. Prawa autorskie do nagrań należą do recytatorów; źródło i warunki korzystania znajdują się w aplikacji w O aplikacji › Źródła i licencje."
+        ]
+      },
+      {
+        "h2": "Udostępnianie",
+        "p": [
+          "Gdy dotkniesz przycisku „Udostępnij postępy”, podsumowanie twoich postępów (seria, cel, liczba modlitw i zikrów) otwiera się w arkuszu udostępniania iOS. Tekst trafia tylko do wybranej przez ciebie aplikacji lub osoby; Nur nigdy niczego nie udostępnia samodzielnie."
+        ]
+      },
+      {
+        "h2": "Powiadomienia",
+        "p": [
+          "Powiadomienia o porach modlitw i przypomnienia są planowane lokalnie na twoim urządzeniu. Powiadomienia zdalne (push) nie są używane; na potrzeby powiadomień nie jest dokonywana żadna rejestracja na jakimkolwiek serwerze."
+        ]
+      },
+      {
+        "h2": "Dzieci",
+        "p": [
+          "Nur ma tryb dziecięcy. Ponieważ aplikacja nie zbiera danych osobowych od żadnego użytkownika, w tym od dzieci, nie ma też przetwarzania danych właściwego dla dzieci."
+        ]
+      },
+      {
+        "h2": "Zmiany",
+        "p": [
+          "Jeśli niniejsza polityka ulegnie zmianie, aktualna wersja zostanie opublikowana na tej stronie z nową datą wejścia w życie."
+        ]
+      }
+    ],
+    "iletisimBaslik": "Kontakt",
+    "iletisim": "W razie pytań:",
+    "iletisimKonu": "Nur – prywatność",
+    "metaBaslik": "Nur – polityka prywatności",
+    "metaAciklama": "Polityka prywatności aplikacji Nur: bez konta, bez reklam i śledzenia, dane pozostają na twoim urządzeniu."
+  }
+}

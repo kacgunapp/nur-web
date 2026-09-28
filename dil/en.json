@@ -25,12 +25,12 @@
     {
       "ikon": "🧎",
       "h3": "3D prayer and wudu",
-      "p": "Step-by-step movements with a man, woman or child figure; rotate to any angle, with the supplications alongside."
+      "p": "Step-by-step movements with a man, woman or child figure; rotate to any angle, with the supplications in Arabic alongside."
     },
     {
       "ikon": "📖",
       "h3": "Qur'an",
-      "p": "114 surahs, page-by-page reading, transliteration, verse-by-verse listening from five reciters, bookmarks and a khatm plan."
+      "p": "114 surahs, page-by-page reading of the Arabic text, verse-by-verse listening from five reciters, bookmarks and a khatm plan."
     },
     {
       "ikon": "🕋",
@@ -76,7 +76,7 @@
         "adimlar": [
           "<strong>Location:</strong> Me tab › Location. Tap “Find my location automatically” or pick your city from the list. If another city is selected, the times will be for that city.",
           "<strong>Calculation method:</strong> Me tab › Calculation method. For Turkey choose Presidency of Religious Affairs (Diyanet); “Automatic by city” picks the method of the country you're in.",
-          "<strong>Asr time:</strong> On the same screen, check the Earlier Asr (Diyanet) or Later Asr choice; the two can differ by close to an hour.",
+          "<strong>Asr time:</strong> On the same screen, check the earlier Asr or later Asr choice; the two can differ by close to an hour.",
           "<strong>Hijri date:</strong> If the Hijri calendar is off by a day, you can set a ±2 day correction in Tools › Hijri calendar."
         ],
         "son": "A difference of a few minutes from the official calendar can come from a safety margin and is normal."
