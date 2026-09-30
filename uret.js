@@ -37,7 +37,7 @@ function yapiKontrol(a, b, yol, kod) {
     for (const k of Object.keys(b)) if (!(k in a)) throw new Error(`${kod}: ${yol}.${k} Türkçede yok`);
   } else if (typeof a === "string" && typeof b !== "string") throw new Error(`${kod}: ${yol} metin değil`);
 }
-for (const d of KOD.map(oku).filter(Boolean)) if (d.kod !== "tr") yapiKontrol(trD, d, "", d.kod);   // kapalı dillerin kaynağı da tutarlı kalsın
+for (const d of diller) if (d.kod !== "tr") yapiKontrol(trD, d, "", d.kod);   // yalnız açık diller: çeviri dondurması süresince kapalı dillerin kaynağı bayat kalabilir (ÇEVİRİ FAZI yeniler)
 
 const on = (kod) => (kod === "tr" ? "" : "../");                     // kökten göreli varlık yolu
 const sayfaUrl = (kod, sayfa) => `${SITE}${kod === "tr" ? "" : kod + "/"}${sayfa === "index" ? "" : sayfa + ".html"}`;

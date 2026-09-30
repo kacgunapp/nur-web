@@ -3,7 +3,7 @@
   "ad": "Türkçe",
   "yon": "ltr",
   "baslik": "Muslimly: Namaz ve Kur'an",
-  "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma ve dinleme, kıble, zikirmatik. Hesap yok, reklam yok, veri toplamaz.",
+  "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma, kıble, zikirmatik. Hesap yok, reklam yok, veri toplamaz.",
   "nav": {
     "tanitim": "Tanıtım",
     "destek": "Destek",
@@ -101,12 +101,10 @@
         ]
       },
       {
-        "soru": "Kur'an sesi çalmıyor ya da indirilemiyor",
+        "soru": "Kur'an ya da dua sesi düğmesi görünmüyor",
         "adimlar": [
-          "Ayet sesleri internetten gelir. Wi-Fi ya da hücresel bağlantını kontrol et; Ayarlar › Hücresel'de Muslimly'nin mobil veri izni açık olmalı.",
-          "İndirme yarıda kaldıysa tekrar dene: yarım inen dosyalar silinir, indirme baştan tamamlanır.",
-          "İndirilen sûreler ağ olmadan çalar. Kur'an oku › okuma ayarları'ndan indirilenleri görebilir ve silebilirsin.",
-          "Dinleme düğmesi yalnız Kur'an ayetlerinden gelen dualarda bulunur; diğer dualarda düğme görünmez."
+          "Sesler uygulamanın içinde gelir, internetten indirilmez. Dinle düğmesi yalnız kaydı uygulamaya eklenmiş sûre ve dualarda görünür.",
+          "Kaydı olmayan sûre ve dualarda düğme hiç çizilmez; Arapça metin ve okunuş her zaman okunabilir."
         ]
       }
     ],
@@ -119,7 +117,7 @@
   },
   "gizlilik": {
     "h1": "Gizlilik Politikası",
-    "tarih": "Yürürlük tarihi: 27 Eylül 2026",
+    "tarih": "Yürürlük tarihi: 30 Eylül 2026",
     "giris": "Bu politika, iOS için Muslimly: Namaz ve Kur'an uygulamasının (“Muslimly”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Muslimly'nin bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
     "bolumler": [
       {
@@ -163,15 +161,23 @@
         ]
       },
       {
-        "h2": "Kur'an sesleri",
+        "h2": "Kur'an ve dua sesleri",
         "p": [
-          "Ayet sesleri Islamic Network hizmetinden (cdn.islamic.network) çalınır ya da cihaza indirilir. Her istekte bu hizmete şunlar ulaşır: IP adresin, istenen dosyanın adresi (hangi kârinin hangi sûre ve ayetinin dinlendiği) ve uygulamanın ve iOS sürümünün yer aldığı standart tarayıcı kimliği (User-Agent). Başka bir bilgi gönderilmez. Cihaza indirilen sesler ağ olmadan çalar. Kayıtların telifi kârilere aittir; kaynak ve kullanım şartları uygulamada Hakkında › Kaynaklar ve lisanslar bölümündedir."
+          "Sesler uygulamanın içinde gelir; çalmak için hiçbir hizmete istek gönderilmez. Önceki sürümlerin internetten cihaza indirdiği ayet sesleri, uygulama güncellendikten sonraki ilk açılışta cihazdan silinir."
         ]
       },
       {
         "h2": "Paylaşım",
         "p": [
           "“İlerlememi paylaş” düğmesine dokunduğunda ilerleme özetin (seri, hedef, namaz ve zikir sayıları) iOS paylaşım menüsüyle açılır. Metin yalnız senin seçtiğin uygulamaya ya da kişiye gider; Muslimly kendiliğinden hiçbir şey paylaşmaz."
+        ]
+      },
+      {
+        "h2": "Satın almalar",
+        "p": [
+          "Muslimly'nin bu sürümünde satın alma yoktur; aşağıdaki hizmet etkin değildir ve hiçbir istek göndermez.",
+          "İleride isteğe bağlı Premium abonelik sunulursa: satın alma ve ödeme Apple tarafından işlenir; Muslimly ödeme bilgilerini görmez. Aboneliğinin geçerli olup olmadığını doğrulamak için RevenueCat (RevenueCat, Inc.) hizmeti kullanılır. Bu hizmete rastgele üretilmiş, adın ya da Apple Kimliğinle ilişkilendirilmeyen bir kullanıcı numarası, satın alma geçmişi (ürün, tarih, fiyat, para birimi, ülke) ve uygulamanın ve iOS'un sürümü gider. Bu bilgiler reklam ya da izleme için kullanılmaz ve üçüncü taraflarla bu amaçla paylaşılmaz. RevenueCat'in gizlilik politikası: revenuecat.com/privacy.",
+          "Aboneliğini App Store hesap ayarlarından yönetebilir ya da iptal edebilirsin; iade talepleri Apple üzerinden yapılır."
         ]
       },
       {
