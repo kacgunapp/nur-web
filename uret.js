@@ -1,5 +1,5 @@
 /* ============================================================
-   Nur tanıtım sitesi — çok dilli sayfa üreticisi (uygulamanın dilleri)
+   Muslimly tanıtım sitesi — çok dilli sayfa üreticisi (uygulamanın dilleri)
    Kaynak: dil/<kod>.json (Türkçe esas; çeviriler aynı yapıda).
    Çıktı: Türkçe kökte (index/destek/gizlilik.html — adresler değişmez),
    öbür diller /<kod>/ altında. Her sayfada hreflang alternatifleri,
@@ -12,7 +12,7 @@ const KOK = __dirname;
 /* Uygulamanın dil listesiyle aynı sıra (nur/src/dil/diller.json) */
 const KOD = ["tr", "en", "ar", "de", "fr", "id", "ms", "ur", "fa", "ru", "bs", "az", "es", "it", "pt-BR", "pt-PT", "nl", "ca", "ro", "da", "sv", "nb", "fi", "pl", "cs", "sk", "sl", "hr", "hu", "el", "uk", "he", "vi", "th", "ja", "ko", "zh-Hans", "zh-Hant", "hi", "bn", "mr", "gu", "pa", "or", "ta", "te", "kn", "ml"];
 const RTL = ["ar", "ur", "fa", "he"];
-const SITE = "https://kacgunapp.github.io/nur-web/";      // GitHub Pages kökü
+const SITE = "https://kacgunapp.github.io/muslimly-web/";      // GitHub Pages kökü
 const EPOSTA = "dogac@teknikaotomasyon.com";
 
 const kacis = (s) => String(s).replace(/&(?!(amp|lt|gt|quot|#\d+);)/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -62,7 +62,7 @@ ${alternatif}
 <body>
 <header class="ust">
   <div class="ic">
-    <a class="marka" href="./"><img src="${on(d.kod)}favicon.png" alt="" width="36" height="36">Nur</a>
+    <a class="marka" href="./"><img src="${on(d.kod)}favicon.png" alt="" width="36" height="36">Muslimly</a>
     <nav aria-label="Site">
       <a href="./"${sayfa === "index" ? ' aria-current="page"' : ""}>${kacis(d.nav.tanitim)}</a>
       <a href="destek.html"${sayfa === "destek" ? ' aria-current="page"' : ""}>${kacis(d.nav.destek)}</a>

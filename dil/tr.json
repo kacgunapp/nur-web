@@ -2,7 +2,7 @@
   "kod": "tr",
   "ad": "Türkçe",
   "yon": "ltr",
-  "baslik": "Nur: Namaz Vakti ve Kur'an",
+  "baslik": "Muslimly: Namaz ve Kur'an",
   "metaAciklama": "Namaz vakitleri, 3B namaz öğretimi, Kur'an okuma ve dinleme, kıble, zikirmatik. Hesap yok, reklam yok, veri toplamaz.",
   "nav": {
     "tanitim": "Tanıtım",
@@ -11,7 +11,7 @@
     "dil": "Dil"
   },
   "kahraman": {
-    "simgeAlt": "Nur uygulama simgesi: altın açık kitap ve üstünde nur",
+    "simgeAlt": "Muslimly uygulama simgesi: altın açık kitap ve üstünde nur",
     "giris": "İbadeti düzenli kılmayı kolaylaştıran sade bir yardımcı. Çocuk ve yetişkin modu var; hesap istemez, reklam göstermez, veri toplamaz.",
     "rozet": "iOS için · yakında App Store'da"
   },
@@ -63,7 +63,7 @@
     ],
     "tamMetin": "Gizlilik politikasının tamamı"
   },
-  "telif": "© 2026 Nur",
+  "telif": "© 2026 Doğaç Turan",
   "ceviriNotu": "",
   "destek": {
     "h1": "Destek",
@@ -84,11 +84,11 @@
       {
         "soru": "Bildirim gelmiyor",
         "adimlar": [
-          "iPhone'da <strong>Ayarlar › Bildirimler › Nur</strong> yolunu aç; “Bildirimlere İzin Ver” açık olmalı.",
-          "Odak (Rahatsız Etme, Uyku) modu açıksa Nur'u izin verilen uygulamalara ekle.",
+          "iPhone'da <strong>Ayarlar › Bildirimler › Muslimly</strong> yolunu aç; “Bildirimlere İzin Ver” açık olmalı.",
+          "Odak (Rahatsız Etme, Uyku) modu açıksa Muslimly'yi izin verilen uygulamalara ekle.",
           "Uygulamada <strong>Ben sekmesi › Ezan bildirimi</strong> açık olmalı. Sahur, teheccüd ve cuma hatırlatmaları için <strong>Araçlar › Hatırlatmalar</strong>.",
           "Konumu değiştirdiğinde bildirimler yeni vakitlere göre kendiliğinden yeniden kurulur.",
-          "iOS bir uygulamanın önceden kurabileceği bildirim sayısını sınırlar; Nur yaklaşık bir haftalık vakti planlar. Uygulamayı en az haftada bir açarsan bildirimler kesintisiz sürer."
+          "iOS bir uygulamanın önceden kurabileceği bildirim sayısını sınırlar; Muslimly yaklaşık bir haftalık vakti planlar. Uygulamayı en az haftada bir açarsan bildirimler kesintisiz sürer."
         ]
       },
       {
@@ -103,7 +103,7 @@
       {
         "soru": "Kur'an sesi çalmıyor ya da indirilemiyor",
         "adimlar": [
-          "Ayet sesleri internetten gelir. Wi-Fi ya da hücresel bağlantını kontrol et; Ayarlar › Hücresel'de Nur'un mobil veri izni açık olmalı.",
+          "Ayet sesleri internetten gelir. Wi-Fi ya da hücresel bağlantını kontrol et; Ayarlar › Hücresel'de Muslimly'nin mobil veri izni açık olmalı.",
           "İndirme yarıda kaldıysa tekrar dene: yarım inen dosyalar silinir, indirme baştan tamamlanır.",
           "İndirilen sûreler ağ olmadan çalar. Kur'an oku › okuma ayarları'ndan indirilenleri görebilir ve silebilirsin.",
           "Dinleme düğmesi yalnız Kur'an ayetlerinden gelen dualarda bulunur; diğer dualarda düğme görünmez."
@@ -112,34 +112,34 @@
     ],
     "iletisimBaslik": "İletişim",
     "iletisim": "Soru, öneri ya da hata bildirimi için:",
-    "iletisimKonu": "Nur destek",
+    "iletisimKonu": "Muslimly destek",
     "iletisimNot": "Yazarken iPhone modelini, iOS sürümünü ve seçili şehrini eklersen daha hızlı yardımcı olabiliriz.",
-    "metaBaslik": "Nur Destek",
-    "metaAciklama": "Nur uygulaması için sık sorulan sorular ve iletişim."
+    "metaBaslik": "Muslimly Destek",
+    "metaAciklama": "Muslimly uygulaması için sık sorulan sorular ve iletişim."
   },
   "gizlilik": {
     "h1": "Gizlilik Politikası",
     "tarih": "Yürürlük tarihi: 27 Eylül 2026",
-    "giris": "Bu politika, iOS için Nur: Namaz Vakti ve Kur'an uygulamasının (“Nur”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Nur'un bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
+    "giris": "Bu politika, iOS için Muslimly: Namaz ve Kur'an uygulamasının (“Muslimly”) hangi bilgileri nasıl kullandığını açıklar. Kısaca: Muslimly'nin bir sunucusu yoktur ve senden kişisel veri toplamaz. Bazı özellikler çalışmak için aşağıda tek tek yazılı üçüncü taraf hizmetlere istek gönderir.",
     "bolumler": [
       {
         "h2": "Hesap yok",
         "p": [
-          "Nur'u kullanmak için hesap açman, giriş yapman ya da e-posta, telefon gibi bilgiler vermen gerekmez. Uygulamanın bir sunucusu yoktur."
+          "Muslimly'yi kullanmak için hesap açman, giriş yapman ya da e-posta, telefon gibi bilgiler vermen gerekmez. Uygulamanın bir sunucusu yoktur."
         ]
       },
       {
         "h2": "Reklam, analitik ve izleme yok",
         "p": [
-          "Nur reklam göstermez; analitik, çökme raporlama ya da izleme araçları içermez. Seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez."
+          "Muslimly reklam göstermez; analitik, çökme raporlama ya da izleme araçları içermez. Seni uygulamalar ve web siteleri arasında izlemez, reklam kimliğine erişmez."
         ]
       },
       {
         "h2": "Verilerin cihazında kalır",
         "p": [
-          "İsteğe bağlı olarak yazdığın ad, seçtiğin şehir, ayarların, namaz ve görev ilerlemen, Kur'an okuma ilerlemen ve yer imlerin yalnız cihazında saklanır. Bu veriler, açıksa iPhone'unun iCloud yedeğine de dahil olur; bu yedek Apple hesabına aittir ve Nur tarafından okunamaz. İndirdiğin ayet sesleri de cihazında durur, ancak yeniden indirilebildikleri için yedeğe alınmaz; iOS yer açmak için bunları silebilir, gerektiğinde yeniden indirilir. Ana ekran widget'ını açarsan, widget'ın gösterebilmesi için kısa bir özet (sıradaki vakit, günün görevleri) yine cihazındaki ortak alana yazılır.",
+          "İsteğe bağlı olarak yazdığın ad, seçtiğin şehir, ayarların, namaz ve görev ilerlemen, Kur'an okuma ilerlemen ve yer imlerin yalnız cihazında saklanır. Bu veriler, açıksa iPhone'unun iCloud yedeğine de dahil olur; bu yedek Apple hesabına aittir ve Muslimly tarafından okunamaz. İndirdiğin ayet sesleri de cihazında durur, ancak yeniden indirilebildikleri için yedeğe alınmaz; iOS yer açmak için bunları silebilir, gerektiğinde yeniden indirilir. Ana ekran widget'ını açarsan, widget'ın gösterebilmesi için kısa bir özet (sıradaki vakit, günün görevleri) yine cihazındaki ortak alana yazılır.",
           "İlk açılışta seçtiğin profil (çocuk, yetişkin erkek ya da yetişkin kadın; çocuksa kız ya da erkek) ve mezhep de yalnız cihazında saklanır; namaz anlatımı, figür ve ikindi vaktinin hesabı için kullanılır, hiçbir yere gönderilmez.",
-          "Uygulamayı sildiğinde cihazdaki bütün Nur verileri de silinir."
+          "Uygulamayı sildiğinde cihazdaki bütün Muslimly verileri de silinir."
         ]
       },
       {
@@ -171,7 +171,7 @@
       {
         "h2": "Paylaşım",
         "p": [
-          "“İlerlememi paylaş” düğmesine dokunduğunda ilerleme özetin (seri, hedef, namaz ve zikir sayıları) iOS paylaşım menüsüyle açılır. Metin yalnız senin seçtiğin uygulamaya ya da kişiye gider; Nur kendiliğinden hiçbir şey paylaşmaz."
+          "“İlerlememi paylaş” düğmesine dokunduğunda ilerleme özetin (seri, hedef, namaz ve zikir sayıları) iOS paylaşım menüsüyle açılır. Metin yalnız senin seçtiğin uygulamaya ya da kişiye gider; Muslimly kendiliğinden hiçbir şey paylaşmaz."
         ]
       },
       {
@@ -183,7 +183,7 @@
       {
         "h2": "Çocuklar",
         "p": [
-          "Nur'un çocuk modu vardır. Uygulama hiçbir kullanıcıdan, çocuklar dahil, kişisel veri toplamadığı için çocuklara özel bir veri işleme de yoktur."
+          "Muslimly'nin çocuk modu vardır. Uygulama hiçbir kullanıcıdan, çocuklar dahil, kişisel veri toplamadığı için çocuklara özel bir veri işleme de yoktur."
         ]
       },
       {
@@ -195,8 +195,8 @@
     ],
     "iletisimBaslik": "İletişim",
     "iletisim": "Sorular için:",
-    "iletisimKonu": "Nur gizlilik",
-    "metaBaslik": "Nur Gizlilik Politikası",
-    "metaAciklama": "Nur uygulamasının gizlilik politikası: hesap yok, reklam ve izleme yok, veriler cihazda kalır."
+    "iletisimKonu": "Muslimly gizlilik",
+    "metaBaslik": "Muslimly Gizlilik Politikası",
+    "metaAciklama": "Muslimly uygulamasının gizlilik politikası: hesap yok, reklam ve izleme yok, veriler cihazda kalır."
   }
 }
